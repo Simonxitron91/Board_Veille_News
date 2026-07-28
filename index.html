@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille IA & Monde — Board quotidien</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="stamp-header">
+  <h1>Veille <span>IA</span> & Monde</h1>
+  <div class="stamp-meta">
+    <span class="badge mono">DOSSIER QUOTIDIEN</span>
+    <div id="updated-badge" class="mono">chargement...</div>
+  </div>
+</header>
+
+<div class="layout">
+  <nav class="day-rail" id="day-rail"></nav>
+
+  <main class="content">
+    <div class="updated-line mono" id="updated-line"></div>
+    <div class="ticker" id="ticker"></div>
+    <div id="categories"></div>
+
+    <section class="invest-box">
+      <h2>Repères Investissement</h2>
+      <ul class="invest-signals" id="invest-signals"></ul>
+      <p class="invest-framework" id="invest-framework"></p>
+      <p class="invest-disclaimer" id="invest-disclaimer"></p>
+    </section>
+  </main>
+</div>
+
+<footer>
+  Généré automatiquement à partir de flux RSS publics · Board perso · Ne constitue pas un conseil financier personnalisé
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

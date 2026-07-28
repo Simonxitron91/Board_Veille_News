@@ -1,0 +1,17 @@
+{
+  "weekday": "mercredi",
+  "generated_at": null,
+  "categories": {
+    "ia": {"label": "Intelligence Artificielle", "items": []},
+    "cyber": {"label": "Cybersécurité", "items": []},
+    "economie": {"label": "Économie & Marchés", "items": []},
+    "geopolitique": {"label": "Géopolitique & Général", "items": []},
+    "science": {"label": "Science", "items": []},
+    "politique": {"label": "Politique", "items": []}
+  },
+  "investissement": {
+    "signaux": [],
+    "framework": "En attente de la première exécution automatique (voir README pour activer le workflow GitHub Actions).",
+    "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée."
+  }
+}

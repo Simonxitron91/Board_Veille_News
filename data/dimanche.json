@@ -1,0 +1,100 @@
+{
+  "weekday": "dimanche",
+  "generated_at": "2026-07-26T10:00:00Z",
+  "categories": {
+    "ia": {
+      "label": "Intelligence Artificielle",
+      "items": [
+        {
+          "title": "L'AI Act européen approche de son échéance du 2 août",
+          "summary": "Les entreprises qui n'ont pas engagé leur mise en conformité entrent dans une zone grise réglementaire, avec des sanctions pouvant atteindre 7% du chiffre d'affaires mondial en cas de non-conformité.",
+          "source": "ia-info.fr",
+          "url": "https://www.ia-info.fr",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "Licenciements tech liés à l'IA en hausse",
+          "summary": "TechCrunch fait le point sur les grandes entreprises technologiques ayant annoncé des vagues de licenciements cette année, avec l'automatisation par l'IA identifiée comme facteur déterminant.",
+          "source": "TechCrunch (via ia-insights)",
+          "url": "https://www.ia-insights.fr/actualites-ia/",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "Litige Meta / Vixen sur l'entraînement des modèles",
+          "summary": "Un studio de production accuse Meta d'avoir utilisé des milliers de vidéos protégées par le droit d'auteur pour entraîner ses modèles d'IA. Meta conteste les accusations.",
+          "source": "ia-insights.fr",
+          "url": "https://www.ia-insights.fr/actualites-ia/",
+          "date": "2026-07-26"
+        }
+      ]
+    },
+    "cyber": {
+      "label": "Cybersécurité",
+      "items": [
+        {
+          "title": "Extorsion automatisée et fuites de données en hausse",
+          "summary": "Le groupe Titan automatise l'analyse de données volées pour calculer des rançons ; Anubis cible Coca-Cola/Fairlife et Coinbase Cartel vise Caterpillar. Une attaque autonome a également touché Hugging Face.",
+          "source": "ZATAZ",
+          "url": "https://www.zataz.com",
+          "date": "2026-07-24"
+        }
+      ]
+    },
+    "economie": {
+      "label": "Économie & Marchés",
+      "items": [
+        {
+          "title": "CAC 40 porté par Airbus, tensions sur le pétrole",
+          "summary": "Le CAC 40 a enchaîné une troisième hausse, porté par Airbus et l'énergie, tandis que le Brent poursuit sa remontée et que les taux obligataires français se tendent, proches de 4%.",
+          "source": "Invesse",
+          "url": "https://invesse.fr",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "Ralentissement du PIB chinois",
+          "summary": "La dernière publication du PIB chinois affiche une croissance de 4,3%, en retrait par rapport aux 5% précédents et sous les attentes des analystes.",
+          "source": "Café de la Bourse",
+          "url": "https://www.cafedutrading.com",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "Semaine chargée pour les banques centrales",
+          "summary": "IPC canadien, emploi australien et décision de taux de la BCE figurent parmi les publications à fort impact attendues cette semaine sur les marchés des changes.",
+          "source": "MQL5 Blogues",
+          "url": "https://www.mql5.com/fr/blogs",
+          "date": "2026-07-22"
+        }
+      ]
+    },
+    "geopolitique": {
+      "label": "Géopolitique & Général",
+      "items": [
+        {
+          "title": "Tensions au Proche-Orient et marchés de l'énergie",
+          "summary": "La reprise du conflit au Proche-Orient et les menaces d'escalade continuent d'alimenter la volatilité du prix du Brent, qui a atteint 94 dollars.",
+          "source": "Proximité Courtage",
+          "url": "https://proximite-courtage.fr",
+          "date": "2026-07-22"
+        }
+      ]
+    },
+    "science": {
+      "label": "Science",
+      "items": []
+    },
+    "politique": {
+      "label": "Politique",
+      "items": []
+    }
+  },
+  "investissement": {
+    "signaux": [
+      "Volatilité énergie/pétrole en hausse (tensions Proche-Orient)",
+      "Secteur semi-conducteurs sous pression après une correction marquée (Nvidia)",
+      "Échéance réglementaire AI Act (2 août) à surveiller pour les valeurs tech IA européennes",
+      "Ralentissement de la croissance chinoise à surveiller pour les valeurs exposées à l'export"
+    ],
+    "framework": "Cadre d'analyse à moyen/long terme : privilégier la diversification sectorielle plutôt que le pari sur un seul acteur IA ; suivre les échéances réglementaires (AI Act, Digital Omnibus) qui peuvent créer de la volatilité court-terme sur les valeurs tech européennes ; garder une exposition mesurée à l'énergie/matières premières en période de tensions géopolitiques ; le dollar-cost averaging (investissement périodique) reste une approche disciplinée pour lisser la volatilité sur les valeurs IA et semi-conducteurs, historiquement très cycliques.",
+    "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée. Elle ne remplace pas l'avis d'un conseiller en investissement financier agréé, et ne tient pas compte de votre situation personnelle."
+  }
+}
