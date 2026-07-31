@@ -1,17 +1,410 @@
 {
   "weekday": "vendredi",
-  "generated_at": null,
+  "generated_at": "2026-07-31T08:25:19.221540+00:00",
   "categories": {
-    "ia": {"label": "Intelligence Artificielle", "items": []},
-    "cyber": {"label": "Cybersécurité", "items": []},
-    "economie": {"label": "Économie & Marchés", "items": []},
-    "geopolitique": {"label": "Géopolitique & Général", "items": []},
-    "science": {"label": "Science", "items": []},
-    "politique": {"label": "Politique", "items": []}
+    "ia": {
+      "label": "Intelligence Artificielle",
+      "items": [
+        {
+          "title": "Anthropic says its own AI models breached three companies during security tests",
+          "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+          "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+          "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Investors love AI, as long as you’re a cloud host",
+          "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+          "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+          "date": "2026-05-19"
+        },
+        {
+          "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+          "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+          "date": "2026-01-22"
+        },
+        {
+          "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+          "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide.…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+          "date": "2026-01-19"
+        },
+        {
+          "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+          "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+          "date": "2026-01-16"
+        },
+        {
+          "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+          "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly…",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "The Download: tricking LLMs, and reviving geothermal plants",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models…",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+          "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month.…",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "How an overlooked geothermal plant got a second chance",
+          "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later,…",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    "cyber": {
+      "label": "Cybersécurité",
+      "items": [
+        {
+          "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+          "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of…",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+          "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders,…",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+          "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape,…",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+          "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft. In his proof…",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+          "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies.…",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "South Korea fines telco giant KT $39 million for customer data breach",
+          "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+          "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+          "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Read This Before You Buy That TV Streaming Stick",
+          "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "LG to Ban Residential Proxies from Smart TV Apps",
+          "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "Microsoft Patches a Record 570 Security Flaws",
+          "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+          "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+          "date": "2026-07-13"
+        }
+      ]
+    },
+    "economie": {
+      "label": "Économie & Marchés",
+      "items": [
+        {
+          "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "Markets react to Fed's July interest rate decision",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "Seagate Stock Shakes Off AI Rally Fears With Big Earnings Beat",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/seagate-stock-stx-earnings-july-2026/?src=A00220&yptr=yahoo",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "SpaceX Stock Has Crashed 50% from Its All-Time Highs and Eroded More Than Half a Trillion Dollars in the Process",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-crashed-50-time-205549745.html",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    "geopolitique": {
+      "label": "Géopolitique & Général",
+      "items": [
+        {
+          "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+          "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+          "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+          "summary": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "AC Milan and Italy great Baresi dies aged 66",
+          "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Légende du football italien et de l'AC Milan, Franco Baresi est mort",
+          "summary": "L'ancien footballeur italien Franco ⁠Baresi, figure ​emblématique de l'AC Milan et de la SquadraAzzurra, dont il a ​orchestré la défense avec maestria durant les années 1980 et 1990, est mort à l'âge de 66 ans.",
+          "source": "France 24",
+          "url": "https://www.france24.com/fr/sports/20260731-legende-football-italien-franco-baresi-ac-milan-deces",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "La Fifa maintient son projet d'ouverture aux investisseurs privés malgré les critiques",
+          "summary": "La Fifa a déclaré, vendredi, qu'elle maintenait son projet de création d'une société commerciale ouverte aux investisseurs étrangers, malgré l'annonce d'un boycott des prochaines Coupes du monde de football par l'UEFA.",
+          "source": "France 24",
+          "url": "https://www.france24.com/fr/sports/20260731-face-aux-critiques-uefa-fifa-maintient-son-projet-ouverture-investisseurs-priv%C3%A9s-football-mondiaux-coupe-du-monde",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Incendies en Gironde : la situation est \"stable\" et le feu reste \"contenu dans son périmètre\"",
+          "summary": "Le feu en Gironde, qui a ravagé 42 000 hectares depuis plus d'une semaine est \"contenu dans son périmètre\", bien que \"des secteurs actifs\" persistent, a informé vendredi la préfecture du département. La situation est \"stable\" du fait des conditions…",
+          "source": "France 24",
+          "url": "https://www.france24.com/fr/france/20260731-incendies-gironde-situation-stable-feu-reste-contenu-dans-son-p%C3%A9rim%C3%A8tre-m%C3%A9gafeu-pompiers-habitants",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Législatives en Israël : Gadi Eisenkot, l'ancien chef de l'armée qui veut détrôner Netanyahu",
+          "summary": "À trois mois d’élections législatives décisives en Israël, l'ancien chef d'état-major Gadi Eisenkot s’impose comme le concurrent le plus sérieux contre l’actuel Premier ministre Benjamin Netanyahu. Le challenger mise sur son image de militaire \"intègre\" pour…",
+          "source": "France 24",
+          "url": "https://www.france24.com/fr/moyen-orient/20260731-elections-l%C3%A9gislatives-isra%C3%ABl-gadi-eisenkot-ancien-chef-arm%C3%A9e-qui-veut-d%C3%A9tr%C3%B4ner-benjamin-netanyahu",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Autour de la dune du Pilat, malgré le retour des touristes, les plaies de l’incendie de 2022 ne sont pas toutes refermées",
+          "summary": "Les feux de l’été dans les communes proches de Lège-Cap-Ferret, du Porge ou de Biscarrosse réveillent les souvenirs d’il y a quatre ans et rappellent les difficultés engendrées par ces sinistres.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/31/autour-de-la-dune-du-pilat-malgre-le-retour-des-touristes-les-plaies-de-l-incendie-de-2022-ne-sont-pas-toutes-refermees_6737091_3234.html",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Xenia Fedorova : la France gèle les avoirs de la propagandiste pro-Poutine visée par un arrêté d’expulsion",
+          "summary": "Cet arrêté, qui « complète la mesure d’expulsion » adoptée mercredi par le ministère de l’intérieur, vise à prévenir la commission de « nouveaux actes d’ingérence », explique le ministère de l’économie et des finances.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/31/la-france-gele-les-avoirs-de-xenia-fedorova-propagandiste-pro-poutine-visee-par-un-arrete-d-expulsion_6737102_823448.html",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Un afflux massif de migrants à Ceuta ravive les tensions entre l’Espagne et le Maroc",
+          "summary": "Des milliers de personnes, des jeunes hommes et des adolescents dans leur immense majorité, ont soudainement rejoint par la mer, jeudi, depuis le Maroc, l’enclave espagnole située sur continent africain.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/07/31/un-afflux-massif-de-migrants-a-ceuta-ravive-les-tensions-entre-madrid-et-rabat_6737073_3210.html",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "En menaçant la FIFA de boycott de la Coupe du monde, l’UEFA met Gianni Infantino sous pression",
+          "summary": "Deux jours après l’annonce du projet de la Fédération internationale de football de lancer une société commerciale, l’instance européenne a assuré, jeudi, qu’aucune équipe continentale ne prendrait part à des compétitions de la FIFA « tant que ces…",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/sport/article/2026/07/31/en-menacant-la-fifa-de-boycott-de-la-coupe-du-monde-l-uefa-met-sous-pression-gianni-infantino_6737079_3242.html",
+          "date": "2026-07-31"
+        }
+      ]
+    },
+    "science": {
+      "label": "Science",
+      "items": [
+        {
+          "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-y Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
+          "source": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02366-y",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
+          "summary": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10939-0 Somatic mutations reveal the ontogeny of microglia in human aging",
+          "source": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10939-0",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+          "summary": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+          "source": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10920-x",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",
+          "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-01843-8 The career market is difficult to navigate — and academic achievements feel like they’re no longer enough, says Daniella Watson.",
+          "source": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01843-8",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
+          "summary": "Companies are making sure we have a surplus of options for building qubits.",
+          "source": "Ars Technica Science",
+          "url": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "What happens when you put AI to work deciphering lost languages?",
+          "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
+          "source": "Ars Technica Science",
+          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+          "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
+          "source": "Ars Technica Science",
+          "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
+          "summary": "“We're in the realm where we might be essentially killing off everything within that first hour or two.\"",
+          "source": "Ars Technica Science",
+          "url": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
+          "date": "2026-07-28"
+        }
+      ]
+    },
+    "politique": {
+      "label": "Politique",
+      "items": [
+        {
+          "title": "Les régions vent debout contre les coupes budgétaires dans l’apprentissage et la formation",
+          "summary": "Dans le cadre de la préparation du budget 2027, le gouvernement entend supprimer les financements accordés aux centres de formation des apprentis (CFA) et mettre un terme aux pactes d’investissement de compétence destinés à former des demandeurs d’emploi et…",
+          "source": "Le Monde Politique",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/31/les-regions-vent-debout-contre-les-coupes-budgetaires-dans-l-apprentissage-et-la-formation_6737113_823448.html",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "« Les moyens des pompiers sont à bout de souffle » : pour augmenter le financement de la sécurité civile, les collectivités locales appellent à trouver de nouvelles ressources",
+          "summary": "Face aux besoins croissants des sapeurs-pompiers, et alors que les départements, premiers financeurs de ces derniers, sont en mauvaise posture financière, l’association d’élus Départements de France prévient : « Nous avons atteint un point de rupture. »",
+          "source": "Le Monde Politique",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/31/les-moyens-des-pompiers-sont-a-bout-de-souffle-le-financement-de-la-securite-civile-en-question_6737107_823448.html",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Xenia Fedorova : la France gèle les avoirs de la propagandiste pro-Poutine visée par un arrêté d’expulsion",
+          "summary": "Cet arrêté, qui « complète la mesure d’expulsion » adoptée mercredi par le ministère de l’intérieur, vise à prévenir la commission de « nouveaux actes d’ingérence », explique le ministère de l’économie et des finances.",
+          "source": "Le Monde Politique",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/31/la-france-gele-les-avoirs-de-xenia-fedorova-propagandiste-pro-poutine-visee-par-un-arrete-d-expulsion_6737102_823448.html",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Joëlle Zask, philosophe : « Contre les mégafeux, la volonté politique au sommet dépend de celle de la majorité des citoyens »",
+          "summary": "Les incendies extrêmes sont un phénomène d’insécurité qui appelle à un nouveau pacte social, selon la professeure à l’université. Dans une tribune au « Monde », elle plaide pour une approche mêlant prévention, écologie et solidarité.",
+          "source": "Le Monde Politique",
+          "url": "https://www.lemonde.fr/idees/article/2026/07/31/joelle-zask-philosophe-contre-les-megafeux-la-volonte-politique-au-sommet-depend-de-celle-de-la-majorite-des-citoyens_6737081_3232.html",
+          "date": "2026-07-31"
+        }
+      ]
+    }
   },
   "investissement": {
-    "signaux": [],
-    "framework": "En attente de la première exécution automatique (voir README pour activer le workflow GitHub Actions).",
-    "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée."
+    "signaux": [
+      "'OpenAI' mentionné 2x dans les flux du jour",
+      "'Anthropic' mentionné 6x dans les flux du jour",
+      "'Google' mentionné 4x dans les flux du jour",
+      "'Microsoft' mentionné 5x dans les flux du jour"
+    ],
+    "framework": "Cadre d'analyse à moyen/long terme : privilégier la diversification sectorielle plutôt que le pari sur un seul acteur IA ; suivre les échéances réglementaires (AI Act, textes nationaux) qui peuvent créer de la volatilité court-terme sur les valeurs tech ; garder une exposition mesurée à l'énergie/matières premières en période de tensions géopolitiques ; le dollar-cost averaging (investissement périodique) reste une approche disciplinée pour lisser la volatilité sur les valeurs IA et semi-conducteurs, historiquement très cycliques.",
+    "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée. Elle ne remplace pas l'avis d'un conseiller en investissement financier agréé, et ne tient pas compte de votre situation personnelle."
   }
 }
