@@ -66,6 +66,25 @@
         }
       ]
     },
+    "crypto": {
+      "label": "Cryptomonnaies",
+      "items": [
+        {
+          "title": "Le marché crypto progresse, capitalisation globale en hausse",
+          "summary": "La capitalisation totale du marché crypto avance d'environ 0,6% sur 24h, portée par une hausse généralisée de l'ether face au bitcoin.",
+          "source": "CoinGecko / agrégateurs",
+          "url": "https://www.coingecko.com",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "Fermeture de la plateforme d'échange BitMart",
+          "summary": "L'exchange BitMart a annoncé l'arrêt de sa plateforme de trading après neuf ans d'activité, dans un contexte de consolidation du secteur.",
+          "source": "Investing News",
+          "url": "https://investingnews.com",
+          "date": "2026-07-26"
+        }
+      ]
+    },
     "geopolitique": {
       "label": "Géopolitique & Général",
       "items": [
@@ -87,12 +106,25 @@
       "items": []
     }
   },
+  "crypto_prices": [
+    {"id": "bitcoin", "symbol": "BTC", "eur": 57091.57, "usd": 65098.58, "change_24h": 1.02},
+    {"id": "ethereum", "symbol": "ETH", "eur": 1704.13, "usd": 1943.22, "change_24h": 3.05}
+  ],
+  "market_indices": [
+    {"symbol": "^cac", "name": "CAC 40", "value": 7680.5, "change_pct": 0.4},
+    {"symbol": "^spx", "name": "S&P 500", "value": 6390.2, "change_pct": 0.2}
+  ],
+  "mentioned_companies": [
+    {"name": "Airbus", "mentions": 1},
+    {"name": "BitMart", "mentions": 1}
+  ],
   "investissement": {
     "signaux": [
       "Volatilité énergie/pétrole en hausse (tensions Proche-Orient)",
       "Secteur semi-conducteurs sous pression après une correction marquée (Nvidia)",
       "Échéance réglementaire AI Act (2 août) à surveiller pour les valeurs tech IA européennes",
-      "Ralentissement de la croissance chinoise à surveiller pour les valeurs exposées à l'export"
+      "Ralentissement de la croissance chinoise à surveiller pour les valeurs exposées à l'export",
+      "Consolidation du secteur des exchanges crypto (fermeture BitMart) à surveiller côté risque de contrepartie"
     ],
     "framework": "Cadre d'analyse à moyen/long terme : privilégier la diversification sectorielle plutôt que le pari sur un seul acteur IA ; suivre les échéances réglementaires (AI Act, Digital Omnibus) qui peuvent créer de la volatilité court-terme sur les valeurs tech européennes ; garder une exposition mesurée à l'énergie/matières premières en période de tensions géopolitiques ; le dollar-cost averaging (investissement périodique) reste une approche disciplinée pour lisser la volatilité sur les valeurs IA et semi-conducteurs, historiquement très cycliques.",
     "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée. Elle ne remplace pas l'avis d'un conseiller en investissement financier agréé, et ne tient pas compte de votre situation personnelle."

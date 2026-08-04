@@ -24,11 +24,81 @@
   <main class="content">
     <div class="updated-line mono" id="updated-line"></div>
     <div class="ticker" id="ticker"></div>
+    <div class="price-row" id="crypto-prices"></div>
     <div id="categories"></div>
 
     <section class="invest-box">
       <h2>Repères Investissement</h2>
+
+      <h3 class="invest-sub">Signaux du jour</h3>
       <ul class="invest-signals" id="invest-signals"></ul>
+
+      <h3 class="invest-sub">Indices de marché</h3>
+      <div class="price-row" id="market-indices"></div>
+
+      <h3 class="invest-sub">Cryptomonnaies</h3>
+      <p class="invest-note">Voir le bandeau de prix BTC/ETH/SOL/XRP plus haut, dans l'onglet du jour.</p>
+
+      <h3 class="invest-sub">ETF à connaître (référence, non exhaustif)</h3>
+      <div class="etf-grid">
+        <div class="etf-group">
+          <span class="etf-group-title">Actions monde / large cap</span>
+          <ul>
+            <li>iShares Core MSCI World UCITS ETF</li>
+            <li>Amundi PEA S&P 500 UCITS ETF</li>
+            <li>Invesco QQQ (Nasdaq-100)</li>
+          </ul>
+        </div>
+        <div class="etf-group">
+          <span class="etf-group-title">IA & semi-conducteurs</span>
+          <ul>
+            <li>iShares Automation & Robotics UCITS ETF</li>
+            <li>Global X Robotics & Artificial Intelligence ETF</li>
+            <li>VanEck Semiconductor ETF (SMH)</li>
+          </ul>
+        </div>
+        <div class="etf-group">
+          <span class="etf-group-title">Cybersécurité</span>
+          <ul>
+            <li>iShares Digital Security UCITS ETF</li>
+            <li>Global X Cybersecurity ETF (BUG)</li>
+          </ul>
+        </div>
+        <div class="etf-group">
+          <span class="etf-group-title">Crypto (exposition indirecte)</span>
+          <ul>
+            <li>iShares Bitcoin Trust (IBIT) — spot, marché US</li>
+            <li>ETP Bitcoin/Ethereum physiques cotés en Europe (ex. CoinShares, 21Shares)</li>
+          </ul>
+        </div>
+      </div>
+      <p class="invest-note">Cette liste cite des instruments largement connus et cotés, à titre de repère — elle ne constitue pas une recommandation d'achat. Vérifie l'éligibilité PEA/CTO, les frais et le document d'information clé (DIC) avant tout investissement.</p>
+
+      <h3 class="invest-sub">Sociétés mentionnées dans les news du jour</h3>
+      <div class="chip-row" id="mentioned-companies"></div>
+      <p class="invest-note">Liste purement factuelle (fréquence de citation dans les flux du jour) — pas une sélection de valeurs à acheter. Pour des petites capitalisations spécifiques, utilise un screener indépendant (Zonebourse, TradingView) et fais ta propre analyse : je ne recommande pas de titres individuels peu connus.</p>
+
+      <h3 class="invest-sub">Acteurs majeurs à suivre par secteur</h3>
+      <div class="etf-grid">
+        <div class="etf-group">
+          <span class="etf-group-title">IA</span>
+          <ul><li>Nvidia</li><li>Microsoft</li><li>Google / Alphabet</li><li>OpenAI</li><li>Anthropic</li><li>Meta</li></ul>
+        </div>
+        <div class="etf-group">
+          <span class="etf-group-title">Cybersécurité</span>
+          <ul><li>CrowdStrike</li><li>Palo Alto Networks</li><li>Fortinet</li><li>Zscaler</li></ul>
+        </div>
+        <div class="etf-group">
+          <span class="etf-group-title">Semi-conducteurs</span>
+          <ul><li>TSMC</li><li>ASML</li><li>AMD</li><li>Broadcom</li></ul>
+        </div>
+        <div class="etf-group">
+          <span class="etf-group-title">Crypto</span>
+          <ul><li>Coinbase</li><li>Binance</li><li>MicroStrategy (Strategy)</li></ul>
+        </div>
+      </div>
+
+      <h3 class="invest-sub">Cadre d'analyse général</h3>
       <p class="invest-framework" id="invest-framework"></p>
       <p class="invest-disclaimer" id="invest-disclaimer"></p>
     </section>

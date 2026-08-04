@@ -32,20 +32,8 @@ suivante).
 
 > Limite honnête : **X (Twitter)** n'est pas inclus car l'API gratuite est
 > trop restreinte pour une automatisation fiable, et **WhatsApp n'a aucune
-> API d'automatisation légale/publique** — impossible à intégrer, même en
-> fournissant tes identifiants (Claude ne peut pas se connecter à un compte
-> personnel authentifié, et l'automatisation quotidienne tourne de toute
-> façon sur GitHub Actions, sans lien avec le chat). Le board s'appuie sur
-> des flux RSS publics de médias reconnus et sur l'API gratuite CoinGecko
-> pour les prix crypto.
-
-## Cryptomonnaies
-
-- **News** : CoinDesk, Cointelegraph, Decrypt (flux RSS publics)
-- **Prix** : snapshot BTC / ETH / SOL / XRP via l'API publique CoinGecko
-  (gratuite, sans clé, en EUR et USD, avec variation 24h)
-- Modifiable dans `scripts/fetch_news.py`, variables `FEEDS["crypto"]` et
-  `CRYPTO_IDS` (identifiants CoinGecko, ex. ajouter `"cardano"`, `"binancecoin"`)
+> API d'automatisation légale/publique** — impossible à intégrer. Le board
+> s'appuie uniquement sur des flux RSS publics de médias reconnus.
 
 ## Déploiement (10 minutes, gratuit)
 
@@ -72,18 +60,10 @@ git push -u origin main
 
 ### 4. Active le workflow automatique
 - Onglet "Actions" du dépôt → autorise les workflows si demandé
-- Le workflow `daily-update.yml` tourne automatiquement chaque nuit à 6h00 UTC,
-  soit **7h00 (heure d'hiver) ou 8h00 (heure d'été) à Paris** — prêt avant ton
-  petit-déjeuner et avant l'ouverture d'Euronext Paris à 9h00
+- Le workflow `daily-update.yml` tourne automatiquement chaque nuit (6h UTC)
 - Tu peux aussi le lancer manuellement : Actions → "Mise à jour quotidienne
   du board" → "Run workflow" (pratique pour tester tout de suite sans
   attendre le lendemain)
-
-> ⚠️ **Fiabilité de l'horaire** : sur le plan gratuit, GitHub ne garantit pas
-> une exécution à la minute près — un retard de 5 à 20 minutes est normal,
-> occasionnellement plus en cas de forte charge sur leurs serveurs. Si tu
-> constates régulièrement un retard gênant, avance le cron à `0 5 * * *`
-> (5h00 UTC) dans `.github/workflows/daily-update.yml` pour plus de marge.
 
 ### 5. Consultation PC / téléphone
 - Ouvre simplement l'URL GitHub Pages sur n'importe quel appareil
@@ -98,23 +78,11 @@ Cherche `<nom du site> RSS feed` pour trouver l'URL d'un flux qui t'intéresse.
 
 ## Section investissement
 
-La section "Repères Investissement" comprend maintenant :
-- **Signaux du jour** : mots-clés fréquents détectés dans les news (`build_investment_notes()`)
-- **Indices de marché** : CAC 40, S&P 500, Nasdaq, Dow Jones, DAX, Nikkei — snapshot via
-  l'API gratuite Stooq (`fetch_market_indices()`), variation calculée depuis l'ouverture du jour
-- **ETF à connaître** : liste statique de référence (large cap, IA/semi-conducteurs,
-  cybersécurité, crypto) dans `index.html`, à adapter librement
-- **Sociétés mentionnées** : détection automatique des entreprises citées dans les flux
-  du jour (`detect_mentioned_companies()`) — purement factuel, pas une sélection de valeurs
-- **Acteurs majeurs par secteur** : liste statique de référence dans `index.html`
-
-**Je n'inclus volontairement aucune recommandation de titres individuels peu connus**
-(small/mid caps) — c'est un conseil d'investissement personnalisé à fort risque que je ne
-suis pas en mesure de fournir de façon responsable. Pour ça, utilise un screener indépendant
-(Zonebourse, TradingView, Boursorama) et fais ta propre analyse.
-
-Tout ceci reste une **synthèse générale, pas une recommandation personnalisée** — adapte les
-listes statiques à tes propres critères si besoin.
+Le script `build_investment_notes()` détecte les mots-clés qui reviennent le
+plus dans les news du jour (Nvidia, AI Act, taux d'intérêt, etc.) et affiche
+un cadre d'analyse général. **Ce n'est pas un conseil personnalisé** — à
+adapter/enrichir toi-même si tu veux des règles plus précises (ex. alertes
+sur un titre particulier).
 
 ## Structure des fichiers
 

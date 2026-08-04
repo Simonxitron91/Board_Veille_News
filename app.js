@@ -8,11 +8,12 @@ const DAYS = [
   {key:"dimanche", num:"07", label:"Dim"},
 ];
 
-const CATEGORY_ORDER = ["geopolitique","politique","economie","science","ia","cyber"];
+const CATEGORY_ORDER = ["geopolitique","politique","economie","crypto","science","ia","cyber"];
 const CATEGORY_DOTS = {
   geopolitique:"var(--dot-geo)",
   politique:"var(--dot-pol)",
   economie:"var(--dot-eco)",
+  crypto:"var(--dot-crypto)",
   science:"var(--dot-sci)",
   ia:"var(--dot-ia)",
   cyber:"var(--dot-cyber)"
@@ -35,12 +36,28 @@ const FALLBACK = {
       economie:{label:"Économie & Marchés", items:[
         {title:"CAC 40 porté par Airbus, tensions sur le pétrole", summary:"Le CAC 40 enchaîne une troisième hausse, porté par Airbus et l'énergie, tandis que le Brent poursuit sa remontée et que les taux obligataires se tendent.", source:"Invesse", url:"https://invesse.fr", date:"2026-07-22"}
       ]},
+      crypto:{label:"Cryptomonnaies", items:[
+        {title:"Le marché crypto progresse, la capitalisation globale en hausse", summary:"La capitalisation totale du marché crypto avance d'environ 0,6% sur 24h, portée par une hausse généralisée de l'ether face au bitcoin.", source:"CoinGecko / agrégateurs", url:"https://www.coingecko.com", date:"2026-07-26"},
+        {title:"Fermeture de la plateforme d'échange BitMart", summary:"L'exchange BitMart a annoncé l'arrêt de sa plateforme de trading après neuf ans d'activité, dans un contexte de consolidation du secteur.", source:"Investing News", url:"https://investingnews.com", date:"2026-07-26"}
+      ]},
       geopolitique:{label:"Géopolitique & Général", items:[
         {title:"Tensions au Proche-Orient et marchés de l'énergie", summary:"La reprise du conflit et les menaces d'escalade continuent d'alimenter la volatilité du prix du Brent.", source:"Proximité Courtage", url:"https://proximite-courtage.fr", date:"2026-07-22"}
       ]},
       science:{label:"Science", items:[]},
       politique:{label:"Politique", items:[]}
     },
+    crypto_prices:[
+      {id:"bitcoin", symbol:"BTC", eur:57091.57, usd:65098.58, change_24h:1.02},
+      {id:"ethereum", symbol:"ETH", eur:1704.13, usd:1943.22, change_24h:3.05}
+    ],
+    market_indices:[
+      {symbol:"^cac", name:"CAC 40", value:7680.5, change_pct:0.4},
+      {symbol:"^spx", name:"S&P 500", value:6390.2, change_pct:0.2}
+    ],
+    mentioned_companies:[
+      {name:"Airbus", mentions:1},
+      {name:"BitMart", mentions:1}
+    ],
     investissement:{
       signaux:[
         "Volatilité énergie/pétrole en hausse (tensions Proche-Orient)",
@@ -60,10 +77,14 @@ function emptyDay(key){
       geopolitique:{label:"Géopolitique & Général", items:[]},
       politique:{label:"Politique", items:[]},
       economie:{label:"Économie & Marchés", items:[]},
+      crypto:{label:"Cryptomonnaies", items:[]},
       science:{label:"Science", items:[]},
       ia:{label:"Intelligence Artificielle", items:[]},
       cyber:{label:"Cybersécurité", items:[]}
     },
+    crypto_prices:[],
+    market_indices:[],
+    mentioned_companies:[],
     investissement:{signaux:[], framework:"En attente de la première exécution automatique.", disclaimer:"Ceci est une synthèse d'information générale et non une recommandation personnalisée."}
   };
 }
@@ -96,9 +117,14 @@ function renderTicker(data){
   CATEGORY_ORDER.forEach(cat=>{
     const c = data.categories[cat];
     if(!c) return;
-    const chip = document.createElement("div");
-    chip.className = "ticker-chip";
+    const chip = document.createElement("button");
+    chip.className = "ticker-chip clickable";
+    chip.type = "button";
     chip.innerHTML = `<span class="dot" style="background:${CATEGORY_DOTS[cat]}"></span>${c.label} · ${c.items.length}`;
+    chip.addEventListener("click", ()=>{
+      const target = document.getElementById(`cat-${cat}`);
+      if(target) target.scrollIntoView({behavior:"smooth", block:"start"});
+    });
     el.appendChild(chip);
   });
 }
@@ -111,6 +137,7 @@ function renderCategories(data){
     if(!c) return;
     const sec = document.createElement("section");
     sec.className = "category";
+    sec.id = `cat-${cat}`;
     const head = document.createElement("div");
     head.className = "category-head";
     head.innerHTML = `<span class="dot" style="background:${CATEGORY_DOTS[cat]}"></span>
@@ -156,12 +183,73 @@ function renderInvest(data){
   document.getElementById("invest-disclaimer").textContent = inv.disclaimer;
 }
 
+function renderCryptoPrices(data){
+  const el = document.getElementById("crypto-prices");
+  const prices = data.crypto_prices || [];
+  if(prices.length === 0){
+    el.innerHTML = `<p class="empty-note">Pas de snapshot de prix pour ce jour.</p>`;
+    return;
+  }
+  el.innerHTML = "";
+  prices.forEach(p=>{
+    const up = p.change_24h >= 0;
+    const chip = document.createElement("div");
+    chip.className = "price-chip";
+    chip.innerHTML = `
+      <span class="price-symbol">${p.symbol}</span>
+      <span class="price-value mono">${p.eur ? p.eur.toLocaleString("fr-FR", {maximumFractionDigits:2}) + " €" : "—"}</span>
+      <span class="price-change mono ${up ? "up" : "down"}">${up ? "▲" : "▼"} ${Math.abs(p.change_24h).toFixed(2)}%</span>
+    `;
+    el.appendChild(chip);
+  });
+}
+
+function renderMarketIndices(data){
+  const el = document.getElementById("market-indices");
+  const indices = data.market_indices || [];
+  if(indices.length === 0){
+    el.innerHTML = `<p class="empty-note">Pas de snapshot d'indices pour ce jour.</p>`;
+    return;
+  }
+  el.innerHTML = "";
+  indices.forEach(idx=>{
+    const up = idx.change_pct >= 0;
+    const chip = document.createElement("div");
+    chip.className = "price-chip";
+    chip.innerHTML = `
+      <span class="price-symbol">${idx.name}</span>
+      <span class="price-value mono">${idx.value ? idx.value.toLocaleString("fr-FR", {maximumFractionDigits:2}) : "—"}</span>
+      <span class="price-change mono ${up ? "up" : "down"}">${up ? "▲" : "▼"} ${Math.abs(idx.change_pct).toFixed(2)}%</span>
+    `;
+    el.appendChild(chip);
+  });
+}
+
+function renderMentionedCompanies(data){
+  const el = document.getElementById("mentioned-companies");
+  const companies = data.mentioned_companies || [];
+  if(companies.length === 0){
+    el.innerHTML = `<p class="empty-note">Aucune société détectée dans les flux du jour.</p>`;
+    return;
+  }
+  el.innerHTML = "";
+  companies.forEach(c=>{
+    const chip = document.createElement("span");
+    chip.className = "name-chip";
+    chip.textContent = `${c.name} · ${c.mentions}`;
+    el.appendChild(chip);
+  });
+}
+
 async function renderDay(key){
   const data = await loadDay(key);
   document.getElementById("updated-badge").textContent = fmtDate(data.generated_at);
   document.getElementById("updated-line").textContent = `Dernière mise à jour de l'onglet "${key}" : ${fmtDate(data.generated_at)}`;
   renderTicker(data);
+  renderCryptoPrices(data);
   renderCategories(data);
+  renderMarketIndices(data);
+  renderMentionedCompanies(data);
   renderInvest(data);
 }
 
