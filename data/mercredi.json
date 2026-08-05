@@ -1,21 +1,558 @@
 {
   "weekday": "mercredi",
-  "generated_at": null,
+  "generated_at": "2026-08-05T08:10:28.582965+00:00",
   "categories": {
-    "ia": {"label": "Intelligence Artificielle", "items": []},
-    "cyber": {"label": "Cybersécurité", "items": []},
-    "economie": {"label": "Économie & Marchés", "items": []},
-    "crypto": {"label": "Cryptomonnaies", "items": []},
-    "geopolitique": {"label": "Géopolitique & Général", "items": []},
-    "science": {"label": "Science", "items": []},
-    "politique": {"label": "Politique", "items": []}
+    "ia": {
+      "label": "Intelligence Artificielle",
+      "items": [
+        {
+          "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+          "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+          "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+          "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+          "date": "2026-05-19"
+        },
+        {
+          "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+          "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+          "date": "2026-01-22"
+        },
+        {
+          "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+          "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide.…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+          "date": "2026-01-19"
+        },
+        {
+          "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+          "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+          "date": "2026-01-16"
+        },
+        {
+          "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more…",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Trump’s AI protectionism has come for robotics",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still…",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last…",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "Here’s why AI agents lie and cheat to reach their goals",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they…",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+          "date": "2026-08-03"
+        }
+      ]
+    },
+    "cyber": {
+      "label": "Cybersécurité",
+      "items": [
+        {
+          "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+          "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. According to Fortinet FortiGuard Labs,…",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+          "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass…",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+          "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned versions across 79 package names in the…",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+          "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote…",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+          "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended…",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+          "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+          "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+          "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Read This Before You Buy That TV Streaming Stick",
+          "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "LG to Ban Residential Proxies from Smart TV Apps",
+          "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "Microsoft Patches a Record 570 Security Flaws",
+          "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+          "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+          "date": "2026-07-13"
+        }
+      ]
+    },
+    "economie": {
+      "label": "Économie & Marchés",
+      "items": [
+        {
+          "title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Three Noteworthy Biotechs Just Reported Earnings — And Only One Recovered",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/biotech-stocks-q2-2026-earnings-tg-therapeutics-twist-biotech-krystal-biotech/?src=A00220&yptr=yahoo",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "AstraZeneca Nosedives On A Rumored Megamerger; Is $160 Billion Enough?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/astrazeneca-stock-bristol-myers-squibb-rumored-deal/?src=A00220&yptr=yahoo",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "Why Analysts Are Divided Over Circle (CRCL) Stock",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/why-analysts-divided-over-circle-202411004.html",
+          "date": "2026-08-03"
+        }
+      ]
+    },
+    "crypto": {
+      "label": "Cryptomonnaies",
+      "items": [
+        {
+          "title": "The worst chart for bitcoin bulls right now",
+          "summary": "",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+          "summary": "",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
+          "summary": "",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
+          "summary": "",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
+          "summary": "The defendants allegedly traveled from Missouri to Connecticut to kidnap a Bitcoin holder and force him to transfer cryptocurrency before abandoning the plan.",
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
+          "summary": "Cloudflare introduced programmable Wallets for AI agents and said payment features using stablecoins will launch in a future update.",
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "AI credit bubble could fuel Bitcoin ‘crack-up boom’ past $1M: Hayes",
+          "summary": "Hayes likened the debt-fueled AI infrastructure boom to the 2008 credit bubble, but evidence suggests financial strain is uneven across Big Tech.",
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/arthur-hayes-ai-credit-crisis-bitcoin-1-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+          "summary": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back",
+          "summary": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+          "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
+          "summary": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters—and why AI is reshaping wallet security.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+          "date": "2026-08-04"
+        }
+      ]
+    },
+    "geopolitique": {
+      "label": "Géopolitique & Général",
+      "items": [
+        {
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+          "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+          "summary": "The head of Kyiv's military administration said Russia is \"once again massively attacking\" the region around the city.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+          "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+          "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Ligue des champions : Lyon en mauvaise posture au 3e tour préliminaire",
+          "summary": "L'Olympique lyonnais (OL) s’est incliné sur la pelouse du Sparta Prague (2-1) en 3e tour préliminaire aller. Le match retour aura lieu le 11 août à Lyon, au Groupama Stadium.",
+          "source": "France 24",
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260805-ligue-des-champions-lyon-mauvaise-posture-3e-tour-pr%C3%A9liminaire-ol-sparta-prague",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Foot : des cadres de la Fifa prennent leurs distances avec Infantino",
+          "summary": "D'Arsène Wenger au secrétaire général Mattias Grafström, des voix s'élèvent jusqu'au sein de la Fifa pour prendre leurs distances avec le président Gianni Infantino, principal défenseur d'un projet finalement avorté d'ouverture du Mondial aux investisseurs…",
+          "source": "France 24",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-foot-des-cadres-de-la-fifa-prennent-leurs-distances-avec-infantino",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Ukraine : une attaque russe fait 15 morts à Kiev et dans sa région",
+          "summary": "Des frappes russes nocturnes ont fait un mort à Kiev et quatorze autres dans ses environs, et incendié des entrepôts, ont annoncé les autorités locales mercredi matin. L'armée de l'air affirme qu'elle n'a pas pu abattre un seul missile russe. Les précisions…",
+          "source": "France 24",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-ukraine-une-attaque-russe-fait-15-morts-%C3%A0-kiev-et-dans-sa-r%C3%A9gion",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "SpaceX : collision imminente entre l'étage d'une fusée et la Lune",
+          "summary": "L'étage supérieur d'une fusée de SpaceX devrait s'écraser accidentellement sur la Lune mercredi. Lancé à près de 8 700 km/h, l'engin d'environ quatre tonnes a de fortes chances de laisser un cratère à la surface lunaire. L'impact pourrait être observable au…",
+          "source": "France 24",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-spacex-collision-imminente-entre-l-%C3%A9tage-d-une-fus%C3%A9e-et-la-lune",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Sécheresse et températures inédites en juillet : « La question de l’eau devient absolument critique »",
+          "summary": "Avec une température moyenne de 24,9 °C sur l’ensemble du territoire, juillet 2026 est le mois le plus chaud jamais enregistré en France hexagonale depuis le début des mesures à l’entame du XXᵉ siècle. Une situation qui s’accompagne d’un niveau de sécheresse…",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/05/records-de-secheresse-et-de-chaleur-en-juillet-la-question-de-l-eau-devient-absolument-critique_6739248_3244.html",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Kiev n’a pu abattre aucun des missiles lancés par la Russie dans la nuit ; au moins 17 morts dans la capitale et sa région",
+          "summary": "Volodymyr Zelensky, qui estime que des intercepteurs capables de neutraliser les missiles balistiques « auraient pu sauver des vies », appelle à accélérer leurs livraisons de systèmes de défense aérienne. Selon lui, les sites touchés comprennent une…",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-kiev-n-a-pu-abattre-aucun-des-missiles-lances-par-la-russie-dans-la-nuit-au-moins-17-morts-dans-la-capitale-et-sa-region_6737250_3210.html",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Moyen-Orient : les négociations s’accélèrent autour d’une réouverture du détroit d’Ormuz",
+          "summary": "Selon des sources régionales citées par le média « Axios », un accord temporaire, qui pourrait être annoncé mercredi 5 août, est en discussion pour sécuriser le passage maritime, sans imposer de péage.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/08/05/moyen-orient-les-negociations-s-accelerent-autour-d-une-reouverture-du-detroit-d-ormuz_6739360_3210.html",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Le blanchiment d’argent menace de « diluer la distinction entre économie légale et économie illégale », selon un rapport de la police judiciaire",
+          "summary": "Le document confidentiel, que « Le Monde » a pu consulter, alerte sur les menées de groupes criminels hautement spécialisés, souples, résilients et particulièrement efficaces.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/05/le-blanchiment-d-argent-menace-de-diluer-la-distinction-entre-economie-legale-et-economie-illegale-selon-un-rapport-de-la-police-judiciaire_6739214_3224.html",
+          "date": "2026-08-05"
+        }
+      ]
+    },
+    "science": {
+      "label": "Science",
+      "items": [
+        {
+          "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/s41586-026-10958-x Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
+          "source": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10958-x",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Put health systems at the centre of European heatwave plans",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02426-3 Put health systems at the centre of European heatwave plans",
+          "source": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "‘Television’? The word will never catch on!",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02379-7 One reader proposes an alternative to the word ‘television’, and another is enthralled by a meteor, in our weekly dip into Nature’s archive.",
+          "source": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Scientists don’t need more trust, they need public allies",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02424-5 Scientists don’t need more trust, they need public allies",
+          "source": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02424-5",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+          "source": "Ars Technica Science",
+          "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+          "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+          "source": "Ars Technica Science",
+          "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+          "summary": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+          "source": "Ars Technica Science",
+          "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+          "summary": "Some group with no modern descendants contributed a lot to our genomes.",
+          "source": "Ars Technica Science",
+          "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+          "date": "2026-07-31"
+        }
+      ]
+    },
+    "politique": {
+      "label": "Politique",
+      "items": [
+        {
+          "title": "« On vit une accélération jamais connue » : à Marseille, la consommation de crack dans la rue fait de plus en plus de ravages, la Ville en appelle à l’Etat",
+          "summary": "Riverains, élus et associations de réduction des risques réunies en collectif réclament des moyens à la hauteur de l’explosion de la consommation dans les rues de la deuxième ville de France.",
+          "source": "Le Monde Politique",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/05/on-vit-une-acceleration-jamais-connue-a-marseille-la-consommation-de-crack-dans-la-rue-fait-de-plus-en-plus-de-ravages-la-ville-en-appelle-a-l-etat_6739316_3224.html",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "Raphaël Glucksmann dénonce une opération russe de « déstabilisation » le visant et impliquant Léa Salamé, sa compagne, et Edwy Plenel",
+          "summary": "Le probable candidat à la présidentielle a expliqué que l’attaque le ciblant s’est faite par le biais d’un faux média, reprenant les codes exacts du site d’information « Blast », pour « diffuser une vidéo entièrement truquée ».",
+          "source": "Le Monde Politique",
+          "url": "https://www.lemonde.fr/politique/article/2026/08/04/raphael-glucksmann-denonce-une-operation-russe-de-destabilisation-le-visant-et-impliquant-lea-salame-sa-compagne-et-edwy-plenel_6738489_823448.html",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Déjà 107 milliards d’euros de déficit pour l’Etat français en six mois",
+          "summary": "Au premier semestre, les dépenses de l’Etat ont dépassé ses recettes de 106,8 milliards d’euros, selon les chiffres diffusés mardi 4 août. Une dégradation par rapport à 2025, qui montre toute la difficulté du redressement des comptes publics.",
+          "source": "Le Monde Politique",
+          "url": "https://www.lemonde.fr/politique/article/2026/08/04/deja-107-milliards-d-euros-de-deficit-pour-l-etat-en-six-mois_6738216_823448.html",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "La justice saisie après plusieurs suicides et tentatives de suicide au sein des services du premier ministre",
+          "summary": "Un signalement et une plainte visant des faits de « harcèlement moral » ont été déposés, en juin, auprès du parquet de Paris, après que deux fonctionnaires des services chargés de coordonner l’action gouvernementale se sont donné la mort et que deux autres…",
+          "source": "Le Monde Politique",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/04/la-justice-saisie-apres-plusieurs-suicides-et-tentatives-de-suicide-au-sein-des-services-du-premier-ministre_6737875_3224.html",
+          "date": "2026-08-04"
+        }
+      ]
+    }
   },
-  "crypto_prices": [],
+  "crypto_prices": [
+    {
+      "id": "bitcoin",
+      "symbol": "BIT",
+      "eur": 55554,
+      "usd": 64106,
+      "change_24h": 0.78
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "eur": 1619.55,
+      "usd": 1868.88,
+      "change_24h": 0.43
+    },
+    {
+      "id": "solana",
+      "symbol": "SOL",
+      "eur": 64.13,
+      "usd": 74.0,
+      "change_24h": 0.66
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "eur": 0.923259,
+      "usd": 1.065,
+      "change_24h": -1.03
+    }
+  ],
   "market_indices": [],
-  "mentioned_companies": [],
+  "mentioned_companies": [
+    {
+      "name": "OpenAI",
+      "mentions": 5
+    },
+    {
+      "name": "Anthropic",
+      "mentions": 5
+    },
+    {
+      "name": "Microsoft",
+      "mentions": 4
+    },
+    {
+      "name": "Google",
+      "mentions": 3
+    },
+    {
+      "name": "Apple",
+      "mentions": 3
+    },
+    {
+      "name": "Tesla",
+      "mentions": 1
+    }
+  ],
   "investissement": {
-    "signaux": [],
-    "framework": "En attente de la première exécution automatique (voir README pour activer le workflow GitHub Actions).",
-    "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée."
+    "signaux": [
+      "'OpenAI' mentionné 5x dans les flux du jour",
+      "'Anthropic' mentionné 5x dans les flux du jour",
+      "'Google' mentionné 3x dans les flux du jour",
+      "'Microsoft' mentionné 4x dans les flux du jour",
+      "'Bitcoin' mentionné 10x dans les flux du jour",
+      "'Ethereum' mentionné 1x dans les flux du jour"
+    ],
+    "framework": "Cadre d'analyse à moyen/long terme : privilégier la diversification sectorielle plutôt que le pari sur un seul acteur IA ; suivre les échéances réglementaires (AI Act, textes nationaux) qui peuvent créer de la volatilité court-terme sur les valeurs tech ; garder une exposition mesurée à l'énergie/matières premières en période de tensions géopolitiques ; le dollar-cost averaging (investissement périodique) reste une approche disciplinée pour lisser la volatilité sur les valeurs IA et semi-conducteurs, historiquement très cycliques.",
+    "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée. Elle ne remplace pas l'avis d'un conseiller en investissement financier agréé, et ne tient pas compte de votre situation personnelle."
   }
 }
