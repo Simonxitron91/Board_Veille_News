@@ -1,37 +1,44 @@
 {
   "weekday": "vendredi",
-  "generated_at": "2026-08-14T07:01:51.608246+00:00",
+  "generated_at": "2026-08-21T06:21:18.912721+00:00",
   "categories": {
     "ia": {
       "label": "Intelligence Artificielle",
       "items": [
         {
-          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-          "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-          "date": "2026-08-13"
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "date": "2026-08-21"
         },
         {
-          "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-          "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+          "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-          "date": "2026-08-13"
+          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+          "date": "2026-08-20"
         },
         {
-          "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+          "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-          "date": "2026-08-13"
+          "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+          "date": "2026-08-20"
         },
         {
-          "title": "IBM partners with OpenAI to bolster enterprise AI push",
-          "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+          "title": "OK, can we actually cool data centers with our pee?",
+          "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-          "date": "2026-08-13"
+          "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+          "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+          "date": "2026-08-19"
         },
         {
           "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -55,39 +62,32 @@
           "date": "2026-01-19"
         },
         {
-          "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-          "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a…",
-          "source": "VentureBeat AI",
-          "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-          "date": "2026-01-16"
+          "title": "Debates over AI consciousness are a trap",
+          "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for…",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+          "date": "2026-08-20"
         },
         {
-          "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-          "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for…",
+          "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-          "date": "2026-08-13"
+          "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+          "date": "2026-08-20"
         },
         {
-          "title": "Building a practical path to post-quantum cryptography",
-          "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be…",
+          "title": "The next big thing in hydrogen could be underground",
+          "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-          "date": "2026-08-13"
+          "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+          "date": "2026-08-20"
         },
         {
-          "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-          "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and…",
+          "title": "Unlocking hidden revenue streams with market models",
+          "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway,…",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-          "date": "2026-08-13"
+          "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+          "date": "2026-08-20"
         }
       ]
     },
@@ -95,60 +95,67 @@
       "label": "Cybersécurité",
       "items": [
         {
-          "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-          "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature…",
+          "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+          "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-          "date": "2026-08-13"
+          "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+          "date": "2026-08-20"
         },
         {
-          "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-          "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France,…",
+          "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+          "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-          "date": "2026-08-12"
+          "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+          "date": "2026-08-20"
         },
         {
-          "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-          "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published…",
+          "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
+          "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-          "date": "2026-08-12"
+          "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+          "date": "2026-08-20"
         },
         {
-          "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-          "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning…",
+          "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+          "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-          "date": "2026-08-12"
+          "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+          "date": "2026-08-20"
         },
         {
-          "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
-          "summary": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
+          "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+          "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+          "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "How MSPs can catch phishing attacks email filters miss",
+          "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+          "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Who’s Tracking You? Use This New Service to Find Out",
+          "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
           "date": "2026-08-14"
-        },
-        {
-          "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
-          "summary": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-          "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "Hackers breach govt webmail while running parallel crypto fraud",
-          "summary": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-          "date": "2026-08-13"
         },
         {
           "title": "Microsoft Plugs Nearly 400 Security Holes",
@@ -170,13 +177,6 @@
           "source": "Krebs on Security",
           "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
           "date": "2026-07-30"
-        },
-        {
-          "title": "LG to Ban Residential Proxies from Smart TV Apps",
-          "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42…",
-          "source": "Krebs on Security",
-          "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-          "date": "2026-07-22"
         }
       ]
     },
@@ -184,32 +184,32 @@
       "label": "Économie & Marchés",
       "items": [
         {
-          "title": "AARP issues urgent call on Medicare drug costs",
+          "title": "Bank of America sends message on Capital One stock",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/aarp-issues-urgent-call-medicare-221700862.html",
-          "date": "2026-08-12"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html",
+          "date": "2026-08-20"
         },
         {
-          "title": "Dear Cerebras Stock Fans, Mark Your Calendars for August 18",
+          "title": "Here Is How to Play Tesla Stock After Its Robotaxi Breakthrough",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/dear-cerebras-stock-fans-mark-185630530.html",
-          "date": "2026-08-12"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/play-tesla-stock-robotaxi-breakthrough-182118444.html",
+          "date": "2026-08-19"
         },
         {
-          "title": "A $22 Million Reason Why AEHR Stock Is Up Today",
+          "title": "These AI Companies Pile Up Massive Debt",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/22-million-reason-why-aehr-185805358.html",
-          "date": "2026-08-12"
+          "url": "https://www.investors.com/news/ai-stocks-debt-whitefiber-nebius-neocloud/?src=A00220&yptr=yahoo",
+          "date": "2026-08-19"
         },
         {
-          "title": "Dear Intuit Stock Fans, Mark Your Calendars for August 25",
+          "title": "Morgan Stanley Just Upgraded Honeywell Aerospace Stock. Here's Why.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dear-intuit-stock-fans-mark-185751497.html",
-          "date": "2026-08-12"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-upgraded-honeywell-182101144.html",
+          "date": "2026-08-19"
         }
       ]
     },
@@ -217,88 +217,88 @@
       "label": "Cryptomonnaies",
       "items": [
         {
-          "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+          "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
-          "date": "2026-08-14"
+          "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
+          "date": "2026-08-21"
         },
         {
-          "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+          "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
-          "date": "2026-08-14"
+          "url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
+          "date": "2026-08-21"
         },
         {
-          "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+          "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
-          "date": "2026-08-13"
+          "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
+          "date": "2026-08-21"
         },
         {
-          "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+          "title": "Bitcoin pushes past $75,000 as rally continues.",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-          "date": "2026-08-13"
+          "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
+          "date": "2026-08-21"
         },
         {
-          "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
-          "summary": "BA Labs had previously classified a proposed NUSD integration as higher risk because of its counterparty, operational and liquidity exposure.",
+          "title": "Here’s what happened in crypto today",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-08-14"
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-08-21"
         },
         {
-          "title": "Figure reports $4.3B in loan marketplace volume as profit nearly triples",
-          "summary": "Figure expects consumer loan marketplace volume to range from $4.8 billion to $5.2 billion in the third quarter.",
+          "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
+          "summary": "The proposal would let the FIU investigate suspected violations and refer unregistered crypto operators directly to law enforcement.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-08-14"
+          "url": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-08-21"
         },
         {
-          "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
-          "summary": "Advances in compact proofs have erased Poseidon’s previous performance advantage, according to researcher Justin Drake.",
+          "title": "MANTRA token sinks 18% to record low amid blockchain halt",
+          "summary": "The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-08-13"
+          "url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-08-21"
         },
         {
-          "title": "City of Baltimore goes after prediction markets for sports betting",
-          "summary": "The city’s complaint over gambling laws and deceptive trade practices included Robinhood, Webull and Coinbase as partners with prediction market platform Kalshi.",
+          "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
+          "summary": "UAE clients will be able to buy and hold crypto through Capital.com’s app, expanding beyond price exposure through contracts for difference.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-08-13"
+          "url": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-08-21"
         },
         {
-          "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
-          "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
+          "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
+          "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
-          "date": "2026-08-13"
+          "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
+          "date": "2026-08-20"
         },
         {
-          "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-          "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
+          "title": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
+          "summary": "Bitcoin's surge above $72,000 wiped out billions in bearish bets, but analysts say fresh buying will be needed to keep the rally going.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-          "date": "2026-08-13"
+          "url": "https://decrypt.co/376155/what-next-for-bitcoin-price-experts-weigh-in",
+          "date": "2026-08-20"
         },
         {
-          "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
-          "summary": "6th Man Ventures co-founder Mike Dudas says Solana’s infrastructure could carry crypto’s next wave.",
+          "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
+          "summary": "Bitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip—but the longer-term bets still price in a crash.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
-          "date": "2026-08-13"
+          "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
+          "date": "2026-08-20"
         },
         {
-          "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-          "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
+          "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+          "summary": "The CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
-          "date": "2026-08-13"
+          "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
+          "date": "2026-08-20"
         }
       ]
     },
@@ -306,88 +306,88 @@
       "label": "Géopolitique & Général",
       "items": [
         {
-          "title": "'Unprecedented' rains in Japan kill six people",
-          "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+          "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+          "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-14"
+          "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-20"
         },
         {
-          "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-          "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+          "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+          "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13"
+          "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-20"
         },
         {
-          "title": "US says dozens of countries helped China dodge Trump's tariffs",
-          "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+          "title": "El Niño set to be 'strongest in living memory', says Met Office",
+          "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-14"
+          "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-21"
         },
         {
-          "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-          "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+          "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+          "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13"
+          "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-21"
         },
         {
-          "title": "De Jean-Marie à Marine Le Pen : la métamorphose du Front national (1/3)",
-          "summary": "De la dédiabolisation à la présidentialisation du RN (1/3). En prenant en 2011 la succession de son père Jean-Marie Le Pen à la tête du Front national, Marine Le Pen se retrouve aux commandes d’un parti englué dans les polémiques antisémites à répétition…",
+          "title": "Ligue Conférence : Monaco prend une option en Pologne",
+          "summary": "Monaco s’est imposé sur le terrain du Gornik Zabrze (3-2), en barrages aller de la Ligue Conférence. Mika Biereth a ouvert le score pour les Monégasques, avant que Lamine Camara ne double la mise après la pause. Paris Brunner a ensuite redonné l’avantage au…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/france/20260814-france-serie-du-fn-au-rn-jean-marie-le-pen-marine-le-pen-metamorphose-dediabolisation-du-front-national",
-          "date": "2026-08-14"
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260821-ligue-conf%C3%A9rence-monaco-prend-option-pologne",
+          "date": "2026-08-21"
         },
         {
-          "title": "Ferran Torres, héros de la finale de la Coupe du monde, va rejoindre le PSG",
-          "summary": "Le Paris Saint-Germain a trouvé un accord avec le FC Barcelone pour l'arrivée de Ferran Torres, auteur du but de la victoire de l'Espagne en finale de la dernière Coupe du monde. L'attaquant de 26 ans devrait rejoindre le champion d'Europe en titre pour un…",
+          "title": "Désormais incontournable, le RN entre présidentialisation et refus de l’État de droit (3/3)",
+          "summary": "De la dédiabolisation à la présidentialisation du RN (3/3). Fort de nombreux députés élus à l’Assemblée nationale, le RN influence de plus en plus la vie politique française. Sa participation à la marche contre l’antisémitisme après les attaques du 7-Octobre…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260814-ferran-torres-h%C3%A9ros-de-la-finale-de-la-coupe-du-monde-va-rejoindre-le-psg",
-          "date": "2026-08-14"
+          "url": "https://www.france24.com/fr/france/20260821-france-rassemblement-national-entre-presidentialisation-refus-etat-de-droit-incontournable",
+          "date": "2026-08-21"
         },
         {
-          "title": "Législative partielle au Royaume-Uni : Nigel Farage réélu face au candidat Tête-de-poubelle",
-          "summary": "Nigel Farage, chef du parti anti-immigration Reform UK, a été réélu député lors de la législative partielle de Clacton, un scrutin qu'il a lui-même provoqué après avoir été rattrapé par des affaires de dons non déclarés. Il a obtenu 22 239 voix contre 9 455…",
+          "title": "Moyen-Orient en direct : le trafic dans le détroit d'Ormuz baisse encore",
+          "summary": "Sept navires seulement ​ont traversé le ‌détroit d'Ormuz jeudi, moitié moins que la veille, ‌selon les données deKpler. Les armateurs continuent de craindre ⁠d'emprunter cet axe essentiel pour le commerce mondial, notamment des hydrocarbures. Suivez notre…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/europe/20260814-l%C3%A9gislative-partielle-au-royaume-uni-nigel-farage-revendique-la-victoire",
-          "date": "2026-08-14"
+          "url": "https://www.france24.com/fr/moyen-orient/20260821-en-direct-n%C3%A9gociations-au-point-mort-le-trafic-dans-le-d%C3%A9troid-d-ormuz-en-baisse",
+          "date": "2026-08-21"
         },
         {
-          "title": "Landes, Grèce, Croatie... L'Europe continue de lutter contre les incendies",
-          "summary": "Les Landes, dans le sud-ouest de la France, étaient le théâtre d'un nouvel incendie, qui a déjà parcouru 1 100 hectares et provoqué 500 évacuations, dans la nuit de jeudi à vendredi. En Croatie, un violent feu de forêt a embrasé une localité du littoral,…",
+          "title": "Les États-Unis somment leurs alliés et la Chine de couper leurs liens avec l'Iran",
+          "summary": "Après près de six mois de guerre et faute de percée diplomatique, l'administration Trump veut mobiliser ses alliés et la Chine dans une campagne de \"pression économique maximale\" contre Téhéran, menaçant de lourdes conséquences les pays qui continueraient à…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/europe/20260814-landes-grece-croatie-europe-continue-lutter-incendies-feux-de-foret",
-          "date": "2026-08-14"
+          "url": "https://www.france24.com/fr/moyen-orient/20260821-les-%C3%A9tats-unis-somment-leurs-alli%C3%A9s-et-la-chine-de-couper-leurs-liens-avec-l-iran",
+          "date": "2026-08-21"
         },
         {
-          "title": "Pourquoi les canicules se répètent-elles en France ? Les questions suscitées par une succession inédite de vagues de chaleur",
-          "summary": "Entre mai et juillet, la France a été le pays le plus anormalement chaud du monde. Le rôle du réchauffement climatique ne fait pas de doute, mais la fréquence des canicules n’avait pas été anticipée. Les causes possibles sont débattues dans la communauté…",
+          "title": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques incapables de répondre à l’urgence climatique",
+          "summary": "Alors que la France subit une série d’événements extrêmes, ni le gouvernement ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalement le défi climatique.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/14/pourquoi-les-canicules-se-repetent-elles-en-france-les-questions-posees-par-une-succession-inedite-de-vagues-de-chaleur_6746106_3244.html",
-          "date": "2026-08-14"
+          "url": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html",
+          "date": "2026-08-21"
         },
         {
-          "title": "L’été sous tension de Sébastien Lecornu entre incendies et préparation du budget",
-          "summary": "Le chef du gouvernement a planché sur le projet de loi de finances de 2027, qu’il va présenter en conseil des ministres, le 30 septembre. Un « budget de compromis », a-t-il prévenu en juillet.",
+          "title": "En Israël, avant les élections législatives d’octobre, la sortie de la guerre est absente des esprits comme des programmes",
+          "summary": "Les enquêtes d’opinion dressent le portrait d’une société qui perd espoir dans son avenir sans voir d’alternative au recours à la force. Les candidats se gardent d’apparaître moins crédibles sur les enjeux de sécurité que le premier ministre, Benyamin…",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/08/14/l-ete-sous-tension-de-sebastien-lecornu-entre-incendies-et-preparation-du-budget_6746214_823448.html",
-          "date": "2026-08-14"
+          "url": "https://www.lemonde.fr/international/article/2026/08/21/en-israel-la-sortie-de-la-guerre-est-absente-des-esprits-comme-des-programmes-avant-les-elections-legislatives-d-octobre_6751571_3210.html",
+          "date": "2026-08-21"
         },
         {
-          "title": "Le Japon sous le choc après une visite de Vladimir Poutine sur des territoires disputés du sud des îles Kouriles",
-          "summary": "Le déplacement du chef de l’Etat russe a été qualifié d’« inacceptable » par la première ministre nippone. Les quatre îles de l’archipel sont administrées par la Russie depuis 1946, mais toujours revendiquées par le Japon, qui souhaiterait les récupérer.",
+          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "summary": "Deux femmes ont été tuées au cours de la nuit de jeudi à vendredi, dans le village de Lebiaje, dans le district ukrainien de Tchouhouïv, lors d’une attaque de drones, a annoncé le chef de l’administration militaire de l’oblast de Kharkiv.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/08/14/le-japon-sous-le-choc-apres-une-visite-de-vladimir-poutine-sur-des-territoires-disputes-du-sud-des-iles-kouriles_6746073_3210.html",
-          "date": "2026-08-14"
+          "url": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6746952_3210.html",
+          "date": "2026-08-21"
         },
         {
-          "title": "La plateforme des impôts, Impots.gouv.fr, victime d’une cyberattaque",
-          "summary": "Bercy confirme une partie des affirmations du pirate, à savoir qu’il avait été repéré, en juin, par les services du ministère de l’économie. Mais ce dernier n’avait alors pas communiqué et n’avait surtout, semble-t-il, pas détecté la fuite de données.",
+          "title": "Scott Bessent, le secrétaire américain au Trésor, à l’assaut des marchés obligataires pour faire baisser les taux",
+          "summary": "En annonçant, mercredi 19 août, que le Trésor américain allait doubler ses rachats de dette américaine à long terme, Scott Bessent cherche à faire baisser les taux longs qui financent l’économie des Etats-Unis.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html",
-          "date": "2026-08-13"
+          "url": "https://www.lemonde.fr/economie/article/2026/08/21/scott-bessent-le-secretaire-americain-au-tresor-se-croit-capable-de-defier-la-toute-puissance-des-marches-obligataires_6751496_3234.html",
+          "date": "2026-08-21"
         }
       ]
     },
@@ -395,60 +395,60 @@
       "label": "Science",
       "items": [
         {
-          "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-          "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10959-w Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+          "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+          "summary": "Nature, Published online: 20 August 2026; doi:10.1038/s41586-026-11043-z Dialkyl ether synthesis through heteroatom homolytic substitution",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/s41586-026-10959-w",
-          "date": "2026-08-13"
+          "url": "https://www.nature.com/articles/s41586-026-11043-z",
+          "date": "2026-08-20"
         },
         {
-          "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-          "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10960-3 Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+          "title": "Hidden volcanoes hint at Moon’s turbulent past",
+          "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02555-9 A pair of massive shield volcanoes have been pinpointed by lunar spacecraft.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/s41586-026-10960-3",
-          "date": "2026-08-13"
+          "url": "https://www.nature.com/articles/d41586-026-02555-9",
+          "date": "2026-08-20"
         },
         {
-          "title": "How to make your science business succeed when you’re a female founder",
-          "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-01904-y Sexist assumptions and a male-dominated culture can make it harder for women to attract investment for the companies they set up.",
+          "title": "To shield the fetus, link a protein to these drugs",
+          "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02553-x Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-01904-y",
-          "date": "2026-08-13"
+          "url": "https://www.nature.com/articles/d41586-026-02553-x",
+          "date": "2026-08-20"
         },
         {
-          "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
-          "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02503-7 New Claude models will watermark text and tag images as AI-generated, as Anthropic responds to EU AI regulations.",
+          "title": "Astronaut vest cuts radiation exposure in half",
+          "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02556-8 Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02503-7",
-          "date": "2026-08-13"
+          "url": "https://www.nature.com/articles/d41586-026-02556-8",
+          "date": "2026-08-20"
         },
         {
-          "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-          "summary": "Let's shield the astronauts instead of the spacecraft.",
+          "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+          "summary": "The yeetcycling math resembles asteroid mining in reverse.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-          "date": "2026-08-13"
+          "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+          "date": "2026-08-20"
         },
         {
-          "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-          "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
+          "title": "Scientists find closest star to the Milky Way's central black hole",
+          "summary": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-          "date": "2026-08-12"
+          "url": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+          "date": "2026-08-19"
         },
         {
-          "title": "Did poop enable the evolution of complex animals?",
-          "summary": "In a recent study, evolution gets even messier than usual.",
+          "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+          "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
-          "date": "2026-08-12"
+          "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+          "date": "2026-08-18"
         },
         {
-          "title": "Tracking extreme heat by the hour makes climate change seem even worse",
-          "summary": "Hot hours of summer could triple in the coming decades.",
+          "title": "X-rays add new twist to narwhal's spiral tusk",
+          "summary": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
-          "date": "2026-08-11"
+          "url": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+          "date": "2026-08-18"
         }
       ]
     },
@@ -456,32 +456,32 @@
       "label": "Politique",
       "items": [
         {
-          "title": "L’été sous tension de Sébastien Lecornu entre incendies et préparation du budget",
-          "summary": "Le chef du gouvernement a planché sur le projet de loi de finances de 2027, qu’il va présenter en conseil des ministres, le 30 septembre. Un « budget de compromis », a-t-il prévenu en juillet.",
+          "title": "Après les canicules et les incendies, le RN rattrapé par son absence de réflexion écologique",
+          "summary": "Si ses porte-parole ont cessé de contester la réalité du réchauffement climatique, le parti, très critique des écologistes et du gouvernement, peine à développer un discours crédible sur l’adaptation à la crise.",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/politique/article/2026/08/14/l-ete-sous-tension-de-sebastien-lecornu-entre-incendies-et-preparation-du-budget_6746214_823448.html",
-          "date": "2026-08-14"
+          "url": "https://www.lemonde.fr/politique/article/2026/08/21/apres-les-canicules-et-les-incendies-le-rassemblement-national-rattrape-par-son-absence-de-reflexion-ecologique_6751610_823448.html",
+          "date": "2026-08-21"
         },
         {
-          "title": "« En France, le développement anarchique des data centers relève davantage du Far West que de l’eldorado numérique »",
-          "summary": "Après le retrait du permis de construire d’un projet de centre de données au Bourget, Stéphane Troussel, président du conseil départemental de Seine-Saint-Denis, appelle, dans une tribune au « Monde », à un temps de pause et de concertation, dans l’intérêt…",
+          "title": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques incapables de répondre à l’urgence climatique",
+          "summary": "Alors que la France subit une série d’événements extrêmes, ni le gouvernement ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalement le défi climatique.",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/idees/article/2026/08/14/en-france-le-developpement-anarchique-des-data-centers-releve-davantage-du-far-west-que-de-l-eldorado-numerique_6746141_3232.html",
-          "date": "2026-08-14"
+          "url": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html",
+          "date": "2026-08-21"
         },
         {
-          "title": "Budget 2027 : Sébastien Lecornu prépare une baisse très limitée du déficit et vise autour de 4,9 % du PIB",
-          "summary": "Le premier ministre a prévu de présenter son projet de loi de finances dès le 30 septembre. Selon les informations du « Monde », il s’oriente vers une baisse jugée « réaliste » du déficit, sans réforme majeure ni nouvel impôt. L’objectif de ramener le déficit…",
+          "title": "Jean Jouzel, climatologue : « Il n’y a pas, chez les candidats à la présidentielle, une véritable prise de conscience de la réalité du réchauffement climatique »",
+          "summary": "Le paléoclimatologue, ancien vice-président du GIEC, craint que la question climatique ne soit reléguée au second plan lorsque les températures redescendront. Dans un entretien au « Monde », il appelle les prétendants à l’Elysée à « prendre la mesure de ce…",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/politique/article/2026/08/13/budget-2027-sebastien-lecornu-prepare-une-baisse-tres-limitee-du-deficit-avec-un-nouvel-objectif-a-4-9-du-pib_6745799_823448.html",
-          "date": "2026-08-13"
+          "url": "https://www.lemonde.fr/planete/article/2026/08/21/jean-jouzel-climatologue-il-n-y-a-pas-chez-les-candidats-a-la-presidentielle-une-veritable-prise-de-conscience-de-la-realite-du-rechauffement-climatique_6751428_3244.html",
+          "date": "2026-08-21"
         },
         {
-          "title": "« On essaie de bousculer les habitudes » : pour la présidentielle 2027, les formations de jeunesse des partis politiques comptent bien jouer leur carte",
-          "summary": "Sur le terrain tout l’été, les organisations de jeunes de LFI, d’Horizons, de LR ou du PS tentent d’exister dans la campagne présidentielle et sont particulièrement actives pour mobiliser les jeunes électeurs.",
+          "title": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat et promet une future réforme « juste »",
+          "summary": "Pour freiner la croissance des dépenses de santé, le gouvernement avait annoncé il y a près d’un mois le doublement du montant maximum des franchises, de 100 à 200 euros par an. La ministre de la santé, Stéphanie Rist, a admis que ce choix avait pu apparaître…",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/politique/article/2026/08/13/on-essaie-de-bousculer-les-habitudes-pour-la-presidentielle-2027-les-formations-de-jeunesse-des-partis-politiques-comptent-bien-jouer-leur-carte_6745504_823448.html",
-          "date": "2026-08-13"
+          "url": "https://www.lemonde.fr/politique/article/2026/08/20/franchises-medicales-le-gouvernement-renonce-au-doublement-des-plafonds-dans-l-immediat-annonce-stephanie-rist_6751296_823448.html",
+          "date": "2026-08-20"
         }
       ]
     }
@@ -490,71 +490,71 @@
     {
       "id": "bitcoin",
       "symbol": "BIT",
-      "eur": 54511,
-      "usd": 62915,
-      "change_24h": -1.47
+      "eur": 64367,
+      "usd": 75260,
+      "change_24h": 8.32
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "eur": 1621.25,
-      "usd": 1871.21,
-      "change_24h": -1.29
+      "eur": 2020.54,
+      "usd": 2362.47,
+      "change_24h": 5.25
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "eur": 65.4,
-      "usd": 75.48,
-      "change_24h": -1.23
+      "eur": 77.49,
+      "usd": 90.6,
+      "change_24h": 6.76
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "eur": 0.871178,
-      "usd": 1.005,
-      "change_24h": -0.82
+      "eur": 1.12,
+      "usd": 1.31,
+      "change_24h": 18.99
     }
   ],
   "market_indices": [],
   "mentioned_companies": [
     {
-      "name": "Anthropic",
-      "mentions": 8
-    },
-    {
-      "name": "OpenAI",
-      "mentions": 6
-    },
-    {
       "name": "Google",
-      "mentions": 5
+      "mentions": 4
+    },
+    {
+      "name": "Anthropic",
+      "mentions": 2
     },
     {
       "name": "Microsoft",
-      "mentions": 4
+      "mentions": 2
     },
     {
       "name": "Apple",
       "mentions": 2
     },
     {
-      "name": "Meta",
+      "name": "OpenAI",
       "mentions": 1
     },
     {
-      "name": "Coinbase",
+      "name": "Tesla",
+      "mentions": 1
+    },
+    {
+      "name": "Ripple",
       "mentions": 1
     }
   ],
   "investissement": {
     "signaux": [
-      "'OpenAI' mentionné 6x dans les flux du jour",
-      "'Anthropic' mentionné 8x dans les flux du jour",
-      "'Google' mentionné 5x dans les flux du jour",
-      "'Meta' mentionné 1x dans les flux du jour",
-      "'Microsoft' mentionné 4x dans les flux du jour",
-      "'ransomware' mentionné 1x dans les flux du jour"
+      "'OpenAI' mentionné 1x dans les flux du jour",
+      "'Anthropic' mentionné 2x dans les flux du jour",
+      "'Google' mentionné 4x dans les flux du jour",
+      "'Microsoft' mentionné 2x dans les flux du jour",
+      "'Bitcoin' mentionné 7x dans les flux du jour",
+      "'SEC' mentionné 9x dans les flux du jour"
     ],
     "framework": "Cadre d'analyse à moyen/long terme : privilégier la diversification sectorielle plutôt que le pari sur un seul acteur IA ; suivre les échéances réglementaires (AI Act, textes nationaux) qui peuvent créer de la volatilité court-terme sur les valeurs tech ; garder une exposition mesurée à l'énergie/matières premières en période de tensions géopolitiques ; le dollar-cost averaging (investissement périodique) reste une approche disciplinée pour lisser la volatilité sur les valeurs IA et semi-conducteurs, historiquement très cycliques.",
     "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée. Elle ne remplace pas l'avis d'un conseiller en investissement financier agréé, et ne tient pas compte de votre situation personnelle."
