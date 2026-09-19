@@ -1,65 +1,65 @@
 {
   "weekday": "samedi",
-  "generated_at": "2026-09-12T09:39:02.692145+00:00",
+  "generated_at": "2026-09-19T09:47:28.527913+00:00",
   "categories": {
     "ia": {
       "label": "Intelligence Artificielle",
       "items": [
         {
-          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-          "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+          "title": "India forces caller-ID apps to feed spam reports to telcos",
+          "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-          "date": "2026-09-11"
+          "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+          "date": "2026-09-19"
         },
         {
-          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-          "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+          "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+          "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-          "date": "2026-09-11"
+          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+          "date": "2026-09-19"
         },
         {
-          "title": "OpenAI’s feud with mathematicians is only escalating",
-          "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-          "date": "2026-09-11"
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+          "date": "2026-09-18"
         },
         {
-          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-          "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+          "title": "Anthropic is operating a lab that conducts biology experiments",
+          "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-          "date": "2026-09-11"
+          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+          "date": "2026-09-18"
         },
         {
-          "title": "Roundtables: AI’s apocalypse crisis",
-          "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a…",
+          "title": "The Download: AI’s extinction risk and bioweapons threat",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-          "date": "2026-09-11"
+          "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+          "date": "2026-09-18"
         },
         {
-          "title": "The Download: biotech’s future and cheaper, cleaner steel",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35…",
+          "title": "Could AI really kill us all? Your questions, answered.",
+          "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session.…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-          "date": "2026-09-11"
+          "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+          "date": "2026-09-18"
         },
         {
-          "title": "Meet the under-35s shaping the future of biotech",
-          "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of…",
+          "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+          "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-          "date": "2026-09-11"
+          "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+          "date": "2026-09-18"
         },
         {
-          "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to…",
+          "title": "The Download: mice with part-human brains and climate tech innovators",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-          "date": "2026-09-10"
+          "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+          "date": "2026-09-17"
         }
       ]
     },
@@ -67,60 +67,67 @@
       "label": "Cybersécurité",
       "items": [
         {
-          "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-          "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path…",
+          "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+          "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-          "date": "2026-09-11"
+          "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-          "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a…",
+          "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+          "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents occurred in…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-          "date": "2026-09-11"
+          "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-          "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial…",
+          "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+          "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18. The French security company had kept his GitHub access open. CrowdSec says his laptop was…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-          "date": "2026-09-11"
+          "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-          "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage…",
+          "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-          "date": "2026-09-11"
+          "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-          "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+          "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+          "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-          "date": "2026-09-11"
+          "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+          "date": "2026-09-18"
         },
         {
-          "title": "Florida confirms DMV database breached via stolen police account",
-          "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
+          "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+          "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-          "date": "2026-09-11"
+          "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+          "date": "2026-09-18"
         },
         {
-          "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-          "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
+          "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+          "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access governance and…",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-          "date": "2026-09-11"
+          "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+          "date": "2026-09-18"
         },
         {
-          "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-          "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+          "title": "Microsoft Teams will let admins block custom file extensions",
+          "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-          "date": "2026-09-11"
+          "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+          "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+          "date": "2026-09-16"
         },
         {
           "title": "Microsoft Plugs Nearly 1,000 Security Holes",
@@ -142,13 +149,6 @@
           "source": "Krebs on Security",
           "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
           "date": "2026-08-27"
-        },
-        {
-          "title": "Who’s Tracking You? Use This New Service to Find Out",
-          "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has…",
-          "source": "Krebs on Security",
-          "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-          "date": "2026-08-14"
         }
       ]
     },
@@ -156,32 +156,32 @@
       "label": "Économie & Marchés",
       "items": [
         {
-          "title": "Man declares bankruptcy with 34 cents while hiding millions",
+          "title": "Is Marsh & McLennan Stock Underperforming the S&P 500?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/man-declares-bankruptcy-34-cents-234136167.html",
-          "date": "2026-09-10"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-stock-underperforming-p-063453524.html",
+          "date": "2026-09-18"
         },
         {
-          "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
+          "title": "I Have $1.7M Invested With an Advisor and Pay a 1% Fee. Is That Too Much?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/hive-brings-enterprise-veteran-scale-233612805.html",
-          "date": "2026-09-10"
+          "url": "https://finance.yahoo.com/news/1-7m-invested-advisor-pay-120000978.html",
+          "date": "2026-09-18"
         },
         {
-          "title": "Popular women's clothing chain closes 177 stores",
+          "title": "US Dollar Price Forecast: DXY Holds Above 100 as EUR and GBP Face Policy Tests",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
-          "date": "2026-09-10"
+          "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-063047247.html",
+          "date": "2026-09-18"
         },
         {
-          "title": "Delcath’s (DCTH) Liver Cancer Device Keeps Growing, But At A Cost",
+          "title": "Is Tyson Foods Stock Underperforming the Nasdaq?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/delcath-dcth-liver-cancer-device-062417595.html",
-          "date": "2026-09-11"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-stock-underperforming-nasdaq-070706294.html",
+          "date": "2026-09-18"
         }
       ]
     },
@@ -189,88 +189,88 @@
       "label": "Cryptomonnaies",
       "items": [
         {
-          "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+          "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-          "date": "2026-09-11"
+          "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+          "date": "2026-09-18"
         },
         {
-          "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+          "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
-          "date": "2026-09-11"
+          "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+          "date": "2026-09-18"
         },
         {
-          "title": "With Fed rate hike all but assured, here's how markets might react",
+          "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
-          "date": "2026-09-11"
+          "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+          "date": "2026-09-18"
         },
         {
-          "title": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
+          "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
-          "date": "2026-09-11"
+          "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+          "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-09-19"
         },
         {
           "title": "Here’s what happened in crypto today",
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
           "source": "Cointelegraph",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-09-11"
+          "date": "2026-09-18"
         },
         {
-          "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
-          "summary": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.",
+          "title": "Coinbase files to bring single-stock perpetual futures to US market",
+          "summary": "Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, with its proposed contracts now awaiting regulatory approval.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-09-11"
+          "url": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-09-18"
         },
         {
-          "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
-          "summary": "The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.",
+          "title": "Binance launches 24/7 FX perps with weekend pricing system",
+          "summary": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-09-11"
+          "url": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-09-18"
         },
         {
-          "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-          "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
-          "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
-          "summary": "Greenberg Traurig said documents were posted to the dark web, while BakerHostetler recorded a near-doubling of law-firm incidents in 2025.",
+          "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+          "summary": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
-          "date": "2026-09-11"
+          "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+          "date": "2026-09-18"
         },
         {
-          "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
-          "summary": "A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.",
+          "title": "Zcash Is Running—Devs Want to Make It Faster",
+          "summary": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
-          "date": "2026-09-11"
+          "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+          "date": "2026-09-18"
         },
         {
-          "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-          "summary": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
+          "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
+          "summary": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
-          "date": "2026-09-11"
+          "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+          "date": "2026-09-18"
         },
         {
-          "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
-          "summary": "Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.",
+          "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
+          "summary": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
-          "date": "2026-09-11"
+          "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
+          "date": "2026-09-18"
         }
       ]
     },
@@ -278,88 +278,88 @@
       "label": "Géopolitique & Général",
       "items": [
         {
-          "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-          "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-12"
+          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18"
         },
         {
-          "title": "Trump meeting Irish leader Micheál Martin during visit",
-          "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+          "title": "Trump says he is banning CNN and Politico from White House",
+          "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-12"
+          "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-19"
         },
         {
-          "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-          "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+          "title": "Google's Gemini AI hacked three companies in security test",
+          "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-11"
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-19"
         },
         {
-          "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-          "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+          "title": "Trump signs sweeping Russia sanctions bill",
+          "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-12"
+          "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18"
         },
         {
-          "title": "Déraillement d'un TER en Normandie : la piste de l'acte malveillant privilégiée",
-          "summary": "La piste de l'acte malveillant était privilégiée par les enquêteurs samedi matin, au lendemain du déraillement d'un train régional transportant 186 passagers et assurant la liaison Rouen-Caen en Seine-Maritime. Une quarantaine de personnes ont été blessées,…",
+          "title": "Trump annonce avoir obtenu un \"contrôle permanent\" sur la sécurité du Groenland",
+          "summary": "Donald Trump a annoncé vendredi 18 septembre avoir obtenu du Danemark et du Groenland un \"contrôle permanent\" de la sécurité du territoire arctique stratégique qui permettra, selon Washington, d'empêcher les adversaires des Etats-Unis, Chine et Russie en…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/france/20260912-france-deraillement-ter-normandie-piste-acte-malveillant-privilegiee",
-          "date": "2026-09-12"
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260919-trump-annonce-avoir-obtenu-un-contr%C3%B4le-permanent-sur-la-s%C3%A9curit%C3%A9-du-groenland",
+          "date": "2026-09-19"
         },
         {
-          "title": "Biennale panafricaine d'architecture au Kenya : penser la ville de demain",
-          "summary": "Comment penser la ville africaine de demain ?",
+          "title": "Ligue Europa : l’OM sombre à Besiktas",
+          "summary": "Marseille s’est lourdement incliné en Turquie face à Besiktas (4-1) pour ses débuts en Ligue Europa. L’OM concède une quatrième défaite consécutive alors qu'il doit désormais préparer le Classique face au PSG, ce dimanche au Vélodrome.",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260912-biennale-panafricaine-d-architecture-au-kenya-penser-la-ville-de-demain",
-          "date": "2026-09-12"
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260919-ligue-europa-l-om-sombre-%C3%A0-besiktas",
+          "date": "2026-09-19"
         },
         {
-          "title": "Le grand soir pour Céline Dion, après 6 ans d'absence à Paris",
-          "summary": "Plus de six ans qu'elle en rêvait : Céline Dion donne samedi soir le coup d'envoi d'une série de concerts devant des fans du monde entier, un retour en grande pompe près de Paris comme un symbole de sa résilience.",
+          "title": "Équipe de France : Zinédine Zidane, le vent de fraîcheur chez les Bleus",
+          "summary": "Pour sa première annonce de liste des Bleus vendredi, le nouveau sélectionneur a affirmé son choix de rupture avec Didier Deschamps. Cinq nouveaux joueurs, une philosophie de jeu portée vers l'avant... Avant ses débuts sur le banc en Ligue des Nations, \"ZZ\"…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260912-le-grand-soir-pour-c%C3%A9line-dion-apr%C3%A8s-6-ans-d-absence-%C3%A0-paris",
-          "date": "2026-09-12"
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260919-%C3%A9quipe-de-france-zin%C3%A9dine-zidane-le-vent-de-fra%C3%AEcheur-chez-les-bleus",
+          "date": "2026-09-19"
         },
         {
-          "title": "Céline et la France, une histoire qui dure depuis plus de 40 ans",
-          "summary": "Plus de six ans qu'elle en rêvait : Céline Dion donne samedi soir le coup d'envoi d'une série de concerts devant des fans du monde entier, un retour en grande pompe près de Paris comme un symbole de sa résilience.",
+          "title": "Une nouvelle espèce de chat sauvage découverte en Bolivie, une première en un siècle",
+          "summary": "Une nouvelle espèce de félin sauvage a été découverte en Bolivie, une première dans le monde depuis plus d'un siècle, a annoncé à l'AFP une des scientifiques boliviennes ayant participé à cette découverte.",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260912-c%C3%A9line-et-la-france-une-histoire-qui-dure-depuis-plus-de-40-ans",
-          "date": "2026-09-12"
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260919-une-nouvelle-esp%C3%A8ce-de-chat-sauvage-d%C3%A9couverte-en-bolivie-une-premi%C3%A8re-en-un-si%C3%A8cle",
+          "date": "2026-09-19"
         },
         {
-          "title": "Comment l’IA a suscité un vent de panique cet été, dans le sillage du piratage de Hugging Face",
-          "summary": "Plusieurs événements au cours desquels des intelligences artificielles ont échappé à leurs concepteurs ont provoqué des craintes sur les capacités des IA en matière de cybersécurité. Une inquiétude pas entièrement justifiée.",
+          "title": "L’administration Trump déstabilisée par la déferlante IA avant la visite de Xi Jinping",
+          "summary": "La chaîne CNN a révélé, vendredi, qu’une erreur d’une intelligence artificielle a failli provoquer l’assaut d’un navire chinois soupçonné de transporter du matériel nucléaire près d’Ormuz. Le président américain, lui, craint que l’éclatement de la bulle IA…",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/12/comment-l-ia-a-suscite-un-vent-de-panique-cet-ete-dans-le-sillage-du-piratage-de-hugging-face_6770981_4408996.html",
-          "date": "2026-09-12"
+          "url": "https://www.lemonde.fr/economie/article/2026/09/19/etats-unis-la-deferlante-ia-destabilise-l-administration-trump-avant-la-visite-de-xi-jinping_6777224_3234.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "Budget : le gouvernement donne un nouveau coup de rabot en ciblant la mission écologie",
-          "summary": "Pour éviter un dérapage trop important du déficit en 2026, le gouvernement a annulé 500 millions d’euros de crédits et « surgelé » 783 autres millions, vendredi 11 septembre. La mission écologie est la plus durement touchée.",
+          "title": "Budget 2027 : le gouvernement envisage de geler les pensions de base pour les retraités touchant au moins 2034 euros par mois",
+          "summary": "Selon l’avant-projet de loi de financement de la Sécurité sociale loi, les retraités percevant entre 1260 et 2034 euros par mois verraient leur pension du régime général s’accroître, mais à un rythme moins soutenu que l’inflation. Les plus modestes…",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/11/budget-le-gouvernement-lance-un-nouveau-coup-de-rabot-en-ciblant-une-nouvelle-fois-la-mission-ecologie_6770635_823448.html",
-          "date": "2026-09-11"
+          "url": "https://www.lemonde.fr/politique/article/2026/09/19/budget-2027-le-gouvernement-envisage-de-geler-les-pensions-de-base-pour-les-retraites-touchant-au-moins-2034-euros-par-mois_6777535_823448.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "Céline Dion lance samedi soir une série de 16 concerts, pour son grand retour sur scène à Paris",
-          "summary": "Les concerts de la chanteuse québécoise, absente de la scène depuis six ans pour raisons de santé, auront lieu jusqu’au 14 octobre à la Plenitude Arena. Dix nouvelles dates sont prévues en mai.",
+          "title": "Carburants : la grande valse des propositions pour freiner l’envolée des prix, entre blocage et baisse des taxes",
+          "summary": "Face aux aides ciblées prolongées par le gouvernement, l’opposition et les candidats à l’élection présidentielle réclament des mesures plus ambitieuses pour soulager le pouvoir d’achat. Des solutions souvent très coûteuses pour les finances publiques et pour…",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/09/12/celine-dion-lance-samedi-soir-une-serie-de-16-concerts-pour-son-grand-retour-sur-scene-a-paris_6771055_3246.html",
-          "date": "2026-09-12"
+          "url": "https://www.lemonde.fr/economie/article/2026/09/19/carburants-la-grande-valse-des-propositions-pour-freiner-l-envolee-des-prix-entre-blocage-et-baisse-des-taxes_6777214_3235.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "L’Arabie saoudite, isolée face à l’Iran et aux rebelles houthistes du Yémen, cherche le soutien des Etats-Unis",
-          "summary": "Le royaume risque de perdre tout débouché maritime pour ses pétroliers, depuis que les rebelles alliés de Téhéran se sont emparés du détroit de Bab Al-Mandab, voie de sortie de la mer Rouge vers l’océan Indien, et tandis que l’Iran bloque le détroit d’Ormuz.",
+          "title": "Donald Trump annonce un accord de sécurité avec le Groenland, mettant fin au contentieux avec le Danemark, l’UE et l’OTAN",
+          "summary": "Le président américain a évoqué, vendredi, le développement d’une « large présence militaire » sur le territoire arctique, renonçant de fait aux velléités d’annexion qui avaient ouvert une crise avec ses alliés.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/12/l-arabie-saoudite-isolee-face-a-l-iran-et-aux-rebelles-houthistes-du-yemen-cherche-le-soutien-des-etats-unis_6770908_3210.html",
-          "date": "2026-09-12"
+          "url": "https://www.lemonde.fr/international/article/2026/09/19/donald-trump-annonce-un-accord-de-securite-avec-le-groenland-mettant-fin-au-contentieux-avec-le-danemark-l-ue-et-l-otan_6777111_3210.html",
+          "date": "2026-09-19"
         }
       ]
     },
@@ -367,60 +367,60 @@
       "label": "Science",
       "items": [
         {
-          "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8 Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.",
+          "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02893-8",
-          "date": "2026-09-11"
+          "url": "https://www.nature.com/articles/d41586-026-02897-4",
+          "date": "2026-09-18"
         },
         {
-          "title": "NSF moves to overhaul funding approach in line with White House priorities",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9 The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.",
+          "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02892-9",
-          "date": "2026-09-11"
+          "url": "https://www.nature.com/articles/d41586-026-02984-6",
+          "date": "2026-09-18"
         },
         {
-          "title": "People trust scientists seen to be 'on their side', UK study find",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02883-w Politics and personal values influence people’s confidence in scientists, finds new report",
+          "title": "Europe pushes for space independence amid geopolitical rifts",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02919-1 The European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02883-w",
-          "date": "2026-09-11"
+          "url": "https://www.nature.com/articles/d41586-026-02919-1",
+          "date": "2026-09-18"
         },
         {
-          "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3 Evoking emotions is more likely to prompt people to engage with climate efforts than are data alone.",
+          "title": "How research funding took me out of the lab and into leadership",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2 Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to research.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02763-3",
-          "date": "2026-09-11"
+          "url": "https://www.nature.com/articles/d41586-026-02184-2",
+          "date": "2026-09-18"
         },
         {
-          "title": "Some satellite companies still have an appetite for boutique launch services",
-          "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+          "title": "Finding the cells that put our brain to sleep",
+          "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-          "date": "2026-09-11"
+          "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+          "date": "2026-09-18"
         },
         {
-          "title": "Random rewards enrich classic game-theory insights",
-          "summary": "Simple games gain rich strategies in the face of noise.",
+          "title": "Meet the winner of Nikon's Small World in Motion video contest",
+          "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-          "date": "2026-09-11"
+          "url": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+          "date": "2026-09-18"
         },
         {
-          "title": "Trump's forced coal plant extensions thrown out by judge",
-          "summary": "The Department of Energy declared an \"emergency\" when none existed.",
+          "title": "EPA immediately sued over plans to repeal climate rules for power plants",
+          "summary": "Public health groups warn EPA rule will cost Americans billions in health bills.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-          "date": "2026-09-11"
+          "url": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+          "date": "2026-09-17"
         },
         {
-          "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-          "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
+          "title": "A dolphin named Bubbles makes other fish vomit, then eats it",
+          "summary": "\"Dolphins are predators and actively hunt their prey, whether it's been stolen from another species or not.”",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-          "date": "2026-09-11"
+          "url": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
+          "date": "2026-09-17"
         }
       ]
     },
@@ -428,32 +428,32 @@
       "label": "Politique",
       "items": [
         {
-          "title": "Le piège se referme sur l’économie française",
-          "summary": "La France doit investir davantage pour financer sa réindustrialisation et s’adapter au changement climatique, tout en réduisant un déficit public qui rogne ses marges de manœuvre. Mais les débats sur le budget 2027 et l’élection présidentielle compliquent…",
+          "title": "Budget 2027 : le gouvernement envisage de geler les pensions de base pour les retraités touchant au moins 2034 euros par mois",
+          "summary": "Selon l’avant-projet de loi de financement de la Sécurité sociale loi, les retraités percevant entre 1260 et 2034 euros par mois verraient leur pension du régime général s’accroître, mais à un rythme moins soutenu que l’inflation. Les plus modestes…",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/12/le-piege-se-referme-sur-l-economie-francaise_6771262_823448.html",
-          "date": "2026-09-12"
+          "url": "https://www.lemonde.fr/politique/article/2026/09/19/budget-2027-le-gouvernement-envisage-de-geler-les-pensions-de-base-pour-les-retraites-touchant-au-moins-2034-euros-par-mois_6777535_823448.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "EN DIRECT, présidentielle 2027 : Jean-Luc Mélenchon et Fabien Roussel à la Fête de « L’Huma » ; Bruno Retailleau avec les Jeunes LR... Suivez le déplacement des candidats",
-          "summary": "A gauche, l’ancien président socialiste François Hollande, toujours pas candidat mais plus que jamais en campagne, se rendra lui à Frangy-en-Bresse (Saône-et-Loire), pour la traditionnelle Fête de la rose du PS. Les députés RN se retrouveront eux au TOuquet…",
+          "title": "Budget 2027 : la périlleuse ligne de crête de Sébastien Lecornu",
+          "summary": "Les mesures contenues dans la copie budgétaire que le premier ministre a présentée jeudi sont économiquement nécessaires pour stopper le dérapage du déficit. Mais elles s’annoncent politiquement risquées pour le chef du gouvernement.",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/politique/live/2026/09/12/en-direct-presidentielle-2027-jean-luc-melenchon-et-fabien-roussel-a-la-fete-de-l-huma-bruno-retailleau-avec-les-jeunes-lr-suivez-le-deplacement-des-candidats_6770586_823448.html",
-          "date": "2026-09-12"
+          "url": "https://www.lemonde.fr/idees/article/2026/09/19/budget-2027-la-perilleuse-ligne-de-crete-de-sebastien-lecornu_6777534_3232.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "Franchises médicales : le plafond annuel passe de 100 à 140 euros le 1ᵉʳ octobre",
-          "summary": "Le décret, paru samedi, prévoit également une réévaluation tous les ans à partir de 2028, en janvier, de ce plafond, sur la base de l’inflation.",
+          "title": "Budget 2027 : le pas de deux entre Sébastien Lecornu et le Rassemblement national",
+          "summary": "En quelques jours, le premier ministre a avancé dans le sens souhaité par le RN sur quatre sujets majeurs pour le parti d’extrême droite. Marine Le Pen semble prête à un accord de non-censure pour éviter une crise financière.",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/12/franchises-medicales-le-plafond-annuel-passe-de-100-a-140-euros-le-1-octobre_6771228_823448.html",
-          "date": "2026-09-12"
+          "url": "https://www.lemonde.fr/politique/article/2026/09/19/budget-2027-le-pas-de-deux-entre-sebastien-lecornu-et-le-rassemblement-national_6777398_823448.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "A BFM-TV, la méthode Sonia Mabrouk provoque des crispations",
-          "summary": "A la suite d’une interview de la députée européenne Reconquête Sarah Knafo, les syndicats SNJ et la CGT de la chaîne info accusent l’ancienne vedette de CNews de « déshonorer la profession ». « Je ne me laisserai pas salir », a réagi, sur X, l’intervieweuse.",
+          "title": "Emmanuel Macron rend compte aux candidats à la présidentielle de la gravité de la situation internationale à l’origine de la crise des carburants",
+          "summary": "Le président de la République a réuni, vendredi 18 septembre, les chefs de partis et les prétendants à l’Elysée, afin de partager des informations sur les conséquences pour la France des guerres en Iran et en Ukraine.",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/12/a-bfm-tv-la-methode-sonia-mabrouk-provoque-des-crispations_6771089_3234.html",
-          "date": "2026-09-12"
+          "url": "https://www.lemonde.fr/politique/article/2026/09/19/emmanuel-macron-alerte-les-candidats-a-la-presidentielle-sur-la-gravite-de-la-situation-internationale-a-l-origine-de-la-crise-des-carburants_6777218_823448.html",
+          "date": "2026-09-19"
         }
       ]
     }
@@ -462,30 +462,30 @@
     {
       "id": "bitcoin",
       "symbol": "BIT",
-      "eur": 66644,
-      "usd": 77321,
-      "change_24h": 0.51
+      "eur": 70748,
+      "usd": 81243,
+      "change_24h": 4.07
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "eur": 2182.66,
-      "usd": 2532.32,
-      "change_24h": 2.74
+      "eur": 2296.26,
+      "usd": 2636.91,
+      "change_24h": 5.28
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "eur": 87.88,
-      "usd": 101.96,
-      "change_24h": 2.76
+      "eur": 97.39,
+      "usd": 111.83,
+      "change_24h": 5.36
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "eur": 1.18,
-      "usd": 1.37,
-      "change_24h": 1.88
+      "eur": 1.23,
+      "usd": 1.41,
+      "change_24h": 5.9
     }
   ],
   "market_indices": [],
@@ -495,22 +495,42 @@
       "mentions": 7
     },
     {
+      "name": "Google",
+      "mentions": 4
+    },
+    {
       "name": "Anthropic",
-      "mentions": 5
+      "mentions": 3
+    },
+    {
+      "name": "Coinbase",
+      "mentions": 3
+    },
+    {
+      "name": "Binance",
+      "mentions": 3
+    },
+    {
+      "name": "Nvidia",
+      "mentions": 1
     },
     {
       "name": "OpenAI",
-      "mentions": 2
+      "mentions": 1
+    },
+    {
+      "name": "Apple",
+      "mentions": 1
     }
   ],
   "investissement": {
     "signaux": [
-      "'OpenAI' mentionné 2x dans les flux du jour",
-      "'Anthropic' mentionné 5x dans les flux du jour",
+      "'Nvidia' mentionné 1x dans les flux du jour",
+      "'OpenAI' mentionné 1x dans les flux du jour",
+      "'Anthropic' mentionné 3x dans les flux du jour",
+      "'Google' mentionné 4x dans les flux du jour",
       "'Microsoft' mentionné 7x dans les flux du jour",
-      "'inflation' mentionné 1x dans les flux du jour",
-      "'Bitcoin' mentionné 4x dans les flux du jour",
-      "'stablecoin' mentionné 2x dans les flux du jour"
+      "'inflation' mentionné 2x dans les flux du jour"
     ],
     "framework": "Cadre d'analyse à moyen/long terme : privilégier la diversification sectorielle plutôt que le pari sur un seul acteur IA ; suivre les échéances réglementaires (AI Act, textes nationaux) qui peuvent créer de la volatilité court-terme sur les valeurs tech ; garder une exposition mesurée à l'énergie/matières premières en période de tensions géopolitiques ; le dollar-cost averaging (investissement périodique) reste une approche disciplinée pour lisser la volatilité sur les valeurs IA et semi-conducteurs, historiquement très cycliques.",
     "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée. Elle ne remplace pas l'avis d'un conseiller en investissement financier agréé, et ne tient pas compte de votre situation personnelle."
