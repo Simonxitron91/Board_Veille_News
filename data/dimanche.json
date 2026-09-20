@@ -1,65 +1,65 @@
 {
   "weekday": "dimanche",
-  "generated_at": "2026-09-13T10:40:23.630744+00:00",
+  "generated_at": "2026-09-20T10:09:16.705955+00:00",
   "categories": {
     "ia": {
       "label": "Intelligence Artificielle",
       "items": [
         {
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-          "date": "2026-09-12"
+          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+          "date": "2026-09-19"
         },
         {
-          "title": "Anthropic CEO outlines plan to slow AI development",
-          "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-          "date": "2026-09-12"
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "date": "2026-09-19"
         },
         {
-          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-          "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-          "date": "2026-09-11"
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+          "date": "2026-09-19"
         },
         {
-          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-          "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+          "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-          "date": "2026-09-11"
+          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+          "date": "2026-09-19"
         },
         {
-          "title": "Roundtables: Could AI really kill us all?",
-          "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a…",
+          "title": "The Download: AI’s extinction risk and bioweapons threat",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-          "date": "2026-09-11"
+          "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+          "date": "2026-09-18"
         },
         {
-          "title": "The Download: biotech’s future and cheaper, cleaner steel",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35…",
+          "title": "Could AI really kill us all? Your questions, answered.",
+          "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session.…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-          "date": "2026-09-11"
+          "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+          "date": "2026-09-18"
         },
         {
-          "title": "Meet the under-35s shaping the future of biotech",
-          "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of…",
+          "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+          "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-          "date": "2026-09-11"
+          "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+          "date": "2026-09-18"
         },
         {
-          "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to…",
+          "title": "The Download: mice with part-human brains and climate tech innovators",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-          "date": "2026-09-10"
+          "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+          "date": "2026-09-17"
         }
       ]
     },
@@ -67,60 +67,67 @@
       "label": "Cybersécurité",
       "items": [
         {
-          "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-          "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign,…",
+          "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+          "summary": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-          "date": "2026-09-13"
+          "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active…",
+          "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+          "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-          "date": "2026-09-12"
+          "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-          "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday…",
+          "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+          "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-          "date": "2026-09-12"
+          "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-          "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager…",
+          "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+          "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE-2026-28326, is…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-          "date": "2026-09-12"
+          "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-          "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+          "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+          "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties…",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-          "date": "2026-09-12"
+          "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+          "date": "2026-09-19"
         },
         {
-          "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-          "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+          "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+          "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-          "date": "2026-09-11"
+          "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+          "date": "2026-09-19"
         },
         {
-          "title": "Florida confirms DMV database breached via stolen police account",
-          "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
+          "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+          "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-          "date": "2026-09-11"
+          "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+          "date": "2026-09-19"
         },
         {
-          "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-          "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
+          "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+          "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on…",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-          "date": "2026-09-11"
+          "url": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+          "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+          "date": "2026-09-16"
         },
         {
           "title": "Microsoft Plugs Nearly 1,000 Security Holes",
@@ -142,13 +149,6 @@
           "source": "Krebs on Security",
           "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
           "date": "2026-08-27"
-        },
-        {
-          "title": "Who’s Tracking You? Use This New Service to Find Out",
-          "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has…",
-          "source": "Krebs on Security",
-          "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-          "date": "2026-08-14"
         }
       ]
     },
@@ -156,32 +156,32 @@
       "label": "Économie & Marchés",
       "items": [
         {
-          "title": "SpaceX Eyes Orbital AI Compute as Starship Reuse Pushes Costs Lower",
+          "title": "Whiskey brand tied to Jack Daniel's faces a second Chapter 7",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-eyes-orbital-ai-compute-080200892.html",
-          "date": "2026-09-12"
+          "url": "https://finance.yahoo.com/small-business/articles/170-old-whiskey-brands-saga-171043884.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "Eupraxia Pharma (EPRX): When Painful Swallowing Nearly Disappeared, Investors Took Notice",
+          "title": "Meta (META)’s Stilla.ai Deal Could Turn Business Agent Into a New Monetization Engine",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/eupraxia-pharma-eprx-painful-swallowing-075610532.html",
-          "date": "2026-09-12"
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "Investors Title’s (ITIC) Profit Surge Isn’t As Clean As It Looks",
+          "title": "Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-title-itic-profit-surge-081740418.html",
-          "date": "2026-09-12"
+          "url": "https://finance.yahoo.com/energy/articles/nextera-nee-preserve-earnings-dividend-080154663.html",
+          "date": "2026-09-19"
         },
         {
-          "title": "BridgeBio Oncology Therapeutics (BBOT) Bets Big On A Narrower KRAS Playbook",
+          "title": "Can Accenture (ACN) Turn Its AI Strategy Into Sustainable Growth?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/bridgebio-oncology-therapeutics-bbot-bets-074039253.html",
-          "date": "2026-09-12"
+          "url": "https://finance.yahoo.com/technology/ai/articles/accenture-acn-turn-ai-strategy-080629365.html",
+          "date": "2026-09-19"
         }
       ]
     },
@@ -189,88 +189,88 @@
       "label": "Cryptomonnaies",
       "items": [
         {
-          "title": "OpenAI IPO won't happen this year, says Sam Altman",
+          "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
-          "date": "2026-09-12"
+          "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
+          "date": "2026-09-19"
         },
         {
-          "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+          "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
-          "date": "2026-09-12"
+          "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+          "date": "2026-09-19"
         },
         {
-          "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+          "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-          "date": "2026-09-12"
+          "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+          "date": "2026-09-19"
         },
         {
-          "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
+          "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
-          "date": "2026-09-12"
+          "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+          "date": "2026-09-19"
         },
         {
-          "title": "Revolut says customer data exposed through fake government email",
-          "summary": "Passports, selfies and financial transaction histories of some customers were revealed to a fraudster using a government agency domain.",
+          "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
+          "summary": "At the close of trading on Sept. 28, shareholders will receive two extra shares for each one they hold.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-09-13"
+          "url": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-09-20"
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
+          "summary": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-09-12"
+          "url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-09-20"
         },
         {
-          "title": "North Korea using foreign talent to help infiltrate US companies: Report",
-          "summary": "The DPRK has turned to third-country IT workers to pass job interviews, after which, the positions are usually taken over by North Korean operatives.",
+          "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+          "summary": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-09-12"
+          "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-09-19"
         },
         {
-          "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
-          "summary": "Ben Delo, co-founder of BitMEX, donated almost $50 million to Nigel Farage’s Reform UK party, matched a day later by Christopher Harborne.",
+          "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
+          "summary": "Kalshi’s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-09-12"
+          "url": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-09-19"
         },
         {
-          "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
-          "summary": "The fintech company fulfilled a fraudulent information request sent from a government agency's own email domain, exposing ID documents and full crypto transaction histories for a \"limited\" number of users.",
+          "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
+          "summary": "The Clarity Act failed to advance in the Senate, shifting the industry’s focus to a new wave of action from the SEC and CFTC.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
-          "date": "2026-09-12"
+          "url": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
+          "date": "2026-09-19"
         },
         {
-          "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-          "summary": "A week after launch, complaints are rolling in from users that GPT-6 Astra has been nerfed. OpenAI's last model went through the same cycle in July.",
+          "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
+          "summary": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/378101/gpt-6-astra-openai-model-dumber-nerfed",
-          "date": "2026-09-12"
+          "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
+          "date": "2026-09-19"
         },
         {
-          "title": "Crypto Billionaires Hand Reform UK $97M in Record Donations",
-          "summary": "Ben Delo and Christopher Harborne each gave £36 million, and between them beat what every UK party raised last year.",
+          "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
+          "summary": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/378107/crypto-billionaires-hand-reform-uk-97m-in-record-donations",
-          "date": "2026-09-12"
+          "url": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
+          "date": "2026-09-19"
         },
         {
-          "title": "GTA Mod Adds Flock Cameras—And Lets Players Destroy Them",
-          "summary": "The surveillance mod on GTA V brings the privacy fight to Los Santos, where players can demolish the cameras tracking them.",
+          "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+          "summary": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/377997/gta-mod-flock-cameras-players-destroy",
-          "date": "2026-09-12"
+          "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+          "date": "2026-09-19"
         }
       ]
     },
@@ -278,88 +278,88 @@
       "label": "Géopolitique & Général",
       "items": [
         {
-          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+          "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+          "summary": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-12"
+          "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-20"
         },
         {
-          "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-          "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+          "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+          "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-12"
+          "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-20"
         },
         {
-          "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-          "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+          "title": "German elections under way which could decide fate of Chancellor Merz",
+          "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-13"
+          "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-20"
         },
         {
-          "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-          "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+          "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-12"
+          "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-19"
         },
         {
-          "title": "Mondial de basket : les Françaises veulent détrôner la Team USA en finale",
-          "summary": "Après leur victoire samedi face à l'Allemagne, hôte du tournoi, les Bleues doivent disputer dimanche soir la finale de la Coupe du monde, une première dans l'histoire du basket français. Face à la Team USA, quadruple tenante du titre, invaincue en tournoi…",
+          "title": "Le procès de six Français présumés jihadistes s'ouvre en Irak",
+          "summary": "Six ressortissants français soupçonnés d'appartenir à l'organisation État islamique (EI) sont jugés à partir de dimanche au tribunal de Bagdad, en Irak, où ils risquent la peine de mort. Les prisons irakiennes, déjà remplies de suspects de l'EI, ont accueilli…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260913-basket-fran%C3%A7aises-veulent-d%C3%A9tr%C3%B4ner-team-usa-finale-mondial",
-          "date": "2026-09-13"
+          "url": "https://www.france24.com/fr/france/20260920-le-proc%C3%A8s-de-six-fran%C3%A7ais-presumes-jihadistes-s-ouvre-en-irak",
+          "date": "2026-09-20"
         },
         {
-          "title": "Le Sénégal accueille la flamme olympique des Jeux de la Jeunesse",
-          "summary": "A sept semaines du coup d'envoi des Jeux de la Jeunesse (JOJ), le Sénégal a accueilli samedi en grande pompe la flamme olympique pour ce premier événement olympique organisé sur le continent africain, lors d'une cérémonie à Dakar.",
+          "title": "Nigeria : au moins 49 personnes mortes, de l'alcool frelaté pourrait être en cause",
+          "summary": "Dans l’État d’Ondo, au Nigeria, au moins 49 personnes sont mortes et une centaine d’autres ont été blessées après avoir consommé de l’alcool qui contiendrait du méthanol. Selon les autorités locales, le \"Monkey Shoulder\", une boisson à base de plantes brassée…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260913-le-s%C3%A9n%C3%A9gal-accueille-la-flamme-olympique-des-jeux-de-la-jeunesse",
-          "date": "2026-09-13"
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-nigeria-au-moins-49-personnes-mortes-de-l-alcool-frelat%C3%A9-pourrait-%C3%AAtre-en-cause",
+          "date": "2026-09-20"
         },
         {
-          "title": "BRICS : le sommet du sud global dominé par le conflit au Moyen-Orient",
-          "summary": "Alban Alvarez, notre correspondant à New Delhi, décrypte le sommet.",
+          "title": "Afrique du Sud : des manifestations contre les violences faites aux femmes",
+          "summary": "Veillées, marches et recueillements : des centaines de manifestants se sont mobilisés à travers l’Afrique du Sud vendredi 18 septembre au soir pour rendre hommage aux neuf femmes retrouvées mortes dans l’est de Johannesburg. Dans un pays qui enregistre plus…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260913-brics-le-sommet-du-sud-global-domin%C3%A9-par-le-conflit-au-moyen-orient",
-          "date": "2026-09-13"
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-afrique-du-sud-des-manifestations-contre-les-violences-faites-aux-femmes",
+          "date": "2026-09-20"
         },
         {
-          "title": "Venise : un documentaire israélien sur Gaza remporte le prix spécial du jury",
-          "summary": "Un documentaire choc israélien sur Gaza réalisé par les journalistes d'investigation Yuval Abraham et Rachel Szor, déjà coauteurs du film oscarisé \"No Other Land\" (2024), a remporté samedi le prix spécial du jury à la Mostra de Venise. Ovationné durant 25…",
+          "title": "Mali : au moins 100 militaires tués le 10 septembre à Dioura",
+          "summary": "Au Mali, le bilan de l’attaque menée le 10 septembre 2026 par les jihadistes du Jnim, liés à al-Qaïda, contre le camp de l’armée à Dioura, dans la région de Mopti, s’alourdit. Selon plusieurs sources, au moins 100 militaires maliens ont été tués, soit deux…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260913-venise-un-documentaire-isra%C3%A9lien-sur-gaza-remporte-le-prix-sp%C3%A9cial-du-jury",
-          "date": "2026-09-13"
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-mali-au-moins-100-militaires-tu%C3%A9s-le-10-septembre-%C3%A0-dioura",
+          "date": "2026-09-20"
         },
         {
-          "title": "« Chez les Le Pen, la famille l’emporte toujours » : pour sa quatrième campagne présidentielle, Marine Le Pen se repose sur ses proches",
-          "summary": "Suivant la tradition lepéniste, la candidate du RN entame sa campagne entourée de membres de sa famille et de fidèles, tandis que les bardellistes identifiés sont écartés ou perdent en influence.",
+          "title": "Elections régionales en Allemagne : la CDU de Friedrich Merz menacée d’un revers historique",
+          "summary": "L’Union chrétienne-démocrate du chancelier risque de disparaître du Parlement en Mecklembourg-Poméranie-Occidentale et est devancée par la gauche radicale dans les sondages à Berlin.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/13/chez-les-le-pen-la-famille-l-emporte-toujours-pour-sa-quatrieme-campagne-presidentielle-marine-le-pen-se-repose-sur-ses-proches_6772178_823448.html",
-          "date": "2026-09-13"
+          "url": "https://www.lemonde.fr/international/article/2026/09/20/elections-regionales-en-allemagne-la-cdu-de-friedrich-merz-menacee-d-un-revers-historique_6778330_3210.html",
+          "date": "2026-09-20"
         },
         {
-          "title": "Céline Dion renaît sur scène, pour le premier des 26 concerts de sa résidence à Nanterre : « Je veux chanter pour vous, chanter la vie »",
-          "summary": "Voix maîtrisée et show d’une relative sobriété, la star québécoise, très émue, a livré aux 30 000 spectateurs de la Plenitude Arena un tour de chant de 25 titres en deux heures et quart, après plus de six ans d’absence.",
+          "title": "Logement : à Paris comme dans les grandes métropoles, les tensions sur les locations gagnent toutes les catégories sociales",
+          "summary": "La pénurie d’offres est telle que même les cadres ont désormais du mal à trouver un appartement à louer. La cause, selon les professionnels de l’immobilier, la hausse des taux d’intérêt, les restrictions liées au DPE, et la fin du dispositif Pinel.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/09/13/celine-dion-renait-sur-scene-pour-le-premier-des-26-concerts-de-sa-residence-a-nanterre-je-veux-chanter-pour-vous-chanter-la-vie_6772198_3246.html",
-          "date": "2026-09-13"
+          "url": "https://www.lemonde.fr/societe/article/2026/09/20/logement-a-paris-comme-dans-les-grandes-metropoles-les-tensions-sur-les-locations-gagnent-toutes-les-categories-sociales_6777977_3224.html",
+          "date": "2026-09-20"
         },
         {
-          "title": "Sur les rives du détroit d’Ormuz, des vies entre mer et feu dans l’œil d’un photographe iranien : « Il fallait montrer ce que la guerre leur fait »",
-          "summary": "Dans les îles iraniennes du passage stratégique, la guerre entre les Etats-Unis et l’Iran bouleverse les vies des pêcheurs, des commerçants et des familles liées aux deux rives du golfe Persique. Des répercussions qu’un Iranien – anonymisé pour sa sécurité –…",
+          "title": "Comment TikTok est devenu en dix ans la bête noire des autorités",
+          "summary": "Le réseau social préféré des adolescents fête ses 10 ans, le 20 septembre. Une décennie ponctuée de polémiques, qui ont fait de TikTok une cible de choix pour les régulateurs américains et européens.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/detroit-d-ormuz/article/2026/09/13/sur-les-rives-du-detroit-d-ormuz-des-vies-entre-mer-et-feu-dans-l-il-d-un-photographe-iranien-il-fallait-montrer-ce-que-la-guerre-leur-fait_6772182_6671036.html",
-          "date": "2026-09-13"
+          "url": "https://www.lemonde.fr/pixels/article/2026/09/20/comment-tiktok-est-devenu-en-dix-ans-la-bete-noire-des-autorites_6778089_4408996.html",
+          "date": "2026-09-20"
         },
         {
-          "title": "Sam Altman annonce qu’OpenAI n’entrera pas en Bourse en 2026, en raison des inquiétudes liés à la sécurité de l’intelligence artificielle",
-          "summary": "« Au vu de tout ce qui se passe en matière de sécurité, le moment serait mal choisi pour entrer en Bourse, et nous ne ressentons pas de pression en ce sens », a déclaré le patron de la société créatrice de ChatGPT.",
+          "title": "A New York, Zohran Mamdani et Emmanuel Grégoire s’affichent ensemble pour défendre l’accès au logement et la lutte contre le réchauffement climatique",
+          "summary": "Les maires socialistes de New York et de Paris se sont rencontrés dans la plus grande ville des Etats-Unis pour plaider des intérêts communs.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/13/sam-altman-annonce-qu-openai-n-entrera-pas-en-bourse-en-2026-en-raison-des-inquietudes-lies-a-la-securite-de-l-intelligence-artificielle_6772466_4408996.html",
-          "date": "2026-09-13"
+          "url": "https://www.lemonde.fr/politique/article/2026/09/20/a-new-york-zohran-mamdani-et-emmanuel-gregoire-s-affichent-ensemble-pour-defendre-l-acces-au-logement-et-la-lutte-contre-le-rechauffement-climatique_6778297_823448.html",
+          "date": "2026-09-20"
         }
       ]
     },
@@ -367,60 +367,60 @@
       "label": "Science",
       "items": [
         {
-          "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8 Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.",
+          "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02893-8",
-          "date": "2026-09-11"
+          "url": "https://www.nature.com/articles/d41586-026-02897-4",
+          "date": "2026-09-18"
         },
         {
-          "title": "NSF moves to overhaul funding approach in line with White House priorities",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9 The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.",
+          "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02892-9",
-          "date": "2026-09-11"
+          "url": "https://www.nature.com/articles/d41586-026-02984-6",
+          "date": "2026-09-18"
         },
         {
-          "title": "People trust scientists seen to be 'on their side', UK study find",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02883-w Politics and personal values influence people’s confidence in scientists, finds new report",
+          "title": "Europe pushes for space independence amid geopolitical rifts",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02919-1 The European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02883-w",
-          "date": "2026-09-11"
+          "url": "https://www.nature.com/articles/d41586-026-02919-1",
+          "date": "2026-09-18"
         },
         {
-          "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3 Evoking emotions is more likely to prompt people to engage with climate efforts than are data alone.",
+          "title": "How research funding took me out of the lab and into leadership",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2 Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to research.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02763-3",
-          "date": "2026-09-11"
+          "url": "https://www.nature.com/articles/d41586-026-02184-2",
+          "date": "2026-09-18"
         },
         {
-          "title": "Some satellite companies still have an appetite for boutique launch services",
-          "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+          "title": "Learning another language may be one of the best ways to keep your brain healthy",
+          "summary": "Research suggests that bilingualism can offer cognitive benefits.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-          "date": "2026-09-11"
+          "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+          "date": "2026-09-19"
         },
         {
-          "title": "Random rewards enrich classic game-theory insights",
-          "summary": "Simple games gain rich strategies in the face of noise.",
+          "title": "Rings around a tiny body have changed over the past decade",
+          "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-          "date": "2026-09-11"
+          "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+          "date": "2026-09-19"
         },
         {
-          "title": "Trump's forced coal plant extensions thrown out by judge",
-          "summary": "The Department of Energy declared an \"emergency\" when none existed.",
+          "title": "Finding the cells that put our brain to sleep",
+          "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-          "date": "2026-09-11"
+          "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+          "date": "2026-09-18"
         },
         {
-          "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-          "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
+          "title": "Meet the winner of Nikon's Small World in Motion video contest",
+          "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-          "date": "2026-09-11"
+          "url": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+          "date": "2026-09-18"
         }
       ]
     },
@@ -428,32 +428,32 @@
       "label": "Politique",
       "items": [
         {
-          "title": "Le média d’extrême droite « Frontières » veut « infiltrer » les politiques et les journalistes",
-          "summary": "Le nouvel hebdomadaire en ligne « L’Infiltré », qui sera lancé le 29 septembre, se présente comme inspiré du « Canard enchaîné » et peut compter sur la caisse de résonance des médias du groupe Bolloré.",
+          "title": "Budget 2027 : Amélie de Montchalin alerte sur l’état de la dette : « Chaque mois d’inaction aggrave l’asphyxie financière »",
+          "summary": "Le gouvernement – qui table sur un déficit public de 5,4 % en 2026, en hausse par rapport aux 5,1 % de 2025 –, prévoit un effort de 54 milliards d’euros l’an prochain pour assainir les finances publiques.",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/13/le-media-d-extreme-droite-frontieres-veut-infiltrer-les-politiques-et-les-journalistes_6772467_3234.html",
-          "date": "2026-09-13"
+          "url": "https://www.lemonde.fr/politique/article/2026/09/20/budget-2027-amelie-de-montchalin-alerte-sur-l-etat-de-la-dette-chaque-mois-d-inaction-aggrave-l-asphyxie-financiere_6778365_823448.html",
+          "date": "2026-09-20"
         },
         {
-          "title": "EN DIRECT, présidentielle 2027 : la candidate du RN Marine Le Pen attendue dans son fief d’Hénin Beaumont",
-          "summary": "La députée-candidate du Rassemblement national devrait prendre la parole autour de 14 h 30-15 heures, après un week-end de travaux à huis clos avec les parlementaires de son parti au Touquet.",
+          "title": "Elections régionales en Allemagne : la CDU de Friedrich Merz menacée d’un revers historique",
+          "summary": "L’Union chrétienne-démocrate du chancelier risque de disparaître du Parlement en Mecklembourg-Poméranie-Occidentale et est devancée par la gauche radicale dans les sondages à Berlin.",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/politique/live/2026/09/13/en-direct-presidentielle-2027-la-candidate-du-rn-marine-le-pen-attendue-dans-son-fief-d-henin-beaumont_6770586_823448.html",
-          "date": "2026-09-13"
+          "url": "https://www.lemonde.fr/international/article/2026/09/20/elections-regionales-en-allemagne-la-cdu-de-friedrich-merz-menacee-d-un-revers-historique_6778330_3210.html",
+          "date": "2026-09-20"
         },
         {
-          "title": "Investir dans l’éducation et la transition écologique : oui, mais comment le financer ? Le débat entre deux économistes",
-          "summary": "Ils s’accordent sur les urgences mais pas sur leur financement : Antoine Foucher propose de réduire les dépenses de retraite, tandis qu’Anne-Laure Delatte prône la fin de la politique de l’offre et l’augmentation des impôts sur les entreprises et le capital.…",
+          "title": "A New York, Zohran Mamdani et Emmanuel Grégoire s’affichent ensemble pour défendre l’accès au logement et la lutte contre le réchauffement climatique",
+          "summary": "Les maires socialistes de New York et de Paris se sont rencontrés dans la plus grande ville des Etats-Unis pour plaider des intérêts communs.",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/13/investir-dans-l-education-et-la-transition-ecologique-oui-mais-comment-le-financer-le-debat-entre-deux-economistes_6772195_3232.html",
-          "date": "2026-09-13"
+          "url": "https://www.lemonde.fr/politique/article/2026/09/20/a-new-york-zohran-mamdani-et-emmanuel-gregoire-s-affichent-ensemble-pour-defendre-l-acces-au-logement-et-la-lutte-contre-le-rechauffement-climatique_6778297_823448.html",
+          "date": "2026-09-20"
         },
         {
-          "title": "« Le Monde » et les sondages, une longue histoire teintée de polémiques et de débats sur la place des études d’opinion dans la vie démocratique",
-          "summary": "De 1965 à aujourd’hui, le journal n’a jamais dédaigné les sondages mais s’est souvent interrogé sur la place à leur donner et la manière de construire le meilleur outil avec des partenaires extérieurs.",
+          "title": "Présidentielle 2027 : Jérôme Guedj dénonce la suspension « brutale » de Philippe Brun",
+          "summary": "Jérôme Guedj critique la brutalité de la décision prise par la direction du PS et s’étonne que celle-ci n’ait pas agi plus tôt, alors que la presse fait état « d’alertes » remontant « au début de l’été ».",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/13/le-monde-et-les-sondages-une-longue-histoire-teintee-de-polemiques-et-de-debats-sur-la-place-des-etudes-d-opinion-dans-la-vie-democratique_6772188_6065879.html",
-          "date": "2026-09-13"
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/20/presidentielle-2027-jerome-guedj-denonce-la-suspension-brutale-de-philippe-brun_6778194_6205049.html",
+          "date": "2026-09-20"
         }
       ]
     }
@@ -462,54 +462,71 @@
     {
       "id": "bitcoin",
       "symbol": "BIT",
-      "eur": 66175,
-      "usd": 76776,
-      "change_24h": -0.72
+      "eur": 70012,
+      "usd": 80367,
+      "change_24h": -1.07
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "eur": 2138.48,
-      "usd": 2481.07,
-      "change_24h": -1.99
+      "eur": 2242.78,
+      "usd": 2574.49,
+      "change_24h": -2.46
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "eur": 85.97,
-      "usd": 99.74,
-      "change_24h": -2.19
+      "eur": 94.13,
+      "usd": 108.05,
+      "change_24h": -3.33
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "eur": 1.16,
-      "usd": 1.34,
-      "change_24h": -2.06
+      "eur": 1.2,
+      "usd": 1.38,
+      "change_24h": -2.21
     }
   ],
   "market_indices": [],
   "mentioned_companies": [
     {
       "name": "OpenAI",
-      "mentions": 10
-    },
-    {
-      "name": "Microsoft",
-      "mentions": 9
+      "mentions": 4
     },
     {
       "name": "Anthropic",
-      "mentions": 5
+      "mentions": 4
+    },
+    {
+      "name": "Microsoft",
+      "mentions": 3
+    },
+    {
+      "name": "Google",
+      "mentions": 2
+    },
+    {
+      "name": "Coinbase",
+      "mentions": 2
+    },
+    {
+      "name": "Meta",
+      "mentions": 1
+    },
+    {
+      "name": "Ripple",
+      "mentions": 1
     }
   ],
   "investissement": {
     "signaux": [
-      "'OpenAI' mentionné 10x dans les flux du jour",
-      "'Anthropic' mentionné 5x dans les flux du jour",
-      "'Microsoft' mentionné 9x dans les flux du jour",
-      "'Bitcoin' mentionné 3x dans les flux du jour",
-      "'SEC' mentionné 9x dans les flux du jour"
+      "'OpenAI' mentionné 4x dans les flux du jour",
+      "'Anthropic' mentionné 4x dans les flux du jour",
+      "'Google' mentionné 2x dans les flux du jour",
+      "'Meta' mentionné 2x dans les flux du jour",
+      "'Microsoft' mentionné 3x dans les flux du jour",
+      "'AI Act' mentionné 2x dans les flux du jour"
     ],
     "framework": "Cadre d'analyse à moyen/long terme : privilégier la diversification sectorielle plutôt que le pari sur un seul acteur IA ; suivre les échéances réglementaires (AI Act, textes nationaux) qui peuvent créer de la volatilité court-terme sur les valeurs tech ; garder une exposition mesurée à l'énergie/matières premières en période de tensions géopolitiques ; le dollar-cost averaging (investissement périodique) reste une approche disciplinée pour lisser la volatilité sur les valeurs IA et semi-conducteurs, historiquement très cycliques.",
     "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée. Elle ne remplace pas l'avis d'un conseiller en investissement financier agréé, et ne tient pas compte de votre situation personnelle."
