@@ -57,6 +57,8 @@ FEEDS = {
         ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
         ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
         ("MIT Technology Review", "https://www.technologyreview.com/feed/"),
+        ("OpenAI News", "https://openai.com/news/rss.xml"),
+        ("Google DeepMind News", "https://deepmind.google/blog/rss.xml"),
     ],
     "cyber": [
         ("The Hacker News", "https://feeds.feedburner.com/TheHackersNews"),
