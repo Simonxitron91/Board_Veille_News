@@ -15,8 +15,38 @@ from pathlib import Path
 
 import feedparser
 
+try:
+    from deep_translator import GoogleTranslator
+    _TRANSLATOR_AVAILABLE = True
+except ImportError:
+    _TRANSLATOR_AVAILABLE = False
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
+
+# Sources déjà rédigées en français -> pas besoin de traduction
+FRENCH_SOURCES = {"Les Echos", "France 24", "Le Monde", "Le Monde Politique"}
+
+_translate_cache: dict = {}
+
+
+def translate_to_french(text: str) -> str:
+    """Traduit un texte en français (best effort, avec cache).
+    En cas d'échec (réseau, quota Google Translate, etc.), on retourne le
+    texte original pour ne jamais faire échouer le run entier -- même
+    logique de tolérance aux pannes que le reste du script."""
+    if not text or not _TRANSLATOR_AVAILABLE:
+        return text
+    if text in _translate_cache:
+        return _translate_cache[text]
+    try:
+        translated = GoogleTranslator(source="auto", target="fr").translate(text)
+        result = translated.strip() if translated else text
+    except Exception as e:
+        print(f"[warn] échec traduction: {e}", file=sys.stderr)
+        result = text
+    _translate_cache[text] = result
+    return result
 
 WEEKDAYS_FR = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
 
@@ -188,6 +218,9 @@ def fetch_category(name: str, sources: list) -> list:
                 if not title:
                     continue
                 summary = clean_summary(getattr(entry, "summary", "") or getattr(entry, "description", ""))
+                if source_name not in FRENCH_SOURCES:
+                    title = translate_to_french(title)
+                    summary = translate_to_french(summary)
                 link = getattr(entry, "link", "")
                 published = getattr(entry, "published", "") or getattr(entry, "updated", "")
                 try:
