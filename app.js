@@ -8,7 +8,7 @@ const DAYS = [
   {key:"dimanche", num:"07", label:"Dim"},
 ];
 
-const CATEGORY_ORDER = ["geopolitique","politique","economie","crypto","science","ia","cyber"];
+const CATEGORY_ORDER = ["geopolitique","politique","economie","crypto","science","ia","cyber","productivite"];
 const CATEGORY_DOTS = {
   geopolitique:"var(--dot-geo)",
   politique:"var(--dot-pol)",
@@ -16,7 +16,8 @@ const CATEGORY_DOTS = {
   crypto:"var(--dot-crypto)",
   science:"var(--dot-sci)",
   ia:"var(--dot-ia)",
-  cyber:"var(--dot-cyber)"
+  cyber:"var(--dot-cyber)",
+  productivite:"var(--dot-prod)"
 };
 
 // Fallback embarqué (utilisé si le fetch des fichiers data/*.json échoue,
@@ -44,7 +45,8 @@ const FALLBACK = {
         {title:"Tensions au Proche-Orient et marchés de l'énergie", summary:"La reprise du conflit et les menaces d'escalade continuent d'alimenter la volatilité du prix du Brent.", source:"Proximité Courtage", url:"https://proximite-courtage.fr", date:"2026-07-22"}
       ]},
       science:{label:"Science", items:[]},
-      politique:{label:"Politique", items:[]}
+      politique:{label:"Politique", items:[]},
+      productivite:{label:"Productivité & Time Management", items:[]}
     },
     crypto_prices:[
       {id:"bitcoin", symbol:"BTC", eur:57091.57, usd:65098.58, change_24h:1.02},
@@ -80,7 +82,8 @@ function emptyDay(key){
       crypto:{label:"Cryptomonnaies", items:[]},
       science:{label:"Science", items:[]},
       ia:{label:"Intelligence Artificielle", items:[]},
-      cyber:{label:"Cybersécurité", items:[]}
+      cyber:{label:"Cybersécurité", items:[]},
+      productivite:{label:"Productivité & Time Management", items:[]}
     },
     crypto_prices:[],
     market_indices:[],

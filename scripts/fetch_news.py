@@ -25,7 +25,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 
 # Sources déjà rédigées en français -> pas besoin de traduction
-FRENCH_SOURCES = {"Les Echos", "France 24", "Le Monde", "Le Monde Politique"}
+FRENCH_SOURCES = {"Les Echos", "France 24", "Le Monde", "Le Monde Politique", "Le Point Politique"}
 
 _translate_cache: dict = {}
 
@@ -66,6 +66,7 @@ FEEDS = {
     "economie": [
         ("Les Echos", "https://www.lesechos.fr/rss/rss_une.xml"),
         ("Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),
+        ("Investing.com", "https://www.investing.com/rss/news_14.rss"),
     ],
     "crypto": [
         ("CoinDesk", "https://www.coindesk.com/arc/outboundfeeds/rss/"),
@@ -83,6 +84,10 @@ FEEDS = {
     ],
     "politique": [
         ("Le Monde Politique", "https://www.lemonde.fr/politique/rss_full.xml"),
+        ("Le Point Politique", "https://www.lepoint.fr/arc/outboundfeeds/rss/category/politique/"),
+    ],
+    "productivite": [
+        ("One Thing at a Time (Marc Zao-Sanders)", "https://marczaosanders.substack.com/feed"),
     ],
 }
 
@@ -94,6 +99,7 @@ LABELS = {
     "geopolitique": "Géopolitique & Général",
     "science": "Science",
     "politique": "Politique",
+    "productivite": "Productivité & Time Management",
 }
 
 # Indices suivis (symboles Stooq, gratuits sans clé)
