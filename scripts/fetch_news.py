@@ -102,7 +102,71 @@ LABELS = {
     "science": "Science",
     "politique": "Politique",
     "productivite": "Productivité & Time Management",
+    "missions": "Missions & Demandes de services",
 }
+
+# --- Missions freelance & demandes de services -----------------------------
+# Contrairement aux autres catégories (agrégation brute de flux presse),
+# celle-ci filtre un flux généraliste de petites annonces freelance par
+# mots-clés pour ne garder que ce qui correspond au profil de Nicolas
+# (conseil IT, Agile/Scrum, cloud, IA) ou aux demandes ponctuelles de type
+# création/audit/correction de site web, automatisation de tâches.
+MISSIONS_FEED = ("Codeur.com", "https://www.codeur.com/projects.rss")
+MAX_MISSIONS = 15
+MISSION_KEYWORDS = [
+    # Site web : création, refonte, audit, correctifs, maintenance
+    "site web", "site internet", "wordpress", "refonte de site", "refonte du site",
+    "création de site", "créer un site", "audit de site", "audit du site",
+    "audit technique", "corriger mon site", "corriger le site", "bug sur mon site",
+    "mise à jour site", "mise à jour du site", "maintenance site", "maintenance du site",
+    "webmaster", "landing page", "site e-commerce",
+    # Automatisation de tâches récurrentes
+    "automatisation", "automatiser", "tâches récurrentes", "tâche récurrente",
+    "script python", "rpa", "zapier", "make.com", "workflow", "intégration api",
+    # Conseil IT / Agile / Cloud / IA — cœur de profil
+    "consultant it", "consultant informatique", "audit informatique",
+    "migration cloud", "cloud aws", "cloud azure", "scrum master", "product owner",
+    "gestion de projet agile", "intelligence artificielle", "chatgpt", "chatbot",
+    "automatisation ia", "ia générative",
+]
+
+
+def fetch_missions() -> list:
+    """Filtre le flux généraliste Codeur.com par mots-clés du profil.
+    Best effort comme le reste du script : un flux cassé ne fait pas
+    échouer le run, il donne juste une catégorie vide ce jour-là."""
+    source_name, url = MISSIONS_FEED
+    items = []
+    try:
+        feed = feedparser.parse(url)
+        if feed.bozo and not feed.entries:
+            print(f"[warn] flux illisible: {source_name} ({url})", file=sys.stderr)
+            return items
+        for entry in feed.entries:
+            title = getattr(entry, "title", "").strip()
+            if not title:
+                continue
+            summary = clean_summary(getattr(entry, "summary", "") or getattr(entry, "description", ""))
+            blob = f"{title} {summary}".lower()
+            if not any(kw in blob for kw in MISSION_KEYWORDS):
+                continue
+            link = getattr(entry, "link", "")
+            try:
+                date_str = datetime(*entry.published_parsed[:6]).strftime("%Y-%m-%d") if getattr(entry, "published_parsed", None) else ""
+            except Exception:
+                date_str = ""
+            items.append({
+                "title": title,
+                "summary": summary,
+                "source": source_name,
+                "url": link,
+                "date": date_str,
+            })
+            if len(items) >= MAX_MISSIONS:
+                break
+    except Exception as e:
+        print(f"[warn] échec du flux {source_name}: {e}", file=sys.stderr)
+    return items
 
 # Indices suivis (symboles Stooq, gratuits sans clé)
 MARKET_INDICES = [
@@ -295,9 +359,15 @@ def main():
         items = fetch_category(cat_key, sources)
         categories[cat_key] = {"label": LABELS[cat_key], "items": items}
 
+    # Catégorie "missions" à part : filtrage par mots-clés d'un flux
+    # généraliste, pas une simple agrégation presse -> exclue des analyses
+    # sociétés mentionnées / signaux d'investissement ci-dessous.
+    news_categories = dict(categories)
+    categories["missions"] = {"label": LABELS["missions"], "items": fetch_missions()}
+
     crypto_prices = fetch_crypto_prices()
     market_indices = fetch_market_indices()
-    mentioned_companies = detect_mentioned_companies(categories)
+    mentioned_companies = detect_mentioned_companies(news_categories)
 
     payload = {
         "weekday": weekday_name,
@@ -306,7 +376,7 @@ def main():
         "crypto_prices": crypto_prices,
         "market_indices": market_indices,
         "mentioned_companies": mentioned_companies,
-        "investissement": build_investment_notes(categories),
+        "investissement": build_investment_notes(news_categories),
     }
 
     out_path = DATA_DIR / f"{weekday_name}.json"

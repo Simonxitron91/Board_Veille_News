@@ -8,8 +8,9 @@ const DAYS = [
   {key:"dimanche", num:"07", label:"Dim"},
 ];
 
-const CATEGORY_ORDER = ["geopolitique","politique","economie","crypto","science","ia","cyber","productivite"];
+const CATEGORY_ORDER = ["missions","geopolitique","politique","economie","crypto","science","ia","cyber","productivite"];
 const CATEGORY_DOTS = {
+  missions:"var(--dot-missions)",
   geopolitique:"var(--dot-geo)",
   politique:"var(--dot-pol)",
   economie:"var(--dot-eco)",
@@ -46,7 +47,8 @@ const FALLBACK = {
       ]},
       science:{label:"Science", items:[]},
       politique:{label:"Politique", items:[]},
-      productivite:{label:"Productivité & Time Management", items:[]}
+      productivite:{label:"Productivité & Time Management", items:[]},
+      missions:{label:"Missions & Demandes de services", items:[]}
     },
     crypto_prices:[
       {id:"bitcoin", symbol:"BTC", eur:57091.57, usd:65098.58, change_24h:1.02},
@@ -83,7 +85,8 @@ function emptyDay(key){
       science:{label:"Science", items:[]},
       ia:{label:"Intelligence Artificielle", items:[]},
       cyber:{label:"Cybersécurité", items:[]},
-      productivite:{label:"Productivité & Time Management", items:[]}
+      productivite:{label:"Productivité & Time Management", items:[]},
+      missions:{label:"Missions & Demandes de services", items:[]}
     },
     crypto_prices:[],
     market_indices:[],
