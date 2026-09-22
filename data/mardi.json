@@ -1,6 +1,6 @@
 {
   "weekday": "mardi",
-  "generated_at": "2026-09-22T07:46:40.710853+00:00",
+  "generated_at": "2026-09-22T10:24:20.123406+00:00",
   "categories": {
     "ia": {
       "label": "Intelligence Artificielle",
@@ -123,6 +123,13 @@
       "label": "Cybersécurité",
       "items": [
         {
+          "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+          "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing…",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+          "date": "2026-09-22"
+        },
+        {
           "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
           "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on September 21. It works by changing a…",
           "source": "The Hacker News",
@@ -144,11 +151,18 @@
           "date": "2026-09-22"
         },
         {
-          "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-          "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on…",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-          "date": "2026-09-21"
+          "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+          "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+          "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+          "date": "2026-09-22"
         },
         {
           "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
@@ -162,20 +176,6 @@
           "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
           "source": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-          "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-          "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
           "date": "2026-09-21"
         },
         {
@@ -212,59 +212,59 @@
       "label": "Économie & Marchés",
       "items": [
         {
-          "title": "Burger chain cancels breakfast at hundreds of restaurants",
+          "title": "Bank of America says buy tumbling shares of aviation giant",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
           "date": "2026-09-21"
         },
         {
-          "title": "Halliburton (HAL) Wins Integrated Cyprus Contract. Can Broader Services Improve Returns?",
+          "title": "Corporate bond buyers get picky with flood of AI debt",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/energy/articles/halliburton-hal-wins-integrated-cyprus-203555402.html",
-          "date": "2026-09-20"
+          "url": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
+          "date": "2026-09-22"
         },
         {
-          "title": "RB Global (RBA) Doubles its Buyback Authorization. Can Cash Generation Support it?",
+          "title": "Best high-yield savings interest rates today, Tuesday, September 22, 2026: Earn up to 4.10% APY",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rb-global-rba-doubles-buyback-204211476.html",
-          "date": "2026-09-20"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-september-22-2026-earn-up-to-410-apy-100000921.html",
+          "date": "2026-09-21"
         },
         {
-          "title": "Red Violet (RDVT) Expands FOREWARN Reach Through This Latest Partnership",
+          "title": "Mortgage and refinance interest rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/real-estate/articles/red-violet-rdvt-expands-forewarn-202948729.html",
-          "date": "2026-09-20"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Iran offers to unblock Hormuz within 7 days in diplomacy push - Kyodo News",
+          "summary": "",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/economy-news/iran-offers-to-unblock-hormuz-within-7-days-in-diplomacy-push--kyodo-news-4910203",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Data suggests global luxury demand has slowed 2-3ppts in 3QTD vs 2Q: BofA",
+          "summary": "",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/economy-news/data-suggests-global-luxury-demand-has-slowed-23ppts-in-3qtd-vs-2q-bofa-93CH-4910200",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Saudi’s Ceer unveils first EVs in bid to build regional auto powerhouse",
+          "summary": "",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/economy-news/saudis-ceer-unveils-first-evs-in-bid-to-build-regional-auto-powerhouse-4909554",
+          "date": "2026-09-22"
         },
         {
           "title": "UK borrowing overshoot darkens backdrop for Healey’s budget",
           "summary": "",
           "source": "Investing.com",
           "url": "https://www.investing.com/news/economy-news/uk-borrowing-overshoot-darkens-backdrop-for-healeys-budget-4909956",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "ECB’s Lane sees inflation returning to target from mid-2027-paper",
-          "summary": "",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/economy-news/ecbs-lane-sees-inflation-returning-to-target-from-mid2027paper-4909871",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Australia’s central bank says inflation risks may be materialising",
-          "summary": "",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/economy-news/australias-central-bank-says-inflation-risks-may-be-materialising-4909857",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Morning Bid: AI trade gets its Muse",
-          "summary": "",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/economy-news/morning-bid-ai-trade-gets-its-muse-4909856",
           "date": "2026-09-22"
         }
       ]
@@ -273,6 +273,27 @@
       "label": "Cryptomonnaies",
       "items": [
         {
+          "title": "Live updates: Oil falls as Iran signals possible hormuz reopening, bitcoin holds near $86,000",
+          "summary": "",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+          "summary": "",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
+          "summary": "",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+          "date": "2026-09-22"
+        },
+        {
           "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
           "summary": "",
           "source": "CoinDesk",
@@ -280,52 +301,38 @@
           "date": "2026-09-22"
         },
         {
-          "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
-          "summary": "",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
-          "summary": "",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
-          "summary": "",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
-          "summary": "US spot Bitcoin ETFs drew nearly $1 billion on Monday, their largest daily inflow since October 2025, as Bitcoin briefly climbed above $87,000.",
+          "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
+          "summary": "Glassnode’s Altcoin Cycle Signal printed a new altseason signal after a month of Bitcoin and altcoin market-cap gains.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "date": "2026-09-22"
         },
         {
-          "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
-          "summary": "Animoca Brands suspended its reverse merger talks with Currenc but said it remains committed to pursuing a listing on a major exchange.",
+          "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
+          "summary": "Bitcoin traded near $86,000 as major altcoins gained, while rising derivatives leverage pointed to growing speculative activity across crypto markets.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "date": "2026-09-22"
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
+          "summary": "White hats secured about 40% of the Bitcoin moved in the Coldcard exploit’s second wave, transferring it to a Wyoming trust for victims.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "date": "2026-09-22"
         },
         {
-          "title": "Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto",
-          "summary": "Treasury named AI among five major transitions expected to reshape Australia’s economy, while Coinbase says the report overlooks the digital financial infrastructure AI agents could eventually need.",
+          "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
+          "summary": "Solstice CEO Ben Nadareski says deeper liquidity and growing institutional participation could make future crypto bull runs less volatile than previous cycles.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report",
+          "summary": "Binance says it has a \"zero-tolerance policy\" for sanctions violations. Prosecutors are asking whether its 2023 compliance fixes held.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
           "date": "2026-09-22"
         },
         {
@@ -348,19 +355,19 @@
           "source": "Decrypt",
           "url": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
           "date": "2026-09-21"
-        },
-        {
-          "title": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
-          "summary": "A lawsuit accuses UK users of running six coordinated accounts to pull at least $278,000 from X's now-defunct Creator Revenue Sharing Program.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout",
-          "date": "2026-09-21"
         }
       ]
     },
     "geopolitique": {
       "label": "Géopolitique & Général",
       "items": [
+        {
+          "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+          "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-22"
+        },
         {
           "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
           "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
@@ -376,73 +383,66 @@
           "date": "2026-09-22"
         },
         {
-          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-          "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+          "title": "Teenager captured after 11 shot at Turkish high school",
+          "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-          "summary": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-22"
         },
         {
-          "title": "\"Je ne voterai pour personne\" : au Maroc, de nombreux jeunes bouderont les législatives",
-          "summary": "Première élection nationale depuis les manifestations de la \"Gen Z 212\", les législatives marocaines se déroulent, mercredi, dans le royaume chérifien. Alors que le taux de participation s'annonce comme l'un des enjeux majeurs du scrutin, de nombreux jeunes…",
+          "title": "RDC : \"Ils nous ont attaqués à la machette\", l'opposition accuse l'UDPS après la mort d'un militant",
+          "summary": "Près d'une semaine après la meurtre du militant Manassé Lomboto Bomengola lors d'une manifestation à Kinshasa, l'opposition met en cause l'UDPS, le parti au pouvoir, ce que ce dernier dément. Lors de ce rassemblement d'opposition, des hommes armés de…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/afrique/20260922-je-ne-voterai-pour-personne-au-maroc-de-nombreux-jeunes-bouderont-les-l%C3%A9gislatives",
+          "url": "https://www.france24.com/fr/afrique/20260922-rdc-attaqu%C3%A9-machette-opposition-accuse-udps-mort-militant-congo-manifestation-constitution-tshisekedi",
           "date": "2026-09-22"
         },
         {
-          "title": "\"Ce sont mes origines\" : Afrique, CAN, Ballon d'or… Les confessions de Kylian Mbappé",
-          "summary": "Le meilleur attaquant de l'histoire des Bleus et prétendant au Ballon d'or 2026 Kylian Mbappé a accordé une interview à nos confrères de RFI. À quelques jours de plusieurs matches de la Ligue des Nations, il s'est longuement confié, revenant notamment sur son…",
+          "title": "En direct : Antonio Guterres ouvre pour la dernière fois l'Assemblée générale de l'ONU",
+          "summary": "L’Assemblée générale des Nations unies s'ouvre mardi par un discours du secrétaire général Antonio Guterres, dont le mandat se termine à la fin de l'année. Il sera suivi à la tribune, entre autres dirigeants, du Brésilien Lula, de l'Américain Donald Trump, du…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/sports/20260922-origines-afrique-can-ballon-or-confessions-kylian-mbappe",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260922-assembl%C3%A9e-g%C3%A9n%C3%A9rale-onu-en-direct-ouverture-guterres-trump-lula-erdogan-macron-takaichi-burnham-zelensky-moyen-orient-ukraine",
           "date": "2026-09-22"
         },
         {
-          "title": "Football : l'équipe de France entre dans sa nouvelle ère avec Zinedine Zidane",
-          "summary": "Zinedine Zidane a dirigé sa première séance d’entraînement en tant que sélectionneur des Bleus.",
+          "title": "Législatives au Maroc : les jeunes électeurs doutent d'un réel changement",
+          "summary": "À une journée des ⁠élections législatives du ​23 septembre au Maroc, les partis politiques s'efforcent de convaincre les jeunes, las de la précarité économique, de se rendre aux urnes en leur promettant emplois et logements abordables. La jeunesse ​du pays, à…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260922-football-l-%C3%A9quipe-de-france-entre-dans-sa-nouvelle-%C3%A8re-avec-zinedine-zidane",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-l%C3%A9gislatives-au-maroc-les-jeunes-%C3%A9lecteurs-doutent-d-un-r%C3%A9el-changement",
           "date": "2026-09-22"
         },
         {
-          "title": "En direct : les Houthis font état de six morts dans des frappes saoudiennes sur Mokha",
-          "summary": "Les Houthis au Yémen doivent \"cesser immédiatement toutes leurs actions militaires, menaces et attaques\" contre le transport maritime, ont exhorté lundi soir les ministres des Affaires étrangères du G7, en marge de l'Assemblée générale de l'ONU. L'agence…",
+          "title": "Donald Trump déclare la guerre aux médias américains : la riposte s'organise",
+          "summary": "Les grandes chaînes de télévision américaines ont fait bloc lundi 21 septembre autour de CNN, qui a saisi la justice, tout comme MS NOW et Politico, après la décision de Donald Trump d'interdire à ces trois médias l'accès à la Maison Blanche. Cette décision…",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/moyen-orient/20260922-en-direct-houthis-appeles-cesser-immediatement-menaces-attaques-g7-yemen-arabie-saoudite-israel-liban-onuiran-detroit-ormuz",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-donald-trump-d%C3%A9clare-la-guerre-aux-m%C3%A9dias-am%C3%A9ricains-la-riposte-s-organise",
           "date": "2026-09-22"
         },
         {
-          "title": "Mort de Federico Martin Aramburu : acculé par deux semaines d’audience, Loïk Le Priol nuance et amende sa défense lors de son interrogatoire",
-          "summary": "Face à la cour d’assises de Paris, l’ancien commando marine a tenté, sept heures durant, lundi 21 septembre, de corriger le portrait dressé par l’experte psychiatre, qui avait évoqué sa « culture permanente de l’excuse ». « Un homme est mort et l’injustice de…",
+          "title": "Carburants : Sébastien Lecornu propose d’inscrire une « règle d’or » dans le budget 2027 pour « restituer » les surplus de TVA aux Français",
+          "summary": "« Concrètement, si les prix devaient encore augmenter et alimenter un surplus de TVA, la hausse de TVA sera[it] neutralisée pour être restituée aux Français à la pompe », affirme l’entourage du premier ministre, sans donner plus de détail sur le mécanisme de…",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/22/mort-de-federico-martin-aramburu-accule-par-deux-semaines-d-audience-loik-le-priol-nuance-et-amende-sa-defense-lors-de-son-interrogatoire_6779785_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-sebastien-lecornu-propose-d-inscrire-une-regle-d-or-dans-le-budget-2027-pour-restituer-les-surplus-de-tva-aux-francais_6780071_823448.html",
           "date": "2026-09-22"
         },
         {
-          "title": "A New York, Emmanuel Macron et Donald Trump débattent de l’Ukraine et de la flambée de l’or noir",
-          "summary": "Le président français a présenté à son homologue américain, lundi, des initiatives qui permettraient d’agir sur les prix du baril, notamment un « moratoire » qui concernerait les frappes ukrainiennes, mais aussi russes visant les infrastructures énergétiques.",
+          "title": "En Seine-et-Marne, dans cet ancien fief de LR, « on sent la vague RN arriver »",
+          "summary": "« Extrême droite : l’ancrage européen » 2/6. Alors que le Rassemblement national mène une stratégie d’implantation minutieuse dans ce département francilien, très rural, longtemps fief du parti Les Républicains, les électeurs conservateurs basculent, scrutin…",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/22/a-new-york-emmanuel-macron-et-donald-trump-debattent-de-l-ukraine-et-de-la-flambee-de-l-or-noir_6779749_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/22/en-seine-et-marne-dans-cet-ancien-fief-de-lr-on-sent-la-vague-rn-arriver_6780085_3210.html",
           "date": "2026-09-22"
         },
         {
-          "title": "Corée du Nord : Kim Jong-un a supervisé l’essai d’une nouvelle arme présentée comme hypersonique",
-          "summary": "Les deux projectiles tirés dimanche ont parcouru jusqu’à 600 kilomètres selon Séoul, qui appelle à la prudence sur les performances revendiquées par Pyongyang.",
+          "title": "Pour Donald Trump, l’heure du choix face à la Russie",
+          "summary": "Depuis dix-huit mois, la Maison Blanche a pu constater que la discussion sans rapport de force avec Vladimir Poutine ne conduisait nulle part. A l’heure où la Russie intensifie sa guerre hybride contre les alliés de l’Ukraine, Donald Trump aura plus à y…",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/22/coree-du-nord-kim-jong-un-a-supervise-l-essai-d-une-nouvelle-arme-presentee-comme-hypersonique_6779833_3210.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/22/pour-donald-trump-l-heure-du-choix-face-a-la-russie_6780078_3232.html",
           "date": "2026-09-22"
         },
         {
-          "title": "En Italie, Giorgia Meloni, concurrencée sur sa droite, durcit le ton contre l’islam",
-          "summary": "Fragilisée par la montée en puissance du nouveau parti de l’ex-général Roberto Vannacci, et alors que la parole islamophobe se libère dans le pays, la présidente du conseil italien souhaite interdire la burqa et le niqab à l’école, et plafonner le nombre…",
+          "title": "Dans la défense, les acquisitions et les levées de fonds atteignent des niveaux record",
+          "summary": "A l’initiative des industriels et, plus récemment, des fonds d’investissement, les opérations financières se multiplient dans le secteur au moment où de nombreuses PME ont besoin de capitaux pour augmenter leur cadence de production.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/22/en-italie-giorgia-meloni-concurrencee-sur-sa-droite-durcit-le-ton-contre-l-islam_6779969_3210.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/22/dans-la-defense-les-acquisitions-et-les-levees-de-fonds-atteignent-des-niveaux-record_6779832_3234.html",
           "date": "2026-09-22"
         }
       ]
@@ -451,32 +451,32 @@
       "label": "Science",
       "items": [
         {
-          "title": "Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
-          "summary": "Nature, Published online: 21 September 2026; doi:10.1038/s41586-026-11160-9 Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
+          "title": "Biosecurity must protect human functional capacity",
+          "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02996-2 Biosecurity must protect human functional capacity",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/s41586-026-11160-9",
-          "date": "2026-09-21"
+          "url": "https://www.nature.com/articles/d41586-026-02996-2",
+          "date": "2026-09-22"
         },
         {
-          "title": "Six principles for supporting academic freedom in universities",
-          "summary": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02932-4 Many academics are concerned about threats to independent enquiry in higher education. Here’s how it can be protected while taking legitimate concerns into account.",
+          "title": "Why insects need their own protected areas",
+          "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02997-1 Why insects need their own protected areas",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02932-4",
-          "date": "2026-09-21"
+          "url": "https://www.nature.com/articles/d41586-026-02997-1",
+          "date": "2026-09-22"
         },
         {
-          "title": "Losing your way of life to climate change matters — and we need a way to measure it",
-          "summary": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02928-0 Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose.",
+          "title": "A global safety net for climate-risk intelligence is urgently needed",
+          "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02995-3 A global safety net for climate-risk intelligence is urgently needed",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02928-0",
-          "date": "2026-09-21"
+          "url": "https://www.nature.com/articles/d41586-026-02995-3",
+          "date": "2026-09-22"
         },
         {
-          "title": "Edible batteries power medical devices in the body",
-          "summary": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02987-3 The tiny power sources, tested in pigs, dissolve inside the digestive tract after several months.",
+          "title": "The worst El Niño in recorded history is brewing — here’s how governments must prepare",
+          "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02939-x From southern Africa to the Amazon, the risks are mounting and the window for action is rapidly closing.",
           "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-02987-3",
-          "date": "2026-09-21"
+          "url": "https://www.nature.com/articles/d41586-026-02939-x",
+          "date": "2026-09-22"
         },
         {
           "title": "Russel Vought will reportedly be given veto power over all NIH grants",
@@ -512,31 +512,31 @@
       "label": "Politique",
       "items": [
         {
-          "title": "Le RN prend ses distances avec la Russie sans clarifier sa position sur l’Ukraine, un exercice d’équilibriste à l’approche de l’élection présidentielle de 2027",
-          "summary": "Après avoir minimisé les alertes d’Emmanuel Macron sur la menace russe à la sortie de la réunion organisée à l’Elysée, vendredi 18 septembre, Marine Le Pen et Jordan Bardella ont publié le lendemain un long communiqué d’une inhabituelle défiance envers…",
+          "title": "En Seine-et-Marne, dans cet ancien fief de LR, « on sent la vague RN arriver »",
+          "summary": "« Extrême droite : l’ancrage européen » 2/6. Alors que le Rassemblement national mène une stratégie d’implantation minutieuse dans ce département francilien, très rural, longtemps fief du parti Les Républicains, les électeurs conservateurs basculent, scrutin…",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/22/le-rn-prend-ses-distances-avec-la-russie-sans-clarifier-sa-position-sur-l-ukraine-un-exercice-d-equilibriste-a-l-approche-de-l-election-presidentielle-de-2027_6779933_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/22/en-seine-et-marne-dans-cet-ancien-fief-de-lr-on-sent-la-vague-rn-arriver_6780085_3210.html",
           "date": "2026-09-22"
         },
         {
-          "title": "Des « solutions évoquées » concernant l’Ukraine et la forte augmentation du prix du pétrole : Emmanuel Macron rencontre Donald Trump à New York",
-          "summary": "Le président français a présenté à son homologue américain, lundi, des initiatives qui auraient un impact sur les prix du baril.",
+          "title": "Carburants : Emmanuel Macron demande un assouplissement des normes européennes sur la production et l’import",
+          "summary": "Le président français demande à la Commission européenne des mesures d’urgence en raison de l’explosion des prix à la pompe liée à la guerre au Moyen-Orient. Mais elles ne doivent pas interférer avec les actions de long terme de l’UE, comme l’électrification…",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/international/video/2026/09/22/des-solutions-evoquees-concernant-l-ukraine-et-la-forte-augmentation-du-prix-du-petrole-emmanuel-macron-rencontre-donald-trump-a-new-york_6779900_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/22/carburants-emmanuel-macron-demande-un-assouplissement-des-normes-europeennes-sur-la-production-et-l-import_6780080_3210.html",
           "date": "2026-09-22"
         },
         {
-          "title": "Budget 2027 : entre un appel aux ordonnances et le refus de la censure, LR avance avec prudence",
-          "summary": "En 2025, l’exercice budgétaire avait révélé les divisions du parti. Dans l’attente de la copie initiale de Matignon, la droite reste attentive à l’effort demandé aux retraités. Mais les premières mesures de Sébastien Lecornu ne seraient pas de nature à «…",
+          "title": "Présidentielle 2027 : Philippe Brun dépose un référé pour être réintégré au PS et à la primaire de la gauche",
+          "summary": "Invité au micro de RTL, le député de l’Eure a dit espérer pouvoir participer à la primaire de la gauche, dont le premier débat se tient mercredi soir.",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/22/budget-2027-entre-un-appel-aux-ordonnances-et-le-refus-de-la-censure-lr-avance-avec-prudence_6779831_823448.html",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/22/presidentielle-2027-philippe-brun-depose-un-refere-pour-etre-reintegre-au-ps-et-a-la-primaire-a-gauche_6780079_6205049.html",
           "date": "2026-09-22"
         },
         {
-          "title": "Sénatoriales 2026 : à quoi sert le Sénat ?",
-          "summary": "Peu médiatisée, la Chambre, dont plus la moitié des sièges doit être renouvelée dimanche, est un rouage essentiel du pouvoir.",
+          "title": "Matthieu Pigasse « ne tourne pas la page » de l’élection présidentielle et veut « œuvrer pour l’union de la gauche »",
+          "summary": "Le banquier d’affaires aurait voulu participer à une « primaire large » à gauche et a dénoncé « une primaire de cooptation », « où les candidats choisissent les candidats » et « où les candidats choisissent même d’une certaine façon leurs électeurs ».",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/22/senatoriales-2026-a-quoi-sert-le-senat_6779792_4355770.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/22/presidentielle-matthieu-pigasse-ne-tourne-pas-la-page-de-l-election-presidentielle-et-n-exclut-pas-de-se-presenter_6780072_823448.html",
           "date": "2026-09-22"
         },
         {
@@ -576,6 +576,34 @@
     "missions": {
       "label": "Missions & Demandes de services",
       "items": [
+        {
+          "title": "Recherche développeur web",
+          "summary": "Budget : 500 € à 1 000 € - Catégories : Modules et composants, Développement spécifique, WordPress, Gestion site web, E-learning J'ai déjà un site web Wordpress que j'ai développé moi-même . Il n'est pas efficace ; il concerne des présentations de formation .…",
+          "source": "Codeur.com",
+          "url": "https://www.codeur.com/projects/490095-recherche-developpeur-web",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Mise a jour et securisation worpress.",
+          "summary": "Budget : Moins de 500 € - Catégories : WordPress, Gestion site web, PHP, Maintenance, Sécurité Bonjour nous recherchons quelqu'un pour effectuer la mise à jour de notre site WordPress , tegler les alertes de sécurité. mettre en place la double…",
+          "source": "Codeur.com",
+          "url": "https://www.codeur.com/projects/490089-mise-a-jour-et-securisation-worpress",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Refonte de site internet",
+          "summary": "Budget : 1 000 € à 10 000 € - Catégories : Création de site internet, Référencement, liens, Développement spécifique, Migration ou refonte de site, SEO / GEO Refonte site internet partie nettoyage industriel partie nettoyage auto à domicile Ajout de dix a 15…",
+          "source": "Codeur.com",
+          "url": "https://www.codeur.com/projects/490090-refonte-de-site-internet",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Une couche d'infra intelligente pour les pros de l'immo",
+          "summary": "Budget : 1 000 € à 10 000 € - Catégories : Développement spécifique, Back-end, API, Machine Learning, ChatGPT L'attendu serait l'évolution et le maintien de notre agent développé sous python avec aegra (langgraph), et son set de skills interagissant avec…",
+          "source": "Codeur.com",
+          "url": "https://www.codeur.com/projects/490088-une-couche-d-infra-intelligente-pour-les-pros-de-l-immo",
+          "date": "2026-09-22"
+        },
         {
           "title": "Crer des agent ia autonome",
           "summary": "Budget : Moins de 500 € - Catégories : Développement spécifique, API, Machine Learning, Chatbot, ChatGPT Détails du projet : Des agent ia qui excute des taches de a a z Détails des prestations attendues : Recherche de client envoie de mail creation facture et…",
@@ -652,27 +680,6 @@
           "source": "Codeur.com",
           "url": "https://www.codeur.com/projects/490057-creer-un-site-internet-odoo",
           "date": "2026-09-21"
-        },
-        {
-          "title": "Seo de ma boutique en ligne",
-          "summary": "Budget : 500 € à 1 000 € - Catégories : Référencement, liens, SEO / GEO, Site E-commerce, Prestashop Je recherche un spécialiste seo pour ma boutique prestashop 1.8.2 Voir ce projet sur Codeur",
-          "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/490047-seo-de-ma-boutique-en-ligne",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "Téléprospecteur / Cold Caller B2B freelance — marché suisse",
-          "summary": "Budget : Moins de 500 € - Catégories : Télémarketing, Prospection commerciale Nous recherchons des téléprospecteur(trice)s B2B freelance pour une campagne pilote auprès de PME suisses francophones. ### Notre activité Nous aidons les entreprises à automatiser…",
-          "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/490045-teleprospecteur-cold-caller-b2b-freelance-marche-suisse",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "Bonjour Lucas je voudrai develloper une boutique shopify dropshopping",
-          "summary": "Budget : Moins de 500 € - Catégories : Site E-commerce, Système de paiement, Shopify, Dropshipping, Web design Bonjour Lucas, ​Je développe actuellement la boutique e-commerce de ma marque « HONEST », dédiée au matériel multisport haut de gamme axé sur la…",
-          "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/490046-bonjour-lucas-je-voudrai-develloper-une-boutique-shopify-dropshopping",
-          "date": "2026-09-21"
         }
       ]
     }
@@ -681,41 +688,41 @@
     {
       "id": "bitcoin",
       "symbol": "BIT",
-      "eur": 74444,
-      "usd": 85277,
-      "change_24h": 4.67
+      "eur": 75016,
+      "usd": 85978,
+      "change_24h": 1.7
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "eur": 2379.38,
-      "usd": 2725.6,
-      "change_24h": 2.97
+      "eur": 2394.73,
+      "usd": 2744.67,
+      "change_24h": 0.98
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "eur": 101.45,
-      "usd": 116.21,
-      "change_24h": 4.26
+      "eur": 102.02,
+      "usd": 116.93,
+      "change_24h": 1.0
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "eur": 1.32,
-      "usd": 1.52,
-      "change_24h": 5.69
+      "eur": 1.33,
+      "usd": 1.53,
+      "change_24h": 2.99
     }
   ],
   "market_indices": [],
   "mentioned_companies": [
     {
-      "name": "Microsoft",
-      "mentions": 8
-    },
-    {
       "name": "OpenAI",
       "mentions": 6
+    },
+    {
+      "name": "Microsoft",
+      "mentions": 5
     },
     {
       "name": "Meta",
@@ -723,6 +730,10 @@
     },
     {
       "name": "Apple",
+      "mentions": 3
+    },
+    {
+      "name": "Binance",
       "mentions": 3
     },
     {
@@ -734,7 +745,7 @@
       "mentions": 2
     },
     {
-      "name": "Coinbase",
+      "name": "Amazon",
       "mentions": 1
     }
   ],
@@ -743,9 +754,9 @@
       "'OpenAI' mentionné 6x dans les flux du jour",
       "'Google' mentionné 2x dans les flux du jour",
       "'Meta' mentionné 4x dans les flux du jour",
-      "'Microsoft' mentionné 8x dans les flux du jour",
-      "'inflation' mentionné 2x dans les flux du jour",
-      "'pétrole' mentionné 1x dans les flux du jour"
+      "'Microsoft' mentionné 5x dans les flux du jour",
+      "'Bitcoin' mentionné 8x dans les flux du jour",
+      "'ETF' mentionné 1x dans les flux du jour"
     ],
     "framework": "Cadre d'analyse à moyen/long terme : privilégier la diversification sectorielle plutôt que le pari sur un seul acteur IA ; suivre les échéances réglementaires (AI Act, textes nationaux) qui peuvent créer de la volatilité court-terme sur les valeurs tech ; garder une exposition mesurée à l'énergie/matières premières en période de tensions géopolitiques ; le dollar-cost averaging (investissement périodique) reste une approche disciplinée pour lisser la volatilité sur les valeurs IA et semi-conducteurs, historiquement très cycliques.",
     "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée. Elle ne remplace pas l'avis d'un conseiller en investissement financier agréé, et ne tient pas compte de votre situation personnelle."
