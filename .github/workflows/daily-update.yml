@@ -25,6 +25,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Récupérer les news et générer le JSON du jour
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python scripts/fetch_news.py
 
       - name: Publier les changements

@@ -8,10 +8,11 @@ const DAYS = [
   {key:"dimanche", num:"07", label:"Dim"},
 ];
 
-const CATEGORY_ORDER = ["missions","geopolitique","politique","economie","crypto","science","ia","cyber","productivite"];
+const CATEGORY_ORDER = ["missions","geopolitique","newsletters","politique","economie","crypto","science","ia","cyber","productivite"];
 const CATEGORY_DOTS = {
   missions:"var(--dot-missions)",
   geopolitique:"var(--dot-geo)",
+  newsletters:"var(--dot-newsletters)",
   politique:"var(--dot-pol)",
   economie:"var(--dot-eco)",
   crypto:"var(--dot-crypto)",
@@ -45,6 +46,7 @@ const FALLBACK = {
       geopolitique:{label:"Géopolitique & Général", items:[
         {title:"Tensions au Proche-Orient et marchés de l'énergie", summary:"La reprise du conflit et les menaces d'escalade continuent d'alimenter la volatilité du prix du Brent.", source:"Proximité Courtage", url:"https://proximite-courtage.fr", date:"2026-07-22"}
       ]},
+      newsletters:{label:"Newsletters", items:[]},
       science:{label:"Science", items:[]},
       politique:{label:"Politique", items:[]},
       productivite:{label:"Productivité & Time Management", items:[]},
@@ -79,6 +81,7 @@ function emptyDay(key){
     weekday:key, generated_at:null,
     categories:{
       geopolitique:{label:"Géopolitique & Général", items:[]},
+      newsletters:{label:"Newsletters", items:[]},
       politique:{label:"Politique", items:[]},
       economie:{label:"Économie & Marchés", items:[]},
       crypto:{label:"Cryptomonnaies", items:[]},
@@ -159,10 +162,11 @@ function renderCategories(data){
       c.items.forEach(item=>{
         const div = document.createElement("div");
         div.className = "item";
+        const summaryHtml = (item.summary || "").split("\n").join("<br>");
         div.innerHTML = `
           <p class="item-title">${item.title}</p>
           <div class="item-meta">${item.source} · ${item.date}</div>
-          <div class="item-summary">${item.summary} <br><a href="${item.url}" target="_blank" rel="noopener">Lire la source →</a></div>
+          <div class="item-summary">${summaryHtml} <br><a href="${item.url}" target="_blank" rel="noopener">Lire la source →</a></div>
         `;
         div.addEventListener("click", ()=> div.classList.toggle("open"));
         sec.appendChild(div);

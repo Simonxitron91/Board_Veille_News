@@ -6,11 +6,16 @@ data/<jour_de_la_semaine>.json pour alimenter le board.
 Sources modifiables ci-dessous (FEEDS). Un flux cassé est ignoré
 silencieusement (best effort) pour ne jamais faire échouer le run entier.
 """
+import email
+import imaplib
 import json
+import os
 import re
 import sys
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from email.header import decode_header
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 import feedparser
@@ -103,7 +108,165 @@ LABELS = {
     "politique": "Politique",
     "productivite": "Productivité & Time Management",
     "missions": "Missions & Demandes de services",
+    "newsletters": "Newsletters",
 }
+
+# --- Newsletters personnelles reçues par email -----------------------------
+# Contrairement aux autres catégories (flux RSS publics), celle-ci lit
+# directement la boîte mail (IMAP) pour récupérer l'édition du jour de 2
+# newsletters suivies par Nicolas, et en extrait titre + lien + un résumé
+# synthétique (points clés), sans le contenu sponsorisé/pubs/sondages.
+NEWSLETTER_SOURCES = [
+    {"name": "La Cour des Grands", "sender": "news@lacourdesgrands.co", "extractor": "lcdg", "domain": "lacourdesgrands.co"},
+    {"name": "The Next Big Shit", "sender": "luc@the-nbs.fr", "extractor": "nbs", "domain": "the-nbs.fr"},
+]
+# Fenêtre de recherche élargie à 2 jours : "The Next Big Shit" est envoyée
+# ~7h-9h heure de Paris, donc après le cron quotidien (6h UTC). Ce jour-là,
+# le board affiche l'édition de la veille (encore dans la fenêtre) plutôt
+# qu'une catégorie vide -- 1 jour de décalage possible sur cette source.
+NEWSLETTER_LOOKBACK_DAYS = 2
+MAX_HIGHLIGHTS = 5
+
+
+def _decode_subject(raw_subject: str) -> str:
+    if not raw_subject:
+        return ""
+    decoded = ""
+    for text, enc in decode_header(raw_subject):
+        if isinstance(text, bytes):
+            decoded += text.decode(enc or "utf-8", errors="replace")
+        else:
+            decoded += text
+    return decoded.strip()
+
+
+def _get_plaintext_body(msg) -> str:
+    if msg.is_multipart():
+        for part in msg.walk():
+            disposition = str(part.get("Content-Disposition") or "")
+            if part.get_content_type() == "text/plain" and "attachment" not in disposition:
+                charset = part.get_content_charset() or "utf-8"
+                try:
+                    return part.get_payload(decode=True).decode(charset, errors="replace")
+                except Exception:
+                    continue
+        return ""
+    charset = msg.get_content_charset() or "utf-8"
+    try:
+        return msg.get_payload(decode=True).decode(charset, errors="replace")
+    except Exception:
+        return str(msg.get_payload() or "")
+
+
+def _clean_markdown(text: str) -> str:
+    """Retire la syntaxe markdown des newsletters (gras/italique/liens) pour
+    ne garder qu'un texte brut lisible dans le résumé."""
+    text = re.sub(r"\*\*(.+?)\*\*", r"\1", text)
+    text = re.sub(r"__(.+?)__", r"\1", text)
+    text = re.sub(r"==(.+?)==", r"\1", text)
+    text = re.sub(r"(?<!\w)_(.+?)_(?!\w)", r"\1", text)
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    text = re.sub(r"^[^\w(«]+", "", text.strip())  # emoji de tête
+    text = re.sub(r"\s+", " ", text).strip(" -:*")
+    return text.strip()
+
+
+def _extract_link(body: str, domain: str) -> str:
+    m = re.search(rf"https://www\.{re.escape(domain)}/p/\S+", body)
+    return m.group(0).rstrip(".,)") if m else ""
+
+
+def _extract_highlights_lcdg(body: str) -> list:
+    """"La Cour des Grands" liste ses points clés du jour sous "Au menu du
+    jour :" avant le premier article -- c'est ce bloc qu'on synthétise."""
+    block = re.search(r"Au menu du jour\s*:(.*?)(?:Et bien plus encore|———+)", body, re.S)
+    highlights = []
+    if block:
+        for line in block.group(1).splitlines():
+            line = line.strip().lstrip("*").strip()
+            if not line:
+                continue
+            cleaned = _clean_markdown(line)
+            if cleaned:
+                highlights.append(cleaned)
+    return highlights[:MAX_HIGHLIGHTS]
+
+
+def _extract_highlights_nbs(body: str) -> list:
+    """"The Next Big Shit" structure ses actus du jour en titres de ligne
+    "## **#1 ...**", "## **#2 ...**", etc. -- on récupère ces titres de
+    section (le markdown de la source est parfois mal formé, ex. doubles
+    "****", donc on nettoie par simple suppression des astérisques plutôt
+    que par un regex de paires gras/gras)."""
+    highlights = []
+    for line in body.splitlines():
+        line = line.strip()
+        if not line.startswith("##"):
+            continue
+        text = line.lstrip("#").strip().replace("*", "").strip()
+        text = re.sub(r"^#?\d+\s*", "", text)  # retire la numérotation "#3 "
+        text = re.sub(r"\s+", " ", text).strip()
+        if text:
+            highlights.append(text)
+    return highlights[:MAX_HIGHLIGHTS]
+
+
+_EXTRACTORS = {"lcdg": _extract_highlights_lcdg, "nbs": _extract_highlights_nbs}
+
+
+def fetch_newsletters() -> list:
+    """Récupère la dernière édition de chaque newsletter suivie par email
+    (IMAP Gmail). Best effort : si les identifiants (secrets GitHub
+    GMAIL_ADDRESS / GMAIL_APP_PASSWORD) sont absents ou la connexion échoue,
+    la catégorie reste vide sans faire échouer le run -- même logique de
+    tolérance que le reste du script."""
+    address = os.environ.get("GMAIL_ADDRESS")
+    app_password = os.environ.get("GMAIL_APP_PASSWORD")
+    if not address or not app_password:
+        print("[warn] GMAIL_ADDRESS/GMAIL_APP_PASSWORD absents -> catégorie newsletters vide", file=sys.stderr)
+        return []
+
+    items = []
+    try:
+        imap = imaplib.IMAP4_SSL("imap.gmail.com")
+        imap.login(address, app_password)
+        imap.select("INBOX")
+        since = (datetime.now(timezone.utc) - timedelta(days=NEWSLETTER_LOOKBACK_DAYS)).strftime("%d-%b-%Y")
+
+        for src in NEWSLETTER_SOURCES:
+            try:
+                status, data = imap.search(None, f'(FROM "{src["sender"]}" SINCE {since})')
+                if status != "OK" or not data or not data[0]:
+                    print(f"[warn] aucune édition récente trouvée pour {src['name']}", file=sys.stderr)
+                    continue
+                latest_id = data[0].split()[-1]  # le plus récent dans la fenêtre
+                status, msg_data = imap.fetch(latest_id, "(RFC822)")
+                if status != "OK" or not msg_data or not msg_data[0]:
+                    continue
+                msg = email.message_from_bytes(msg_data[0][1])
+                subject = _decode_subject(msg.get("Subject", ""))
+                body = _get_plaintext_body(msg)
+                highlights = _EXTRACTORS[src["extractor"]](body)
+                link = _extract_link(body, src["domain"])
+                try:
+                    msg_date = parsedate_to_datetime(msg.get("Date")).strftime("%Y-%m-%d")
+                except Exception:
+                    msg_date = ""
+                summary = "\n".join(f"• {h}" for h in highlights) if highlights else clean_summary(body, max_len=400)
+                items.append({
+                    "title": subject or src["name"],
+                    "summary": summary,
+                    "source": src["name"],
+                    "url": link,
+                    "date": msg_date,
+                })
+            except Exception as e:
+                print(f"[warn] échec newsletter {src['name']}: {e}", file=sys.stderr)
+                continue
+        imap.logout()
+    except Exception as e:
+        print(f"[warn] échec connexion IMAP: {e}", file=sys.stderr)
+    return items
 
 # --- Missions freelance & demandes de services -----------------------------
 # Contrairement aux autres catégories (agrégation brute de flux presse),
@@ -358,6 +521,8 @@ def main():
     for cat_key, sources in FEEDS.items():
         items = fetch_category(cat_key, sources)
         categories[cat_key] = {"label": LABELS[cat_key], "items": items}
+
+    categories["newsletters"] = {"label": LABELS["newsletters"], "items": fetch_newsletters()}
 
     # Catégorie "missions" à part : filtrage par mots-clés d'un flux
     # généraliste, pas une simple agrégation presse -> exclue des analyses

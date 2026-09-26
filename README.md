@@ -33,11 +33,47 @@ suivante).
 > Limite honnête : **X (Twitter)** n'est pas inclus car l'API gratuite est
 > trop restreinte pour une automatisation fiable, et **WhatsApp n'a aucune
 > API d'automatisation légale/publique** — impossible à intégrer, même en
-> fournissant tes identifiants (Claude ne peut pas se connecter à un compte
-> personnel authentifié, et l'automatisation quotidienne tourne de toute
-> façon sur GitHub Actions, sans lien avec le chat). Le board s'appuie sur
-> des flux RSS publics de médias reconnus et sur l'API gratuite CoinGecko
-> pour les prix crypto.
+> fournissant tes identifiants. Le board s'appuie sur des flux RSS publics
+> de médias reconnus, sur l'API gratuite CoinGecko pour les prix crypto, et
+> (depuis peu) sur 2 newsletters personnelles lues par email (voir
+> ci-dessous).
+
+## Newsletters personnelles (email)
+
+En plus des flux RSS publics, le board récupère chaque jour l'édition la
+plus récente de 2 newsletters reçues par email :
+
+- **La Cour des Grands** (`news@lacourdesgrands.co`)
+- **The Next Big Shit** (`luc@the-nbs.fr`)
+
+Pour chacune, `fetch_newsletters()` dans `scripts/fetch_news.py` :
+- se connecte en IMAP à la boîte Gmail qui reçoit ces newsletters,
+- récupère l'email le plus récent de chaque expéditeur,
+- en extrait le titre (objet de l'email), le lien vers l'article en ligne,
+  et un **résumé synthétique** (les points clés du jour, sans les
+  sponsors/pubs/sondages),
+- range le tout dans une nouvelle catégorie **"Newsletters"** du board.
+
+### Configuration requise (à faire une seule fois, sur GitHub)
+
+1. Sur le compte Gmail qui reçoit ces 2 newsletters, active la validation en
+   2 étapes si ce n'est pas déjà fait, puis génère un **mot de passe
+   d'application** : myaccount.google.com → Sécurité → Validation en 2
+   étapes → Mots de passe des applications.
+2. Dans le dépôt GitHub : Settings → Secrets and variables → Actions → "New
+   repository secret", et ajoute :
+   - `GMAIL_ADDRESS` : l'adresse Gmail concernée
+   - `GMAIL_APP_PASSWORD` : le mot de passe d'application généré à l'étape 1
+     (16 caractères, pas ton mot de passe Gmail habituel)
+
+Sans ces 2 secrets, la catégorie "Newsletters" reste simplement vide (aucun
+échec du run — même tolérance aux pannes que le reste du script).
+
+> ⚠️ **Décalage possible sur "The Next Big Shit"** : cette newsletter arrive
+> généralement entre 7h et 9h heure de Paris, donc après le cron quotidien
+> du board (6h UTC). Ce jour-là, le board affiche encore l'édition de la
+> veille (la fenêtre de recherche IMAP couvre 2 jours). "La Cour des
+> Grands", elle, arrive vers 4h30 UTC et est donc toujours à jour.
 
 ## Cryptomonnaies
 
