@@ -1,93 +1,114 @@
 {
   "weekday": "samedi",
-  "generated_at": "2026-10-31T11:16:22.010952+00:00",
+  "generated_at": "2026-11-07T11:57:19.940447+00:00",
   "categories": {
     "ia": {
       "label": "Intelligence Artificielle",
       "items": [
         {
-          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+          "title": "Crusoe sells troubled Wyoming data center project to Google",
+          "summary": "The deal highlights the challenges of developing massive AI data centers.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-          "date": "2026-10-31"
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "date": "2026-11-07"
         },
         {
-          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-          "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-          "date": "2026-10-30"
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "date": "2026-11-06"
         },
         {
-          "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-          "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+          "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+          "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-          "date": "2026-10-30"
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "date": "2026-11-06"
         },
         {
-          "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
           "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-          "date": "2026-10-30"
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "date": "2026-11-06"
         },
         {
-          "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the…",
+          "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-          "date": "2026-10-30"
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "date": "2026-11-06"
         },
         {
-          "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-          "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence…",
+          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+          "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco,…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-          "date": "2026-10-30"
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "date": "2026-11-06"
         },
         {
-          "title": "The Download: AI agent tracking and climate feedback loops",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz…",
+          "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-          "date": "2026-10-29"
+          "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+          "date": "2026-11-05"
         },
         {
-          "title": "We urgently need to monitor AI agents’ actions in real time",
-          "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI…",
+          "title": "A new bill could change how the US builds energy infrastructure",
+          "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs…",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-          "date": "2026-10-29"
+          "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+          "date": "2026-11-05"
         },
         {
-          "title": "Making it easier for websites to express AI training preferences",
-          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
           "source": "OpenAI News",
-          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "Australian universities are creating AI-native graduates",
+          "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "Cult.fit builds operational muscle with Codex",
+          "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "summary": "",
+          "source": "Google DeepMind News",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "Agentic cheminformatics with Google Antigravity",
+          "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+          "source": "Google DeepMind News",
+          "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "Speeding up planning decisions with AI",
+          "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+          "source": "Google DeepMind News",
+          "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
           "date": "2026-10-30"
-        },
-        {
-          "title": "Community safety report and new protections for teens",
-          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "Fair use benefits everyone",
-          "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/fair-use-benefits-everyone",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "An updated Model Spec for more capable and beneficial AI",
-          "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/updated-model-spec",
-          "date": "2026-10-29"
         },
         {
           "title": "Gemini 4 Carbon: Our next frontier model",
@@ -95,27 +116,6 @@
           "source": "Google DeepMind News",
           "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
           "date": "2026-10-28"
-        },
-        {
-          "title": "Genie 4: A new generation of world simulation",
-          "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-          "source": "Google DeepMind News",
-          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "Beyond tree cover: mapping the world’s forest types",
-          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-          "source": "Google DeepMind News",
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-          "source": "Google DeepMind News",
-          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-          "date": "2026-10-15"
         }
       ]
     },
@@ -123,60 +123,74 @@
       "label": "Cybersécurité",
       "items": [
         {
-          "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are…",
+          "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+          "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-          "date": "2026-10-31"
+          "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+          "date": "2026-11-07"
         },
         {
-          "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-          "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed. The researchers reported the flaw…",
+          "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+          "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old,…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-          "date": "2026-10-31"
+          "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+          "date": "2026-11-06"
         },
         {
-          "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-          "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks…",
+          "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+          "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-          "date": "2026-10-31"
+          "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+          "date": "2026-11-06"
         },
         {
-          "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-          "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been attributed by CrowdStrike to…",
+          "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+          "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and…",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-          "date": "2026-10-30"
+          "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+          "date": "2026-11-06"
         },
         {
-          "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-          "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+          "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+          "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-          "date": "2026-10-30"
+          "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+          "date": "2026-11-07"
         },
         {
-          "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-          "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
+          "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+          "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-          "date": "2026-10-30"
+          "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+          "date": "2026-11-06"
         },
         {
-          "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-          "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
+          "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+          "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-          "date": "2026-10-30"
+          "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+          "date": "2026-11-06"
         },
         {
-          "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-          "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between…",
+          "title": "Fake security tools on GitHub push backdoors and infostealers",
+          "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-          "date": "2026-10-30"
+          "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "Want to Rent an Internet Address at the White House?",
+          "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+          "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising…",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+          "date": "2026-11-03"
         },
         {
           "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -191,20 +205,6 @@
           "source": "Krebs on Security",
           "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
           "date": "2026-10-19"
-        },
-        {
-          "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-          "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping…",
-          "source": "Krebs on Security",
-          "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "Microsoft Patches More Than 1,400 Security Flaws",
-          "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly…",
-          "source": "Krebs on Security",
-          "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-          "date": "2026-10-13"
         }
       ]
     },
@@ -212,32 +212,32 @@
       "label": "Économie & Marchés",
       "items": [
         {
-          "title": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
+          "title": "ECB contender de Cos warns of inflation risks as Iran war keeps energy prices high",
           "summary": "",
           "source": "Investing.com",
-          "url": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
-          "date": "2026-10-31"
+          "url": "https://www.investing.com/news/economy-news/ecb-contender-de-cos-warns-of-inflation-risks-as-iran-war-keeps-energy-prices-high-5009821",
+          "date": "2026-11-07"
         },
         {
-          "title": "Rubio to host meeting of Indo-Pacific Quad, wrap up G20 gathering",
+          "title": "China flags weak domestic demand as policymakers prepare 2027 growth measures",
           "summary": "",
           "source": "Investing.com",
-          "url": "https://www.investing.com/news/economy-news/rubio-to-host-meeting-of-indopacific-quad-wrap-up-g20-gathering-4989218",
-          "date": "2026-10-31"
+          "url": "https://www.investing.com/news/economy-news/china-flags-weak-domestic-demand-as-policymakers-prepare-2027-growth-measures-5009793",
+          "date": "2026-11-07"
         },
         {
-          "title": "France braces for fresh unrest, government vows tough response",
+          "title": "Environmental groups turn to AI despite concerns over data center emissions",
           "summary": "",
           "source": "Investing.com",
-          "url": "https://www.investing.com/news/economy-news/france-braces-for-fresh-unrest-government-vows-tough-response-4989212",
-          "date": "2026-10-31"
+          "url": "https://www.investing.com/news/economy-news/environmental-groups-turn-to-ai-despite-concerns-over-data-center-emissions-5009743",
+          "date": "2026-11-07"
         },
         {
-          "title": "Swiss firms plan to expand China investments as trade deal deepens ties",
+          "title": "UK PM Burnham seeks closer EU ties as Brexit tensions threaten growth push",
           "summary": "",
           "source": "Investing.com",
-          "url": "https://www.investing.com/news/economy-news/swiss-firms-plan-to-expand-china-investments-as-trade-deal-deepens-ties-4989188",
-          "date": "2026-10-31"
+          "url": "https://www.investing.com/news/economy-news/uk-pm-burnham-seeks-closer-eu-ties-as-brexit-tensions-threaten-growth-push-5009734",
+          "date": "2026-11-07"
         }
       ]
     },
@@ -245,88 +245,88 @@
       "label": "Cryptomonnaies",
       "items": [
         {
-          "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+          "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-          "date": "2026-10-31"
+          "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+          "date": "2026-11-06"
         },
         {
-          "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+          "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
-          "date": "2026-10-31"
+          "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+          "date": "2026-11-06"
         },
         {
-          "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+          "title": "The crypto industry has found new ways to grow. Making money from them is another story",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
-          "date": "2026-10-30"
+          "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+          "date": "2026-11-06"
         },
         {
-          "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+          "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
           "summary": "",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-          "date": "2026-10-30"
+          "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+          "date": "2026-11-06"
         },
         {
-          "title": "Binance $6.3B record hack sparks pre-election political chatter",
-          "summary": "Some political and administration figures tried to make hay of the biggest-ever crypto heist.",
+          "title": "US sanctions Canadian money-exchange firms over Iran ties",
+          "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-10-31"
+          "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-11-07"
         },
         {
-          "title": "Binance hackers raced to move billions before it could be frozen",
-          "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.",
+          "title": "Suspicious prediction market activity seen before election poll release: NYT",
+          "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-10-30"
+          "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-11-07"
         },
         {
-          "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
-          "summary": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.",
+          "title": "Nvidia may face a more hostile post-election Washington: Report",
+          "summary": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-10-30"
+          "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-11-07"
         },
         {
-          "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
-          "summary": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
+          "title": "Here’s what happened in crypto today",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "2026-10-30"
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-11-06"
         },
         {
-          "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
-          "summary": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standards.",
+          "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+          "summary": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
-          "date": "2026-10-30"
+          "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+          "date": "2026-11-06"
         },
         {
-          "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
-          "summary": "Intel beat third-quarter earnings expectations, but warned of a prolonged PC slump, sending shares to their worst daily decline in 50 years.",
+          "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+          "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
-          "date": "2026-10-30"
+          "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+          "date": "2026-11-06"
         },
         {
-          "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
-          "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
+          "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+          "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
-          "date": "2026-10-30"
+          "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+          "date": "2026-11-06"
         },
         {
-          "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
-          "summary": "Reddit shares are down 44% this week after CEO Steve Huffman warned that Google's AI-powered search features are cutting referrals, while weaker user growth and disappointing fourth-quarter guidance added to investor concerns.",
+          "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+          "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña.",
           "source": "Decrypt",
-          "url": "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
-          "date": "2026-10-30"
+          "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+          "date": "2026-11-06"
         }
       ]
     },
@@ -334,88 +334,88 @@
       "label": "Géopolitique & Général",
       "items": [
         {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+          "title": "With Stephen Miller pick, Trump readies for a battle",
+          "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-31"
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-06"
         },
         {
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-30"
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-07"
         },
         {
-          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-          "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+          "title": "Pope in 'pretty good health' as he starts Latin America tour",
+          "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-31"
+          "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-07"
         },
         {
-          "title": "Police deployed during stand-off over control of top Poland court",
-          "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+          "title": "AI stocks climb after trillions wiped from market values",
+          "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-31"
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-06"
         },
         {
-          "title": "Midterms : en Floride, les latinos se détournent-ils de Trump ?",
-          "summary": "Un reportage signé Antoni Belchi, récit de Thibault Franceschet.",
+          "title": "Des militants occupent le chantier d'un centre de données Microsoft à Amsterdam",
+          "summary": "Plusieurs centaines de militants, opposés à la construction d'un centre de données Microsoft à Amsterdam, en ont occupé le chantier vendredi, répondant à un appel à manifester sur deux jours en Europe.",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-midterms-en-floride-les-latinos-se-d%C3%A9tournent-ils-de-trump",
-          "date": "2026-10-31"
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-des-militants-occupent-le-chantier-d-un-centre-de-donn%C3%A9es-microsoft-%C3%A0-amsterdam",
+          "date": "2026-11-07"
         },
         {
-          "title": "Troisième samedi de mobilisation sociale en France : à quoi s'attendre ?",
-          "summary": "Marc Paupe est en direct de Paris.",
+          "title": "Corruptions : les démocrates préparent une série d'enquêtes sur le clan Trump",
+          "summary": "Devenu majoritaire au Congrès, le Parti démocrate a désormais les coudées franches pour lancer des enquêtes parlementaires sur l’administration Trump, sur fond d'enrichissement personnel du clan présidentiel.",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-troisi%C3%A8me-samedi-de-mobilisation-sociale-en-france-%C3%A0-quoi-s-attendre",
-          "date": "2026-10-31"
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-corruptions-les-d%C3%A9mocrates-pr%C3%A9parent-une-s%C3%A9rie-d-enqu%C3%AAtes-sur-le-clan-trump",
+          "date": "2026-11-07"
         },
         {
-          "title": "Mobilisations sociales en France : lourdes pertes pour l'hôtellerie",
-          "summary": "Une baisse de 40 % du taux d’occupation dans certains hôtels de la capitale : les mobilisations sociales provoquent une fuite des touristes.",
+          "title": "Trump promeut Stephen Miller, figure de la droite identitaire",
+          "summary": "Sonia Dridi, notre correspondante à Washington, décrypte la situation.",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-mobilisations-sociales-en-france-lourdes-pertes-pour-l-h%C3%B4tellerie",
-          "date": "2026-10-31"
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-trump-promeut-stephen-miller-figure-de-la-droite-identitaire",
+          "date": "2026-11-07"
         },
         {
-          "title": "\"Sécurité amplifiée\" pour l'acte III de la mobilisation sociale en France",
-          "summary": "Sylvain Boulouque, Historien des radicalités politiques et des mouvements sociaux, est notre invité.",
+          "title": "Changement climatique : un \"super El Niño\" d'une ampleur inédite",
+          "summary": "Fabio D'Andrea, climatologue chercheur au CNRS, est notre invité.",
           "source": "France 24",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-s%C3%A9curit%C3%A9-amplifi%C3%A9e-pour-l-acte-iii-de-la-mobilisation-sociale-en-france",
-          "date": "2026-10-31"
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-changement-climatique-un-super-el-ni%C3%B1o-d-une-ampleur-in%C3%A9dite",
+          "date": "2026-11-07"
         },
         {
-          "title": "Mobilisations sociales : Emmanuel Macron et Sébastien Lecornu cherchent des leviers face à la sédimentation des colères",
-          "summary": "A l’aube d’une nouvelle journée de contestation, samedi 31 octobre, l’exécutif redoute une explosion de violence dans l’espace public, alors qu’il ne dispose d’aucune marge de manœuvre pour faire autorité ou même se rendre audible.",
+          "title": "Mouvement lycéen : après les vacances scolaires, un retour des blocages marqué par une hausse des tensions",
+          "summary": "Les barrages perdurent dans un socle de lycées, dont le nombre est difficile à évaluer et apparaît sous-estimé dans la communication officielle du ministère de l’éducation nationale. Devant ces établissements, les confrontations entre élèves, parents,…",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/10/31/mobilisations-sociales-macron-et-lecornu-cherchent-des-leviers-face-a-la-sedimentation-des-coleres_6803494_823448.html",
-          "date": "2026-10-31"
+          "url": "https://www.lemonde.fr/societe/article/2026/11/07/mouvement-lyceen-apres-les-vacances-scolaires-un-retour-des-blocages-marque-par-une-hausse-des-tensions_6808168_3224.html",
+          "date": "2026-11-07"
         },
         {
-          "title": "Midterms 2026 : comment les démocrates ont délaissé le « wokisme » dans la campagne",
-          "summary": "Droits des LGBTQ+, lutte contre les inégalités de race ou de genre… les démocrates américains ont mis de côté ces questions sociétales, souvent qualifiées de « woke », pour se concentrer sur le coût de la vie. Pour autant, les républicains continuent…",
+          "title": "Midterms 2026 : l’ex-amirale Nancy Lacore, victime des purges de l’administration Trump à la tête du Pentagone, élue surprise en Caroline du Sud",
+          "summary": "L’ancienne cheffe d’état-major des forces navales américaines en Europe et en Afrique, qui s’était présentée sous la bannière démocrate, fait partie d’un nombre inédit de vétérans qui se sont lancés dans la course politique lors de ces élections de mi-mandat.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/31/midterms-2026-comment-les-democrates-ont-delaisse-le-wokisme-dans-la-campagne_6803376_3210.html",
-          "date": "2026-10-31"
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-l-ex-amirale-nancy-lacore-victime-des-purges-de-l-administration-trump-a-la-tete-du-pentagone-elue-surprise-en-caroline-du-sud_6807934_3210.html",
+          "date": "2026-11-07"
         },
         {
-          "title": "COP biodiversité : à Erevan, en Arménie, près de 200 Etats s’accordent sur des textes-clés mais à l’ambition affaiblie",
-          "summary": "Après deux semaines de difficiles débats, les participants à la COP17 ont adopté une cinquantaine de textes essentiels pour poursuivre la lutte contre la destruction du vivant. La quête de consensus entre pays a toutefois contraint à édulcorer une partie des…",
+          "title": "Après huit mois de guerre au Moyen-Orient, la mue forcée des pays du Golfe producteurs de pétrole et de gaz",
+          "summary": "Pour conserver leur rôle pivot sur les marchés de l’énergie, le Qatar, l’Arabie saoudite et les Emirats arabes unis doivent repenser leurs stratégies commerciales et logistiques.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/10/31/cop-biodiversite-a-erevan-en-armenie-pres-de-200-etats-s-accordent-sur-des-textes-cles-mais-a-l-ambition-affaiblie_6803471_3244.html",
-          "date": "2026-10-31"
+          "url": "https://www.lemonde.fr/economie/article/2026/11/07/apres-huit-mois-de-guerre-au-moyen-orient-la-mue-forcee-des-pays-du-golfe-producteurs-de-petrole-et-de-gaz_6808252_3234.html",
+          "date": "2026-11-07"
         },
         {
-          "title": "L’Italie, théâtre de la convergence des luttes lors d’une journée de manifestations très suivies",
-          "summary": "Une grève générale a eu lieu vendredi 30 octobre, à l’appel de l’Union syndicale de base pour en particulier dénoncer le coût de la vie et les problèmes de logement.",
+          "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
+          "summary": "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande. Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains…",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/31/l-italie-theatre-de-la-convergence-des-luttes-lors-d-une-journee-de-manifestations-tres-suivies_6803484_3210.html",
-          "date": "2026-10-31"
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
+          "date": "2026-11-07"
         }
       ]
     },
@@ -423,60 +423,32 @@
       "label": "Science",
       "items": [
         {
-          "title": "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03553-7 Nature staff discuss the emerging field of pet longevity — plus, a researcher decides not to care about their student reviews. Are they wrong?",
-          "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-03553-7",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "Author Correction: Rh<sup>3+</sup> stabilized in KRh@MFI catalyses regioselective hydroformylation",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/s41586-026-11337-2 Author Correction: Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
-          "source": "Nature News",
-          "url": "https://www.nature.com/articles/s41586-026-11337-2",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03543-9 Researchers say his portrayal of the Star Trek character represented curiosity, thoughtfulness and an effort to understand others.",
-          "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-03543-9",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "Somewhere over the transcontinental burrito tunnel",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03368-6 Pipe dreams.",
-          "source": "Nature News",
-          "url": "https://www.nature.com/articles/d41586-026-03368-6",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-          "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+          "title": "Earth's churning mantle may have created the Great Unconformity",
+          "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
-          "date": "2026-10-30"
+          "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+          "date": "2026-11-06"
         },
         {
-          "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
-          "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
+          "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+          "summary": "Software optimizes a physical model of the telescope to reduce noise.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
-          "date": "2026-10-30"
+          "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+          "date": "2026-11-05"
         },
         {
-          "title": "Turning a solar power system into its own backup",
-          "summary": "Plant design allows it to run on either stored solar heat or combustion.",
+          "title": "Statehouse wins give Democrats new power to push clean energy",
+          "summary": "Democrats erased the GOP’s trifecta edge and gained new power over energy policy.",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-          "date": "2026-10-29"
+          "url": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
+          "date": "2026-11-05"
         },
         {
-          "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-          "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
+          "title": "Uranium cubes reveal why the German nuclear project failed",
+          "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
           "source": "Ars Technica Science",
-          "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-          "date": "2026-10-28"
+          "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+          "date": "2026-11-04"
         }
       ]
     },
@@ -484,60 +456,60 @@
       "label": "Politique",
       "items": [
         {
-          "title": "Mobilisations sociales : Emmanuel Macron et Sébastien Lecornu cherchent des leviers face à la sédimentation des colères",
-          "summary": "A l’aube d’une nouvelle journée de contestation, samedi 31 octobre, l’exécutif redoute une explosion de violence dans l’espace public, alors qu’il ne dispose d’aucune marge de manœuvre pour faire autorité ou même se rendre audible.",
+          "title": "En Guadeloupe, la ministre Naïma Moutchou ne promet rien lors de son déplacement",
+          "summary": "Pour la première fois depuis sa nomination en octobre 2025, la ministre des outre-mer est venue dans l’archipel pour un passage en revue de tous les sujets, mais sans décision majeure à proposer.",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/politique/article/2026/10/31/mobilisations-sociales-macron-et-lecornu-cherchent-des-leviers-face-a-la-sedimentation-des-coleres_6803494_823448.html",
-          "date": "2026-10-31"
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/en-guadeloupe-la-ministre-naima-moutchou-ne-promet-rien-lors-de-son-deplacement_6808267_823448.html",
+          "date": "2026-11-07"
         },
         {
-          "title": "L’Italie, théâtre de la convergence des luttes lors d’une journée de manifestations très suivies",
-          "summary": "Une grève générale a eu lieu vendredi 30 octobre, à l’appel de l’Union syndicale de base pour en particulier dénoncer le coût de la vie et les problèmes de logement.",
+          "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
+          "summary": "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande. Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains…",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/international/article/2026/10/31/l-italie-theatre-de-la-convergence-des-luttes-lors-d-une-journee-de-manifestations-tres-suivies_6803484_3210.html",
-          "date": "2026-10-31"
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
+          "date": "2026-11-07"
         },
         {
-          "title": "Derrière la coordination nationale des « gilets jaunes », des militants aguerris qui cherchent à fédérer les colères",
-          "summary": "Profitant des mobilisations d’octobre, la coordination nationale des « gilets jaunes » tente de structurer la contestation. Mais la place prise par certains porte-parole, ancrés à gauche, interroge les figures historiques d’un mouvement né sans leader et sans…",
+          "title": "Le maire RN d’Hayange, le vice-consul de Russie et l’hommage aux soldats de la Grande Guerre",
+          "summary": "Dans une scène devenue inhabituelle, un diplomate russe et l’édile de la ville de Moselle, ont rendu hommage ensemble, samedi 31 octobre, aux soldats russes morts durant la première guerre mondiale. La cérémonie n’embarrasse pas Fabien Engelmann, qui renvoie…",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/31/derriere-la-coordination-nationale-des-gilets-jaunes-des-militants-aguerris-qui-cherchent-a-federer-les-coleres_6803466_3224.html",
-          "date": "2026-10-31"
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/le-maire-rn-d-hayange-le-vice-consul-de-russie-et-l-hommage-aux-soldats-de-la-grande-guerre_6808259_823448.html",
+          "date": "2026-11-07"
         },
         {
-          "title": "En Guyane, une sécheresse record complique l’accès à l’eau potable",
-          "summary": "Décuplée par l’intensité du phénomène El Niño et le changement climatique, la sécheresse qui sévit actuellement dans le territoire amazonien exacerbe les difficultés chroniques d’accès à l’eau potable des Guyanais, notamment ceux vivant dans l’intérieur…",
+          "title": "EN DIRECT, manifestations du 7 novembre : des rassemblements autorisés, d’autres non... Suivez ce nouveau samedi de mobilisation",
+          "summary": "Plusieurs rassemblements – dont certains interdits – sont prévus en France, notamment à Paris en début d’après-midi. L’intersyndicale de la jeunesse (Union étudiante, FAGE, UNEF et USL) et des unions syndicales régionales (CGT, FO, FSU, Solidaires, CFDT) y…",
           "source": "Le Monde Politique",
-          "url": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html",
-          "date": "2026-10-31"
+          "url": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-mobilisations-du-7-novembre-suivez-le-quatrieme-samedi-de-manifestations_6808254_3224.html",
+          "date": "2026-11-07"
         },
         {
-          "title": "« C’est grotesque ! » : Aurore Bergé contre-attaque après les accusations de LFI",
-          "summary": "Depuis une semaine, sur les plateaux télé comme à l’Assemblée, LFI accuse Aurore Bergé d’avoir contribué à banaliser le racisme. Mise en cause après l’attentat de Trappes, la ministre se défend auprès du « Point » et reçoit le soutien de son camp.",
+          "title": "Sacha Houlié : « Raphaël Glucksmann montre que la gauche n’appartient pas à Jean-Luc Mélenchon »",
+          "summary": "ENTRETIEN. Le député Place Publique fustige le « chahut très organisé » qui a visé Raphaël Glucksmann jeudi. Et veut croire que son candidat peut rassembler des électeurs déçus de Jean-Luc Mélenchon comme d’Emmanuel Macron. Mission impossible ?",
           "source": "Le Point Politique",
-          "url": "https://www.lepoint.fr/politique/cest-grotesque-aurore-berge-contre-attaque-apres-les-accusations-de-lfi-D5YFJSUQWFG5ZOX7ZKY7V53LG4/",
-          "date": "2026-10-31"
+          "url": "https://www.lepoint.fr/politique/sacha-houlie-raphael-glucksmann-montre-que-la-gauche-nappartient-pas-a-jean-luc-melenchon-TLTEQOE7XVHLRJGY2Y4BKYSYLY/",
+          "date": "2026-11-07"
         },
         {
-          "title": "Comment la Corse est devenue une terre de conquête du RN",
-          "summary": "Longtemps marginalisé sur une île où la question identitaire était l’apanage du courant autonomiste, le RN a fait de la Corse l’un de ses principaux bastions présidentiels et rêve de ravir la citadelle nationaliste.",
+          "title": "Présidentielle 2027 : et si on supprimait une semaine de vacances scolaires ?",
+          "summary": "CHRONIQUE. Comment sortir d’un casse-tête constitutionnel qui divise les politiques et reste sans solution ? On se permet ici de proposer une porte de sortie inventive, pour le bien commun.",
           "source": "Le Point Politique",
-          "url": "https://www.lepoint.fr/politique/comment-la-corse-est-devenue-une-terre-de-conquete-du-rn-77HL7QGWEFEGZP2H2MOTO56FIE/",
-          "date": "2026-10-31"
+          "url": "https://www.lepoint.fr/politique/presidentielle-2027-et-si-on-supprimait-une-semaine-de-vacances-scolaires-EMCJSDPDJBENPMXTOC2K5CXHJM/",
+          "date": "2026-11-07"
         },
         {
-          "title": "▶️ « On pensait que les macronistes étaient les Mozart de la finance, mais c’étaient des joueurs de djembé. » Tout le Off de la campagne.",
-          "summary": "BRUITS DE CAMPAGNE #2. Au menu de cet épisode du Podcast politique du Point : Lisnard qui plane, Retailleau qui grince, Larcher qui manœuvre.",
+          "title": "« La dernière cigarette du condamné » : comment Gabriel Attal tente d’échapper au naufrage",
+          "summary": "LA PRIMAIRE OU LA MORT (2/3). En perte de vitesse dans les sondages, le candidat Renaissance pousse à l’organisation d’une primaire de la droite et du centre. Quitte à se rapprocher de Bruno Retailleau et à mettre la pression sur Édouard Philippe.",
           "source": "Le Point Politique",
-          "url": "https://www.lepoint.fr/politique/on-pensait-que-les-macronistes-etaient-les-mozart-de-la-finance-mais-cetaient-des-joueurs-de-djembe-KS2OX7QWKVDHZLYOKWYOIW25YY/",
-          "date": "2026-10-31"
+          "url": "https://www.lepoint.fr/politique/la-derniere-cigarette-du-condamne-comment-gabriel-attal-tente-dechapper-au-naufrage-IAIXTTFSGRDSXFSCEDUZKXSHVA/",
+          "date": "2026-11-07"
         },
         {
-          "title": "Autonomie de la Corse : après quatre ans de négociations, pourquoi tout menace de voler en éclats",
-          "summary": "Après le rejet du texte constitutionnel par le Sénat lundi 26 octobre, les nationalistes font monter la tension avec Paris. Ils réclament une consultation populaire pour sortir de l’impasse.",
+          "title": "Retraites, laïcité, Palestine… Les nouveautés et les silences du programme de LFI",
+          "summary": "En actualisant son programme présidentiel, le leader de LFI veut faire de la « Nouvelle France » son nouveau récit politique entre radicalité et stratégie de notabilisation.",
           "source": "Le Point Politique",
-          "url": "https://www.lepoint.fr/politique/autonomie-de-la-corse-apres-quatre-ans-de-negociations-pourquoi-tout-menace-de-voler-en-eclats-XQYYMWM2D5EVHM3RXX5BXW57RU/",
-          "date": "2026-10-30"
+          "url": "https://www.lepoint.fr/politique/retraites-laicite-palestine-les-nouveautes-et-les-silences-du-programme-de-lfi-6VKZEVDSNRESPKNIMMBNWKXD6M/",
+          "date": "2026-11-06"
         }
       ]
     },
@@ -549,11 +521,11 @@
       "label": "Newsletters",
       "items": [
         {
-          "title": "🎃 Halloween : un business monstre",
-          "summary": "• Rénover les lycées grâce à l’épargne du Livret A ? Matignon veut relever le plafond à 30 000€, le ministère de l’Économie s’y oppose.\n• Panne réseau de plus de 48 heures : votre opérateur peut vous rembourser, mais uniquement si vous réclamez vous-même.\n• Acheter une voiture électrique chinoise jusqu’à -40% : importer un modèle d’occasion à plus de 6000 km permet \"d’esquiver\" les surtaxes européennes.",
+          "title": "🍷 Surprise dans les vignes !",
+          "summary": "• 2 ans et demi de retard, mais pile à l’heure : le nouveau TGV d’Alstom a effectué hier son premier trajet commercial entre Paris et Marseille.\n• La Société Générale prévoit de fermer 148 points de vente dès 2027 : 40 agences concernées, soit 8% de son réseau, pas de licenciement prévu.\n• Le Nasdaq 100 a chuté de 6,4% en une séance : sa pire journée depuis 2020, liée en partie aux résultats des élections américaines de mi-mandat.",
           "source": "La Cour des Grands",
-          "url": "https://www.lacourdesgrands.co/p/halloween-un-business-monstre",
-          "date": "2026-10-31"
+          "url": "https://www.lacourdesgrands.co/p/viticulture-le-rebond",
+          "date": "2026-11-07"
         }
       ]
     },
@@ -561,109 +533,109 @@
       "label": "Missions & Demandes de services",
       "items": [
         {
-          "title": "Bot dofus",
-          "summary": "Budget : Moins de 500 € - Catégories : Développement spécifique, Windows, Jeux vidéo, Sécurité, Logiciel Bonjour, Je recherche un développeur expérimenté capable de créer un bot complet pour Dofus Rétro, permettant d’automatiser un maximum d’actions dans le…",
+          "title": "Plateforme E-Learning",
+          "summary": "Budget : 500 € à 1 000 € - Catégories : Développement spécifique, E-learning, Machine Learning, Chatbot, ChatGPT Je veux créer un plateforme e-learning permettant à des lycéens de préparer leurs Baccalauréat avec des enseignants IA humanoïdes Voir ce projet…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492146-bot-dofus",
-          "date": "2026-10-31"
+          "url": "https://www.codeur.com/projects/492515-plateforme-e-learning",
+          "date": "2026-11-07"
         },
         {
-          "title": "Création de site internet",
-          "summary": "Budget : Moins de 500 € - Catégories : Création de site internet, Site clé en main, Développement spécifique, Web design je recherche un developpeur pour me creer un site pour mon entreprise. budget serre. Voir ce projet sur Codeur",
+          "title": "Forfaitsd maintenance annulelle",
+          "summary": "Budget : Moins de 500 € - Catégories : Gestion site web, Site E-commerce, Prestashop, Maintenance, Emailing recherche web master a distance pour forfait maintenance annuelle d un petit site pro sur prestashop : kineprem's.fr sauvegarde du site restauration et…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492141-creation-de-site-internet",
-          "date": "2026-10-31"
+          "url": "https://www.codeur.com/projects/492511-forfaitsd-maintenance-annulelle",
+          "date": "2026-11-07"
         },
         {
-          "title": "Pages sur system io",
-          "summary": "Budget : Moins de 500 € - Catégories : Création de site internet, Système de paiement, Landing page, No code, Web design Je recherche quelqu’un pour me créer deux pages de ventes , deux pages de paiement et deux pages de remerciement. Le tout livré avant le 9…",
+          "title": "Je souhaiterais développer un site web pour mon entreprise de bijoux",
+          "summary": "Budget : 500 € à 1 000 € - Catégories : Création de site internet, Site clé en main, Site E-commerce Je suis créatrice de bijoux et je souhaiterais créer un site web pour les vendre… atteindre un maximum de clientèle. Quelque chose de design, soigné… Voir ce…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492140-pages-sur-system-io",
-          "date": "2026-10-30"
+          "url": "https://www.codeur.com/projects/492501-je-souhaiterais-developper-un-site-web-pour-mon-entreprise-de-bijoux",
+          "date": "2026-11-07"
         },
         {
-          "title": "Développement d'un agent IA pour automatiser le traitement des demande",
-          "summary": "Budget : 1 000 € à 10 000 € - Catégories : Développement spécifique, API, Machine Learning, Chatbot, ChatGPT Bonjour, Nous recherchons un prestataire spécialisé en intelligence artificielle et en automatisation pour concevoir un agent IA destiné à faciliter…",
+          "title": "Immigration d'un site de prestashop vers shopify",
+          "summary": "Budget : Moins de 500 € - Catégories : Migration ou refonte de site, Site E-commerce, Prestashop, API, Shopify Je souhaite immigré un site déjà existant de prestashop vers shopify, sachant que le site prestachop a une API fournisseur qui est déjà intégrée .…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492127-developpement-d-un-agent-ia-pour-automatiser-le-traitement-des-demande",
-          "date": "2026-10-30"
+          "url": "https://www.codeur.com/projects/492508-immigration-d-un-site-de-prestashop-vers-shopify",
+          "date": "2026-11-07"
         },
         {
-          "title": "Création d’un site vitrine pour plomberie",
-          "summary": "Budget : Moins de 500 € - Catégories : Création de site internet, Site clé en main, Référencement, liens, SEO / GEO, Web design Bonjour, Je recherche un freelance pour créer mon site vitrine, avec un bon référencement dès le départ. Ce que je souhaite Un site…",
+          "title": "Création de site vitrines",
+          "summary": "Budget : Moins de 500 € - Catégories : Création de site internet, Site clé en main, CSS, HTML, XML, SEO / GEO, Web design Bonjour, Je lance mon entreprise et cherche un freelance pour créer mon site vitrine de 5 pages (Accueil, Services, Zones, Contact, À…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492132-creation-d-un-site-vitrine-pour-plomberie",
-          "date": "2026-10-30"
+          "url": "https://www.codeur.com/projects/492506-creation-de-site-vitrines",
+          "date": "2026-11-06"
         },
         {
-          "title": "Addoha international language center",
-          "summary": "Budget : 500 € à 1 000 € - Catégories : Création de site internet, CSS, HTML, XML, JavaScript, Front-end, Web design Création du site web d'ADDOHA International Language Center, un centre de langues à Casablanca proposant 7 langues (anglais, espagnol,…",
+          "title": "Petit budget – Mise en place Google Shopping pour boutique e-commerce",
+          "summary": "Budget : Moins de 500 € - Catégories : Site E-commerce, SEM, Web Analytics, Google Ads, Shopify Bonjour, Je suis le gérant de N3D, une entreprise d’impression 3D pour professionnels en France. Je vends sur une boutique Shopify un catalogue de goodies…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492125-addoha-international-language-center",
-          "date": "2026-10-30"
+          "url": "https://www.codeur.com/projects/492492-petit-budget-mise-en-place-google-shopping-pour-boutique-e-commerce",
+          "date": "2026-11-06"
         },
         {
-          "title": "Création site internet couvreur avec référencement seo nouvelle généra",
-          "summary": "Budget : Moins de 500 € - Catégories : Création de site internet, Site clé en main, Référencement, liens, SEO / GEO, Web design Recherche personne qui est capable de créer un site de Couvreur Multi page sur environ une quinzaine de communes avec un seo pour…",
+          "title": "Publier un site de critiques et classement deja coder a 99%",
+          "summary": "Budget : Moins de 500 € - Catégories : Création de site internet, Site clé en main, Développement spécifique, Gestion site web, API Bonjour avec claude jai fais un site de critiques et classement de restaurant, il me manque que a le publier et mettre les api…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492124-creation-site-internet-couvreur-avec-referencement-seo-nouvelle-genera",
-          "date": "2026-10-30"
+          "url": "https://www.codeur.com/projects/492486-publier-un-site-de-critiques-et-classement-deja-coder-a-99",
+          "date": "2026-11-06"
         },
         {
-          "title": "Creation d un ste internet avec e-commerce et integration mondial rela",
-          "summary": "Budget : 500 € à 1 000 € - Catégories : Création de site internet, Site clé en main, Modules et composants, Site E-commerce, Système de paiement je cherche un freelance serieux et pedagogue pour crée un site internet de vente en ligne complet et clé en main…",
+          "title": "Site où pour un service",
+          "summary": "Budget : Moins de 500 € - Catégories : Création de site internet, Site clé en main, Site E-commerce Site pour vendre des services de voyage formation business Voir ce projet sur Codeur",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492122-creation-d-un-ste-internet-avec-e-commerce-et-integration-mondial-rela",
-          "date": "2026-10-30"
+          "url": "https://www.codeur.com/projects/492485-site-ou-pour-un-service",
+          "date": "2026-11-06"
         },
         {
-          "title": "Mon site internet a déjà été crée, je veux en faire une application mo",
-          "summary": "Budget : Moins de 500 € - Catégories : Développement spécifique, Application mobile, Front-end, React Je recherche un développeur orienté application mobile et déploiement. Mon site internet a déjà été livré manque à en faire une application mobile avec react…",
+          "title": "Configuration gtm analytique pour 80 comptes analytiques",
+          "summary": "Budget : 1 000 € à 10 000 € - Catégories : Développement spécifique, Site E-commerce, JavaScript, Web Analytics, Test, recette, qualification Freelance Senior GA4 / GTM Expert – Audit &amp; Implementation Nous recherchons un freelance senior spécialisé en…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492102-mon-site-internet-a-deja-ete-cree-je-veux-en-faire-une-application-mo",
-          "date": "2026-10-29"
+          "url": "https://www.codeur.com/projects/492478-configuration-gtm-analytique-pour-80-comptes-analytiques",
+          "date": "2026-11-06"
         },
         {
-          "title": "Book photo pour club de voile",
-          "summary": "Budget : Moins de 500 € - Catégories : Community management, Photo, Mise en page, Communication je souhaite créer un book photo pour agrémenter mon site internet et mes reseaux sociaux Je suis donc a la recherche d'un photographe pour effectuer des prises…",
+          "title": "Prise de rendez-vous téléphone : restaurants à Lyon et dans le Jura",
+          "summary": "Budget : Moins de 500 € - Catégories : Télémarketing, Prospection commerciale, Marketing, Assistant virtuel, Communication Je lance Nelva : des automatisations simples pour les restaurants (les chiffres de la veille chaque matin sur le téléphone, des rappels…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492095-book-photo-pour-club-de-voile",
-          "date": "2026-10-29"
+          "url": "https://www.codeur.com/projects/492477-prise-de-rendez-vous-telephone-restaurants-a-lyon-et-dans-le-jura",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "Site e-commerce",
+          "summary": "Budget : 500 € à 1 000 € - Catégories : Création de site internet, Site clé en main, Site E-commerce Nous recherchons un freelance afin de créer notre site premium de vente de bijoux Voir ce projet sur Codeur",
+          "source": "Codeur.com",
+          "url": "https://www.codeur.com/projects/492475-site-e-commerce",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "Prise de rendez-vous téléphone : restaurants en Suisse romande",
+          "summary": "Budget : Moins de 500 € - Catégories : Télémarketing, Prospection commerciale, Marketing, Assistant virtuel, Communication Je lance Nelva : des automatisations simples pour les restaurants (les chiffres de la veille chaque matin sur le téléphone, des rappels…",
+          "source": "Codeur.com",
+          "url": "https://www.codeur.com/projects/492476-prise-de-rendez-vous-telephone-restaurants-en-suisse-romande",
+          "date": "2026-11-06"
         },
         {
           "title": "Site e commerce",
-          "summary": "Budget : Moins de 500 € - Catégories : Création de site internet, Site clé en main, Site E-commerce, Système de paiement, Shopify Bonjour, Je recherche un professionnel pour créer entièrement mon site e-commerce Shopify, pour un lancement prévu en janvier…",
+          "summary": "Budget : 500 € à 1 000 € - Catégories : Création de site internet, Site E-commerce Je suis entrepreneur et je souhaite lancer une boutique en ligne spécialisée dans la vente de vêtements et d'accessoires de mode. Pour concrétiser ce projet, je recherche un…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492098-site-e-commerce",
-          "date": "2026-10-29"
+          "url": "https://www.codeur.com/projects/492473-site-e-commerce",
+          "date": "2026-11-06"
         },
         {
-          "title": "Création d'un site vitrine et création d'un logiciel de gestion",
-          "summary": "Budget : 1 000 € à 10 000 € - Catégories : Création de site internet, Développement spécifique, Base de données, CRM, Logiciel j'ai besoin d'un site vitrine pour mieux faire connaitre mon activité et je voudrais un logiciel annexe (lié au site tout de même)…",
+          "title": "Site vitrine pour restaurant avec réservation en ligne",
+          "summary": "Budget : 500 € à 1 000 € - Catégories : Création de site internet, Site clé en main, Développement spécifique, SEO / GEO, Web design Conception et développement d’un site vitrine moderne et responsive pour un restaurant, avec un système de réservation en…",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492094-creation-d-un-site-vitrine-et-creation-d-un-logiciel-de-gestion",
-          "date": "2026-10-29"
+          "url": "https://www.codeur.com/projects/492470-site-vitrine-pour-restaurant-avec-reservation-en-ligne",
+          "date": "2026-11-06"
         },
         {
-          "title": "Recherche site interner",
-          "summary": "Budget : Moins de 500 € - Catégories : Création de site internet, Site clé en main, Site E-commerce, Web design Quelqu’un pour me faire un site internet e commerce Voir ce projet sur Codeur",
+          "title": "Création de boutique Shopify",
+          "summary": "Budget : Moins de 500 € - Catégories : Création de site internet, Site clé en main, Site E-commerce, Shopify, Web design Peux tu me créer une boutique Shopify prête pour faire des ventes avec des produits Voir ce projet sur Codeur",
           "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492087-recherche-site-interner",
-          "date": "2026-10-29"
-        },
-        {
-          "title": "Refonte site web, opti SEO+ renforcement présence sur villes cibles",
-          "summary": "Budget : 1 000 € à 10 000 € - Catégories : Création de site internet, Référencement, liens, Migration ou refonte de site, SEO / GEO, Web design Recherche presta pour : - refonte site web - optimisation SEO/GEO - Renforcement référencement sur communes ciblés…",
-          "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492084-refonte-site-web-opti-seo-renforcement-presence-sur-villes-cibles",
-          "date": "2026-10-29"
-        },
-        {
-          "title": "Bonjour , je suis consultant en IA, je cherche un 'partenaire dev.'",
-          "summary": "Budget : Moins de 500 € - Catégories : Développement spécifique, Full-stack, API, Machine Learning, ChatGPT Bonjour , je me permets de vous contacter, je suis consultant en IA basé en Vendée, j’aurais voulu avoir des informations sur vos prestations. Je serai…",
-          "source": "Codeur.com",
-          "url": "https://www.codeur.com/projects/492078-bonjour-je-suis-consultant-en-ia-je-cherche-un-partenaire-dev",
-          "date": "2026-10-29"
+          "url": "https://www.codeur.com/projects/492471-creation-de-boutique-shopify",
+          "date": "2026-11-06"
         }
       ]
     }
@@ -672,75 +644,71 @@
     {
       "id": "bitcoin",
       "symbol": "BIT",
-      "eur": 69063,
-      "usd": 77347,
-      "change_24h": -0.29
+      "eur": 68113,
+      "usd": 75922,
+      "change_24h": -0.16
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "eur": 2003.16,
-      "usd": 2243.44,
-      "change_24h": 0.09
+      "eur": 2012.4,
+      "usd": 2243.11,
+      "change_24h": 0.13
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "eur": 85.43,
-      "usd": 95.67,
-      "change_24h": -1.14
+      "eur": 80.67,
+      "usd": 89.92,
+      "change_24h": -0.4
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "eur": 1.11,
-      "usd": 1.25,
-      "change_24h": -0.22
+      "eur": 1.051,
+      "usd": 1.17,
+      "change_24h": -2.14
     }
   ],
   "market_indices": [],
   "mentioned_companies": [
     {
-      "name": "Binance",
-      "mentions": 11
-    },
-    {
       "name": "OpenAI",
-      "mentions": 7
-    },
-    {
-      "name": "Anthropic",
-      "mentions": 4
+      "mentions": 9
     },
     {
       "name": "Google",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "name": "Intel",
-      "mentions": 4
+      "name": "Meta",
+      "mentions": 3
     },
     {
       "name": "Microsoft",
       "mentions": 2
     },
     {
-      "name": "Coinbase",
-      "mentions": 2
+      "name": "Nvidia",
+      "mentions": 1
     },
     {
-      "name": "Nvidia",
+      "name": "Anthropic",
+      "mentions": 1
+    },
+    {
+      "name": "Apple",
       "mentions": 1
     }
   ],
   "investissement": {
     "signaux": [
       "'Nvidia' mentionné 1x dans les flux du jour",
-      "'OpenAI' mentionné 7x dans les flux du jour",
-      "'Anthropic' mentionné 4x dans les flux du jour",
-      "'Google' mentionné 4x dans les flux du jour",
-      "'Microsoft' mentionné 2x dans les flux du jour",
-      "'ransomware' mentionné 2x dans les flux du jour"
+      "'OpenAI' mentionné 9x dans les flux du jour",
+      "'Anthropic' mentionné 1x dans les flux du jour",
+      "'Google' mentionné 5x dans les flux du jour",
+      "'Meta' mentionné 3x dans les flux du jour",
+      "'Microsoft' mentionné 2x dans les flux du jour"
     ],
     "framework": "Cadre d'analyse à moyen/long terme : privilégier la diversification sectorielle plutôt que le pari sur un seul acteur IA ; suivre les échéances réglementaires (AI Act, textes nationaux) qui peuvent créer de la volatilité court-terme sur les valeurs tech ; garder une exposition mesurée à l'énergie/matières premières en période de tensions géopolitiques ; le dollar-cost averaging (investissement périodique) reste une approche disciplinée pour lisser la volatilité sur les valeurs IA et semi-conducteurs, historiquement très cycliques.",
     "disclaimer": "Ceci est une synthèse d'information générale et non une recommandation personnalisée. Elle ne remplace pas l'avis d'un conseiller en investissement financier agréé, et ne tient pas compte de votre situation personnelle."
